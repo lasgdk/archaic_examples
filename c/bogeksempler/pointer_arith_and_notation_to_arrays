@@ -1,0 +1,15 @@
+//pointer_arithmetic_and_pointer_notation_to_access_array_elements.c
+
+#include <stdio.h>
+int i[10] = {0,1,2,3,4,5,6,7,8,9}, *p_i, count;
+
+main()
+{
+	p_i = i;
+	printf("\nVærdi\tAdresse\n");
+	for (count=0; count < 10; count++)
+		printf("%d\t%d\n", *p_i++, p_i);
+
+	return 0;
+}
+
