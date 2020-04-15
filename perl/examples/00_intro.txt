@@ -1,0 +1,25 @@
+Perl tutorialic examples
+By Lars Sommer, lasg@lasg.dk, 2005-07-22
+
+This is small examples and code snippets generated while I learned perl.
+You can use it for whatever you want, (eg. look at it!) but if you really
+ want to learn perl, you should get a book on the topic.
+
+"man perl" is a _great_ man page. It tells about alot of other man pages,
+ which actually can be used as fine starter manuals for perl programming.
+
+Random knowledge:
+You should include an interpreter line at top of your perl scripts. Like:
+ "#!/usr/bin/perl", so that you can run your scripts with "./<scriptname.pl>"
+Comments begin with #. #this is a comment, and are not parsed.
+Perl is often used to cgi-programs in www-environments.
+
+Get more info:
+
+man perl
+google perl
+google/buy books on perl
+
+
+You are welcome to write me if you have some kind of comment or question.
+

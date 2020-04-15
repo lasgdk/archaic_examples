@@ -1,0 +1,295 @@
+
+
+[-----------------------------
+[ $ cat 00_intro.txt ]
+
+Perl tutorialic examples
+By Lars Sommer, lasg@lasg.dk, 2005-07-22
+
+This is small examples and code snippets generated while I learned perl.
+You can use it for whatever you want, (eg. look at it!) but if you really
+ want to learn perl, you should get a book on the topic.
+
+"man perl" is a _great_ man page. It tells about alot of other man pages,
+ which actually can be used as fine starter manuals for perl programming.
+
+Random knowledge:
+You should include an interpreter line at top of your perl scripts. Like:
+ "#!/usr/bin/perl", so that you can run your scripts with "./<scriptname.pl>"
+Comments begin with #. #this is a comment, and are not parsed.
+Perl is often used to cgi-programs in www-environments.
+
+Get more info:
+
+man perl
+google perl
+google/buy books on perl
+
+
+You are welcome to write me if you have some kind of comment or question.
+
+
+
+[-----------------------------
+[ $ cat 01_hello.pl ]
+
+#!/usr/bin/perl
+
+#common one
+print "Hello world!\n";
+
+#dot works as concatenation character
+print "Hello"." world"."!\n";
+
+#and so does comma
+print "Hello"," world","!\n";
+
+#standard way to print \(n)
+print "Hello world!\\n";
+
+#with single quotes it print all directly.
+print 'Hello world!\n';
+
+
+[-----------------------------
+[ $ cat 02_math_expr.pl ]
+
+#!/usr/bin/perl
+
+#basic math
+print 2+2 ."\n";
+print 5-3 ."\n";
+print 3*3 ."\n";
+print 12/4 ."\n";
+
+#basic operator precedence
+print 3*2+2 ."\n";
+print 3*(2+2) ."\n";
+
+#some rnd examples
+print 2-4 ."\n";
+print -5+-9 ."\n";
+print 5/2 ."\n";
+print 3/4 ."\n";
+print 4/3 ."\n";
+
+#modulus
+print 5%4 ."\n";
+
+
+[-----------------------------
+[ $ cat 03_vars.pl ]
+
+#!/usr/bin/perl
+
+#scalar vars.
+#begin with $, followed by letter or underscore. following chars may be numbers too.
+#ex. legal vars: $t3st, $_fish
+#ex. illegal: $666, go^½$
+
+$blowpunk = "Hello whorld!\n";
+print $blowpunk;
+print "\$blowpunk is = $blowpunk";
+
+
+[-----------------------------
+[ $ cat 04_booleans.pl ]
+
+#!/usr/bin/perl
+
+$fish = "blowfish";
+
+if ($fish eq "blowfish") {
+	print "Like Puffy!\n";
+}
+
+if (3>1){
+	print "3 is greater than 1\n";
+}
+
+else {
+	print "something is wrong";
+}
+
+
+$i=0;
+while ($i<=5){
+	print "this is line $i\n";
+	$i++;
+}
+
+for ($i=0; $i<=5; $i++){
+	print "for says \$i is $i\n";
+}
+
+foreach ($i=0; $i<=5; $i++){
+	print "foreach says \$i is $i\n";
+}
+
+#as an opposition to if, we have unless, and to while, we have until
+
+
+[-----------------------------
+[ $ cat 05_arrays.pl ]
+
+#!/usr/bin/perl
+
+@myarray=("glyp","glop","two",3);
+
+print $myarray[1]."\n";
+
+foreach (@myarray){
+	print $_."\n";
+}
+
+foreach $copyhere (@myarray){
+	print $copyhere."\n";
+}
+
+
+[-----------------------------
+[ $ cat 06_input.pl ]
+
+#!/usr/bin/perl
+
+$instuff=<STDIN>;
+print $instuff;
+
+#perhaps you want to remove trailing newline...
+
+chomp($instuff=<STDIN>);
+print $instuff;
+
+
+[-----------------------------
+[ $ cat 07_hashes.pl ]
+
+#!/usr/bin/perl
+
+#hashes is arrays with keys as identifiers instead of numbers.
+
+%myhash=("goodkey","somevalue","otherkey","lastvalue");
+print $myhash{"otherkey"}."\n";
+
+#some build in hash-functions:
+
+@keylist=keys %myhash;
+
+foreach (@keylist){
+	print $_."\n";
+}
+
+#same can be done with the function values.
+
+delete $myhash{"goodkey"};
+print $myhash{"goodkey"};
+
+
+[-----------------------------
+[ $ cat 08_subroutines.pl ]
+
+#!/usr/bin/perl
+
+sub subhello{
+	print "Hello World!\n";
+}
+&subhello;
+
+
+#How to parse vars to a function:
+
+$varone="Stuff";
+&greedy($varone,"Morestuff");
+
+sub greedy{
+	print $_[0]."\n".$_[1]."\n";
+}
+
+
+#Use my-word to set var private to a function.
+
+$somevar=5;
+print $somevar;
+&privvar(3);
+print $somevar;
+sub privvar{
+	my $somevar=$_[0];
+}
+
+
+#return value from function
+
+$fromsub=&givesome;
+print $fromsub;
+sub givesome{
+	return "something nice";
+}
+
+
+[-----------------------------
+[ $ cat 09_argv.pl ]
+
+#!/usr/bin/perl
+
+print $ARGV[0];
+print $ARGV[1];
+
+foreach (@ARGV){
+	print $_."\n";
+}
+
+
+[-----------------------------
+[ $ cat 0a_join_split.pl ]
+
+#!/usr/bin/perl
+
+@testarray = ('test1','test2',3);
+print join(' ',@testarray)."\n";
+#test1 test2 3
+print join('-',@testarray)."\n";
+#test1-test2-3
+print join ('.',@testarray[0],@testarray[2])."\n";
+#test1.3
+
+$teststring="Hej ve-rd-en";
+@stringsplitted=split(/ /,$teststring);
+print @stringsplitted[0]."\n";
+#Hej
+
+@stringsplitted2=split(/-/,$teststring);
+print @stringsplitted2[2]."\n";
+#en
+print join('',@stringsplitted2)."\n";
+#Hej verden
+
+
+[-----------------------------
+[ $ cat 0b_getopt.pl ]
+
+#!/usr/bin/perl -w
+
+use warnings;
+use strict;
+use diagnostics;
+
+use Getopt::Std;
+
+getopts(":l:n:t:",\%args);
+
+if (defined $args{l}){
+my	$level=$args{l};
+}
+
+if (defined $args{n}){
+my	$name=$args{n};
+}
+
+if (defined $args{t}){
+my	$time=$args{t};
+}
+
+if (!defined $args{n}){
+	print "Usage: $0 -n <Name> [-t <time> -l <level>]\n";
+	exit;
+}
