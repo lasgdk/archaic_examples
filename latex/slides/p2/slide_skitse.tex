@@ -1,0 +1,85 @@
+\documentclass[pdf]{prosper}
+
+\usepackage[HA]{HA-prosper}
+
+
+% Try also
+%\usepackage[toc,highlight,blackslide,notes,HA,portrait,hlsections]{HA-prosper}
+
+
+% Expected behavior:
+% counters mycounter and mycounteri protected on overlays.
+% custom text for left footer, right footer and slide number layout
+% clicking the logo on title page gives full screen
+% clicking the logo on other pages gives bookmarks list
+% default transition is Wipe
+% default template for parts and tsectionandparts is wideslide
+% stepping environments are of type 2, start on overlay 1
+% inactive color is lightgray
+% also try the sound option to set transition sounds for slides.
+\HAPsetup{
+lf={EE gruppe D315 - Aalborg Universitet 2006},
+rf=Fjernstyring via telenettet,
+sn={-~slide~\theslide ~af~ \totalpages},
+tsnav=FullScreen,
+nsnav=ShowBookmarks,
+trans=Wipe,
+stype=1,
+sstart=1,
+iacolor=lightgray
+}
+
+\title{``Fjernstyring via telenettet''}
+\subtitle{- Elektronik og elektroteknik gruppe D315 -}
+\author{
+Casper Fynsk
+\and
+Casper Mo
+\and
+Helge
+\and
+Lars
+\and
+Laurits
+\and 
+Louise
+\and
+Palle
+}
+
+
+\begin{document}
+
+% =================================================================================
+%Slide 1
+\maketitle
+% =================================================================================
+% =================================================================================
+
+%Her smides de forskellige dokumenter ind! -se skitse nedenfor til hvordan slides'ne bygges op.
+%overskriftsslide
+\tsectionandpart{Overskrift}
+
+%slide med punktopstilling
+\overlays{1}{
+\begin{slide}{Overskrift}
+\begin{itemize}
+\xitem{punkt}
+\end{itemize}
+\end{slide}
+}
+
+%slide med billede
+\overlays{1}{
+\begin{slide}{Overskrift}
+ 
+\rput[lt](1,0){\includegraphics[width=8cm]{billede.eps}}
+ 
+\end{slide}
+}
+
+
+
+
+
+\end{document}
