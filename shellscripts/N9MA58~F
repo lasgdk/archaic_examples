@@ -1,0 +1,215 @@
+#!/bin/sh
+
+#nybruger.sh
+#Script til at oprette nye brugere på LaSG's server
+#Gjort af LaSG
+#Version 0.1 2005-01-07 15:41 - Den kan ikke noget endnu
+#Version 0.2 2005-01-12 23:54 - Den gør stadig intet, men samler alle data
+
+#TODO:
+# - Kontrollere alle data er ok
+# - Udføre selve oprettelsen
+# - Kunne køres med een kommando med parametre
+# hvis parametrene ikke er i korrekt orden, eller nogen indeholder noget vås
+# skal den udskrive en lille vejledning
+
+
+
+#Her skal være en lille velkomst
+
+echo "Tast 1 for almindelig bruger og tast 2 for hjemmesidebruger"
+read -n 1 -s BRUGERTYPE
+
+if [ ! "$BRUGERTYPE" = "1" ] && [ ! "$BRUGERTYPE" = "2" ]; then
+	echo "Du magtede ikke at taste 1 eller 2. Jeg afslutter..."
+	exit 1
+fi
+
+echo "Du opretter brugertype $BRUGERTYPE"
+
+
+#BRUGERNAVNET VÆLGES
+echo "Indtast brugernavn (A-Za-z0-9), maks. 32 char, tilføj IKKE www foran hjemmesidebrugere!:"
+read -n 32 BRUGERNAVN
+
+#KONTROLLER BRUGERNAVNET ER ET GYLDIGT BRUGERNAVN (KUN INDEHOLDER A-Za-z0-9 HER) OG AT BRUGERNAVN IKKE ER TOMT
+
+#HVIS BRUGERTYPE 2, SÅ SÆT WWW FORAN BRUGERNAVNET
+if [ "$BRUGERTYPE" = "2" ]; then
+	BRUGERNAVNUDENWWW=$BRUGERNAVN
+	BRUGERNAVN=www$BRUGERNAVN
+fi
+
+#KONTROLLER OM BRUGERNAVNET ALLEREDE ER BRUGT
+if [ `grep -c "^${BRUGERNAVN}:" /etc/passwd` = "1" ]; then
+	echo "Navnet $BRUGERNAVN bruges allerede, find noget bedre..."
+	exit 1
+fi
+
+echo "Du valgte brugernavnet $BRUGERNAVN"
+
+
+#BESKRIVELSE AF BRUGEREN
+echo "Indtast en beskrivelse for brugeren (A-Za-z0-9_-.), maks 64 char:"
+read -n 64 BRUGERBESKRIVELSE
+
+#KONTROLLER BRUGERBESKRIVELSEN
+
+echo "Du beskriver $BRUGERNAVN som $BRUGERBESKRIVELSE"
+
+
+#SPØRGSMÅL OM FTP-ADGANG FOR BRUGEREN
+echo "Skal $BRUGERNAVN have ftp-adgang? j for ja, alt andet for nej."
+read -n 1 -s FTP_ADGANG
+
+if [ ! "$FTP_ADGANG" = "j" ]; then
+	FTP_ADGANG_IKKE="IKKE "
+fi
+
+echo "Brugeren får ${FTP_ADGANG_IKKE}ftp-adgang!"
+
+
+#SPØRGSMÅL OM RESOURCEBEGRÆNSNING FOR BRUGEREN
+echo "Skal jeg UNDLADE at oprette resourcebegrænsning for brugeren? j for ja"
+read -n 1 RESOURCEBEGRAENSNING
+
+if [ "$RESOURCEBEGRAENSNING" = "j" ]; then
+	RESOURCEBEGRAENSNING_IKKE="IKKE "
+fi
+
+echo "Jeg opretter ${RESOURCEBEGRAENSNING_IKKE}resourcebegrænsning for brugeren!"
+
+
+#SPØRGSMÅL OM DISKPLADSBEGRÆNSNING
+echo "Hvis brugerens diskpladsbegrænsning skal være andet end 100mb, så indtast andet tal."
+echo "Hvis 100mb er fint, tast enter" 
+echo "Hvis brugeren må bruge uendeligt meget, tast 0"
+read -n 7 DISKPLADSBEGRAENSNING
+
+#KONTROLLER OM DET ER ET TAL, OG OM DET ER RIMELIGT
+
+if [ "$DISKPLADSBEGRAENSNING" = "0" ]; then
+	DISKPLADSBEGRAENSNING="UENDELIGT MANGE "
+fi
+
+echo "Brugeren må bruge ${DISKPLADSBEGRAENSNING}mb diskplads..." 
+echo
+
+#BRUGERENS ADGANGSKODE
+echo "Indtast brugerens adgangskode (den vises ikke)"
+read -s -n 128 ADGANGSKODE
+echo "Gentag den lige tak"
+read -s -n 128 ADGANGSKODEKONTROL
+
+if [ ! "$ADGANGSKODE" = "$ADGANGSKODEKONTROL" ]; then
+	echo "Du fatter åbenbart ikke at gentage dig selv. Jeg afslutter..."
+	exit 1
+fi
+
+#NU KOMMER BRUGERTYPESPECIFIKKE TING
+
+#SPØRGSMÅL OM SHELL
+if [ "$BRUGERTYPE" = "1" ]; then
+	echo "Skriv stien til brugerens shell"
+	echo "Jeg udskriver nu /etc/shells for dig"
+	echo ""
+	cat /etc/shells
+	echo
+	echo "Hvis du bare trykker enter nu, vælges /bin/sh"
+	read -n 64 SKAL
+	if [ ! "$SKAL" ]; then
+		SKAL="/bin/sh"
+	fi
+	if [ `grep -c $SKAL /etc/shells` = 0 ]; then
+		echo "Ja du skulle enten trykke enter, eller skrive en af skallerne i /etc/shells. Jeg afslutter..."
+		exit 1
+	fi 
+
+#Hvis brugertypen ikke er 1, er den 2, og hjemmesidebrugeres skal er falsk
+else
+	SKAL="/bin/false"
+
+fi
+
+#TO SPØRGSMÅL TIL HJEMMESIDEBRUGERE
+
+if [ "$BRUGERTYPE" = "2" ]; then
+	#SKAL BRUGEREN HAVE MYSQL-DATABASE
+	echo "Jeg kan oprette MySQL-database for brugeren."
+	echo "Databasenavnet og brugernavnet bliver $BRUGERNAVN"
+	echo "Adgangskoden bliver den du allerede har valgt for brugeren."
+	echo "Tryk j hvis du vil have dette. Vilkårligt andet hvis du ikke vil"
+	read -n 1 MYSQL
+	if [ "$MYSQL" = "j" ]; then
+		echo "Jeg opretter MySQL-database for brugeren :)"
+	else
+		echo "Jeg opretter IKKE MySQL-databasen!"
+	fi
+
+	#BRUGERENS DOMÆNER / SUBDOMÆNER
+
+	echo "(Sub)domæneoprettelse til httpd.conf"
+	echo
+	echo "Tast 1 hvis brugeren skal have subdomæne på lasg.dk"
+	echo "Tast 2 hvis brugeren skal have eget domæne"
+	echo "Tast vilkårligt andet for ikke at oprette virtuelt domæne for brugeren"
+	read -n 1 DOMAENETYPE
+	
+	#ISTEDET FOR IF ELSEIF FI SKAL DU LAVE EN SMUK LILLE CASE!!!
+
+	if [ "$DOMAENETYPE" = "1" ]; then
+		echo "Brugeren skal have subdomæne(r) til lasg.dk"
+		echo "Brugeren får automatisk ${BRUGERNAVNUDENWWW}.lasg.dk" 
+		echo "og www.${BRUGERNAVNUDENWWW}.lasg.dk"
+		echo "Hvis der skal oprettes flere, skriv dem nu, adskilt med komma"
+		echo "F.eks. humle,bumle,baske"
+		echo "Hvis ikke, tast blot enter"
+		read -n 128 SUBDOMAENER
+	#KONTROLLER INDHOLD AF SUBDOMAENER (A-Za-z0-9_-)
+	else if [ "$DOMAENETYPE" = "2" ]; then
+		echo "Brugeren skal have eget domæne."
+		echo "Skriv domænenavnet nu, uden www. foran self."
+		read -n 128 DOMAENENAVN
+	
+	#KONTROLLER INDHOLD AF DOMÆNENAVNET
+	#DE TO OVENSTÅENDE KONTROLLER KAN LIGESÅ GODT SKE SAMTIDIG HERNEDE	
+		else
+			echo "Der bliver ikke oprettet (sub)domæne(r) for brugeren"
+		fi
+	fi
+fi
+
+#VI SÆTTER NOGLE SKELETBIBLIOTEKER
+#HUSK AT OPRET DISSE!!!
+
+if [ "$BRUGERTYPE" = "1" ]; then
+	if [ "$SKAL" = "/bin/false" ]; then
+		echo "Skeletbiblioteket sættes til den tomme /etc/skel_empty,"
+		echo " da skallen er sat til falsk"
+		SKELETDIR="/etc/skel_empty"
+	else
+		echo "Skeletbiblioteket sættes til standard /etc/skel"
+		SKELETDIR="/etc/skel"
+	fi
+else
+	echo "Skeletbiblioteket sættes til /etc/skel_www"
+	SKELETDIR="/etc/skel_www"
+fi
+
+
+#HER HØRER VI LIGE AD OM ALT ER OK
+echo
+echo "Du får lige en liste over al det data du har givet mig"
+echo -n "Brugertype: " 
+if [ "$BRUGERTYPE" = "1" ]; then 
+	echo "Almindelig bruger" 
+else 
+	echo "Hjemmesidebruger"
+fi
+echo "Brugernavnet er $BRUGERNAVN"
+echo "Brugerbeskrivelsen lyder: $BRUGERBESKRIVELSE"
+echo "Brugeren får ${FTP_ADGANG_IKKE}ftp-adgang!"
+echo "Jeg opretter ${RESOURCEBEGRAENSNING_IKKE}resourcebegrænsning for brugeren!"
+echo "Brugeren må bruge ${DISKPLADSBEGRAENSNING}mb diskplads..."
+echo "Brugerens skal er sat til $SKAL"
+

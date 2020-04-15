@@ -1,0 +1,51 @@
+#!/bin/sh
+
+PRIVPATH=/home/buf/.priv
+GBDEDEV=ad0s2f
+
+on () {
+	sync &&
+
+	sudo mount -t msdos /dev/da0s1 /mnt/usbdisk &&
+		echo "+OK Mounting usb-key" &&
+	sudo gbde attach ${GBDEDEV} -l /mnt/usbdisk/.priv/gbde_privkey_deadbabe.key &&
+		echo "+OK Attaching crypto lock" &&
+	sudo umount /mnt/usbdisk &&
+		echo "+OK Unmounting usb-key" &&
+	sudo mount /dev/${GBDEDEV}.bde $PRIVPATH &&
+		echo "+OK Mounting crypto device" &&
+	echo "-------------------------------" &&
+	echo "+OK ALL DONE. DEVICE STARTED UP" &&
+	echo "" 
+}
+
+off () {
+	sync &&
+	sync &&
+
+	sudo umount $PRIVPATH &&
+		echo "+OK Unmounting crypto device" &&
+	sudo gbde detach ${GBDEDEV} &&
+		echo "+OK Detaching crypto device" &&
+	echo "------------------------------"
+	echo "+OK ALL DONE. DEVICE SHUT DOWN"
+	echo ""
+}
+
+usage () {
+	echo "Give either on or off as arguement."
+	exit 1
+}
+
+case "$1" in
+	'on')
+		on
+	;;
+	'off')
+		off
+	;;
+	*)
+		usage
+	;;
+esac
+

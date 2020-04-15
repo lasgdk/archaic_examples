@@ -1,0 +1,39 @@
+#!/bin/sh
+
+#portsinstaller by lasg
+
+#Broken somewhere... fix it please!
+
+
+echo;
+if [ ! -e "/usr/ports" ]; then
+	echo "Du har ikke ports installeret i /usr/ports!";
+	echo "Se http://openbsd.org/faq/faq8.html#Ports hvordan du gør."
+else
+	if [ ! -e searchports ]; then
+		echo "Programmet searchports er nødvendigt for at bruge dette program!"
+	else	
+		if [ ! "$1" ]; then
+			echo "Du skal skrive det eksakte navn på den port du vil installere"	
+		else
+			if [ "$2" ]; then
+				echo "Du skal kun skrive én port, og dens eksakte navn, ingen mellemrum."
+			else
+				ANTAL=`searchports $1 | grep \"Path:\" | sed s/Path:[[:blank:]]// |wc -l`	
+				if [ "$ANTAL" = "0" ]; then
+					echo "Der blev ikke fundet nogen port med navnet $1.";
+					echo "Prøv at find navnet med værktøjet searchports"
+				else 
+					if [ ! "$ANTAL" = "1" ]; then
+						echo "Der blev fundet $ANTAL ports indeholdende navnet $1.";
+						echo "Du må være mere præcis med navnet. Brug evt. searchports til at finde det eksakte navn." 
+					else
+						cd /usr/ports/`searchports $1 | grep "Path:" | sed s/Path:[[:blank:]]//`;
+						sudo make install
+					fi
+				fi
+			fi
+		fi
+	fi
+fi
+

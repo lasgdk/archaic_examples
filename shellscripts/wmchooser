@@ -1,0 +1,13 @@
+#!/bin/sh
+#Lars Sommer, lasg@lasg.dk
+
+VALG=`xmessage -print -center -buttons twm,fluxbox -default twm "Choose WM"`
+
+case $VALG in
+	("fluxbox")
+		exec fluxbox
+		;;
+	(*)
+		exec twm
+		;;
+esac

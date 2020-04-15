@@ -1,0 +1,35 @@
+#!/bin/sh
+
+case $1 in
+	(ct)
+		BOX=80.163.29.234
+	;;
+	(heilspen)
+		BOX=62.79.41.46
+	;;
+	(metoer)
+		BOX="dimset.dk -p 25852"
+	;;
+	(bwana)
+		BOX=83.73.131.234
+	;;
+	(tjener)
+		BOX=192.168.1.1
+	;;
+	(*)
+		BOX=fejl
+	;;
+esac
+
+if [  "$BOX" != "fejl" ]; then
+	if [ "$2" = "ftp" ]; then
+		echo "SFTP-forbinder til $1, altså $BOX..."
+		sftp $BOX
+	else
+		echo "SSH-forbinder til $1, altså $BOX..."
+		ssh $BOX
+	fi
+else
+	echo "Den box kender jeg ikke. Prøv med ct, heilspen, metoer, bwana eller tjener"
+fi
+	

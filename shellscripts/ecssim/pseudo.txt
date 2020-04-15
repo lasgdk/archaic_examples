@@ -1,0 +1,98 @@
+Tanker til pseudokode til primære elevatoralgoritmer.
+
+Først oprettes en datastruktur til køer. Denne indeholder unikt bruger-ID, nuværende placering og ønsket destination. Der laves en kø til folk udenfor elevatoren, der anmoder om at blive samlet op, en kø til folk indeni, der venter på at blive sat af, samt en buffer.
+
+Der oprettes en række heltalvariable, med aktuel etage og aktuel destination, samt en række boolske flag, med aktuel retning, et flag for at skulle stoppe på næste etage, og et flag for at indikere nye brugere i elevatoren.
+
+En uendelig løkke sættes igang, hvor der i første omgang søges efter den bruger med laveste ID, der står i anmodningskøen. Hvis brugeren står på samme etage som elevatoren, skal brugeren samles op, og aktuelle destination skal sættes til brugerens ønske. Hvis brugeren ikke står på samme etage, skal aktuel destination sættes til brugerens nuværende etage.
+
+Herefter startes en ny løkke, hvis nuværende etage er forskellig fra aktuel destination. 
+I denne løkke kører selve elevatoren.
+Først kontrolleres om der skal ske noget på næste etage elevatoren kommer til. Det er for den kan nå at sænke farten helt, i løbet af en etages tid. Der ses om der er brugere i anmodningskøen der står på næste etage, eller om der er brugere i kørselskøen, der vil af på næste etage. Hvis nogen af tilfældende er sande, sættes flaget der beder stoppe på næste etage.
+
+Så flyttes elevatoren: Hvis flaget med aktuel retning er sat til 1, lægges 1 til aktuel etage, hvis ikke, trækkes 1 fra. (Elevatoren kører en etage op eller ned).
+
+Hvis flaget der beder om stop er sat, stopper elevatoren og lader brugerne i anmodningskøen komme ind, og brugerne i kørselskøen komme ud. Hvis nogen nye kommer ind, sættes flaget med at nye brugere er inde.
+
+Hvis flaget med nye brugere er sat, ses der om de nye brugere har en højere destination end den nuværende aktuelle. Hvis de har det, sættes den højeste destination til ny aktuel destination.
+
+Herefter kører løkken tilbage, og ser om nuværende etage er forskellig fra aktuel destination.
+
+Når det ikke længere er tilfældet, er elevatoren tom, og den går tilbage i forrige løkke, der ser anmodningskøen igennem for laveste ID.
+
+------
+
+
+struct queue {
+	int id;
+	int source;
+	int destination;
+	int time;
+}
+queue queue_req[MAX_REQUESTS], queue_run[MAX_RUN], buf_entry, log_completed[MAX_LOG];
+
+int actual_level=1;
+int actual_destination=1;
+bool actual_direction=1;
+bool stop_at_next=0;
+bool nye_brugere_inde=0;
+
+Kald funktion der nulstiller køerne;
+
+while true{
+
+	buf_entry = find linjen i queue_req med laveste queue_req.id
+
+	//Hvis brugeren står på samme etage som elevatoren:
+	if (actual_level == buf_entry.source){
+		flyt linje fra queue_req, hvor if'en er opfyldt, til queue_run
+		actual_destination = queue_run
+		sæt actual_destination til højeste queue_run.destination
+	}
+	else {
+		#sæt brugerens level som mål
+		actual_destination = buf_queue.source;
+	}
+		
+	//Så kører elevatoren:	
+	while (actual_destination != actual_level){
+
+		//Når ny etage nåes, skal der tjekkes hvad der skal ske, på næste etage, så der kan nå at stoppes.
+		//Tjek om en bruger skal af
+		if queue_run.dest == actual_level+1
+			stop_at_next=1;
+			printf("Sænker hastigheden for at stoppe på næste etage, hvor nogen skal af.");
+		//Tjek om brugere skal på, og samme vej
+		if (queue_req.dest == actual_level+1) AND (samme queue_req.direction = actual_direction)
+			stop_at_next=1;
+			printf("Sænker hastigheden for at stoppe på næste etage hvor nogen skal på");
+		//de to ovenstående if'er kan slåes sammen til een der OR'es
+
+		//Så flyttes elevatoren
+		if (direction==1)
+			actual_level++;
+		else
+			actual_level--;
+
+		if ( stop_at_next == 1){
+			printf("Stopper her på etage %d");
+			//Tjek om nogen skal af
+			if (queue_run.dest == actual_level)
+				flyt linje fra queue_run, hvor if'en er opfyldt, til log_completed
+			//Tjek om nogen skal på, og i samme retning
+			if (queue_req.dest == actual_level+1) AND (samme queue_req.direction = actual_direction)
+				flyt linje fra queue_req, hvor if'en er opfyldt, til queue_run
+				nye_brugere_inde = 1
+			stop_at_next=0;
+		}
+
+		if (nye_brugere_inde == 1)
+			if direction == 1
+				sæt actual_destination til højeste queue_run.destination
+			else
+				sæt actual_destination til laveste queue_run.destination
+	}
+}
+
+
+

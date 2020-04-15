@@ -1,0 +1,25 @@
+#!/bin/sh
+
+#2005-01 Lars Sommer
+#Finder mit Canon PowerShot A400-kamera
+#Opretter en mappe til billeder
+#Henter alle billeder fra kameraet til mappen
+
+ERKAMERAET=`gphoto2 --auto-detect|grep -c USB`; 
+if [ "$ERKAMERAET" = "1" ]; then
+	gphoto2 --auto-detect &&
+	echo "Kamera er fundet" &&
+	MAPPENAVNSTART=`date +%Y-%m-%d_%H%M%S` &&
+	cd $HOME &&
+	MAPPENAVN="$MAPPENAVNSTART"_nedhentede_billeder &&
+	mkdir "$MAPPENAVN" &&
+	cd "$MAPPENAVN" &&
+	echo "Bruger sudo for at nedhente billederne"
+	sudo gphoto2 -P &&
+	echo "Nedhenter billeder fra kameraet...." &&
+	sudo chown lasg.users * &&
+	cd .. &&
+	echo "Billeder nedhentet til" $MAPPENAVN 
+else
+	echo "Jeg kan ikke finde kameraet!";
+fi

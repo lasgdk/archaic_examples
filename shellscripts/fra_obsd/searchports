@@ -1,0 +1,29 @@
+#!/bin/sh
+
+#portsearch by lasg
+#Simpelt script til at lette søgningen i ports, når man altid glemmer syntaksen, som jeg gør...
+
+if [ ! -e "/usr/ports/" ]; then
+	echo; echo "Ports findes ikke i /usr/ports på dit system!"; echo "Du skal hente og udpakke ports først."; echo "Se http://openbsd.org/faq/faq8.html#Ports hvordan du gør."; echo
+
+else
+	if [ ! "$1" ]; then
+		echo; echo "Du skal skrive ét søgeord efter kommandonavnet."; echo
+	else
+		if [ "$2" ]; then
+			echo; echo "Kun dit første søgeord bliver brugt.."; echo
+		fi
+
+		NUDIR=`pwd`
+		cd /usr/ports/ 
+		KOMMANDO="make search key=\"$1\""  
+		OUTPUT=`$KOMMANDO`
+
+		if [ ! "$OUTPUT" ]; then
+			echo; echo "Ingen ports indeholdende søgeordet $1 blev fundet"; echo
+		else
+			$KOMMANDO|more
+		fi
+		cd $NUDIR
+	fi
+fi

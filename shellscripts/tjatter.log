@@ -1,0 +1,26 @@
+10:01:03 --- buf STARTER SIN TJATTER.SH --- 
+10:01:10 buf:        hej
+10:01:14 --- buf STARTER SIN TJATTER.SH --- 
+10:01:18 buf:        hej hej
+10:01:23 buf:        hum hum
+10:01:31 buf:        /exit
+10:01:31 --- buf STOPPER SIN TJATTER.SH --- 
+10:01:42 buf:        /exit
+10:01:42 --- buf STOPPER SIN TJATTER.SH --- 
+10:02:05 --- buf STARTER SIN TJATTER.SH --- 
+10:02:59 buf:        /exit
+10:02:59 --- buf STOPPER SIN TJATTER.SH --- 
+10:03:00 --- buf STARTER SIN TJATTER.SH --- 
+10:03:03 buf:        hej
+10:03:05 buf:        hej hekj
+10:03:10 --- buf STARTER SIN TJATTER.SH --- 
+10:03:13 buf:        hej
+10:03:16 buf:        hmm
+10:03:19 buf:        hm
+10:03:20 buf:        hm
+10:03:24 buf:        /exit
+10:03:24 --- buf STOPPER SIN TJATTER.SH --- 
+10:04:43 buf:        
+10:04:44 buf:        
+10:04:54 buf:        /exit
+10:04:54 --- buf STOPPER SIN TJATTER.SH --- 

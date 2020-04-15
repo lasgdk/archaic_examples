@@ -1,0 +1,54 @@
+#!/bin/sh
+
+#apt-get install, apt-get remove, apt-cache search shortcut
+#made because I usually use these cmds.
+#dont tell me the $2...$9-way sucks. I know. Hmm, perhaps $@ could work.
+
+if [ ! "$1" ]; then
+	echo ""
+	echo "Usage: apt [i|r|s] name1[....name8]"
+	echo "i for install, r for remove, s for search."
+	echo "give between 1 and 8 program/package names"
+	echo ""
+	exit 1
+fi
+
+if [ ! "$2" ]; then
+	echo "Give some program names as parameters.. Between 1 and 8"
+	exit 1
+fi
+
+case $1 in
+	(s)
+		apt-cache search $2 $3 $4 $5 $6 $7 $8 $9  |less &&
+		echo ""
+		echo "APT says: search done.."
+		echo ""
+	;;
+	(i)
+		sudo apt-get install $2 $3 $4 $5 $6 $7 $8 $9 &&
+		echo ""
+		echo "APT says: If pkg existed, it should be installed by now."
+		echo ""
+	;;
+	(r)
+		echo ""
+		echo "Really want to uninstall and DELETE these: "
+		echo $2 $3 $4 $5 $6 $7 $8 $9
+		echo "y/N"
+		read sure
+		if [ ! "$sure" = "y" ]; then
+			echo "You didnt say y. Nothing will happen. Goodbye."
+			exit 0
+		fi
+		sudo apt-get remove $2 $3 $4 $5 $6 $7 $8 $9 &&
+		echo ""
+		echo "APT says: The programs should be removed. Have a nifty day.."
+		echo ""
+	;;
+	(*)
+		echo ""
+		echo "APT says: Go give me a i for install, r for remove or s for search."
+		echo ""
+	;;
+esac

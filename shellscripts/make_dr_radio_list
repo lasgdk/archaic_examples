@@ -1,0 +1,41 @@
+#!/bin/sh
+
+# Hent URL'er til DR netradio, og gem dem i en fil velegnet som alias-fil
+# Giver en masse aliaser på en form ala dr_p3, dr_barometer osv
+# Kraever: wget, mplayer
+
+# Copyright Lars Sommer, lasg@lasg.dk, 2007-10-08, BEERWARE
+# Du maa goere med denne kode hvad du vil, men lad min copyright-meddelelse staa
+#  og giv mig en oel, hvis du kan lide funktionen. 
+
+wget "http://www.dr.dk/netradio/wmp.asp" &&
+grep -o '"http.*128.asx' wmp.asp | grep -o 'ht.*32.asx' > asx_files &&
+
+ASX_FILES=`cat asx_files`
+for ACTUAL in $ASX_FILES;do
+	wget $ACTUAL 
+done
+
+grep -o 'Ref.*scr1.*[0-9]m' dr_* > tmp_wmsrc_list &&
+rm -f dr_* asx_files wmp.asp &&
+
+#Do aliases for csh/tcsh
+sed s/^/"alias "/ tmp_wmsrc_list | sed s/'_32.asx:Ref href="'/" \'echo Delivered by script from Lars Sommer, lasg@lasg.dk, BEERWARE \&\& mplayer "/ | sed s/\$/"'"/ | sed s/http/mms/ > csh.dr.aliases &&
+#And with proxy
+sed s/^/"alias "/ tmp_wmsrc_list | sed s/'_32.asx:Ref href="'/"_proxy 'echo Delivered by script from Lars Sommer, lasg@lasg.dk, BEERWARE \&\& mplayer http_proxy:\/\/wwwproxy.kom.aau.dk:3128\/"/ | sed s/\$/"'"/ >> csh.dr.aliases &&
+
+#Do aliases for bash/ksh
+sed s/^/"alias "/ tmp_wmsrc_list | sed s/'_32.asx:Ref href="'/"=\'echo Delivered by script from Lars Sommer, lasg@lasg.dk, BEERWARE \&\& mplayer "/ | sed s/\$/"'"/ | sed s/http/mms/ > sh.dr.aliases &&
+#And with proxy
+sed s/^/"alias "/ tmp_wmsrc_list | sed s/'_32.asx:Ref href="'/"_proxy='echo Delivered by script from Lars Sommer, lasg@lasg.dk, BEERWARE \&\& mplayer http_proxy:\/\/wwwproxy.kom.aau.dk:3128\/"/ | sed s/\$/"'"/ >> sh.dr.aliases &&
+
+rm tmp_wmsrc_list &&
+mv csh.dr.aliases ~/.csh.dr.aliases &&
+mv sh.dr.aliases ~/.sh.dr.aliases &&
+
+echo ""
+echo ""
+echo "LAES DETTE HER!!!:"
+echo "Tilfoej en linje lignende denne, til din shells startfil, f.eks. .bashrc:"
+echo " source .sh.dr.aliases"
+
