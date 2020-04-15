@@ -1,0 +1,8 @@
+eksempeloutput 
+
+> ./hexprint
+hej
+68 65 6A 0A HeXcodez
+48 65 58 63 6F 64 65 7A 0A yay
+79 61 79 0A :)
+3A 29 0A ^D
