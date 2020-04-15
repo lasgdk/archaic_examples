@@ -1,0 +1,343 @@
+
+
+[-----------------------------
+[ $ cat 00_python_readme.txt ]
+
+Python
+
+Misc. examples by Lars Sommer, lasg@lasg.dk, 2005-03-29
+
+Python is an interpreted object oriented programming language.
+I like perl much more than python, but I think I should know a little about
+ it anyway.
+This is some very basic examples, but you should get yourself a good python book
+ if you really want to learn something. These can perhaps just give you an
+ idea about what python is like.
+
+Random useful knowledge;
+If your system does not have a python interpreter, you can get one at
+ http://python.org/
+You run your python scripts with the command "python <scriptname.py>"
+If you begin your scripts with "#!/<path-to-python>", you can also run them
+ with "./<scriptname.py>"
+You can get more information about python with the command "man python"
+ and by googling.
+
+
+
+[-----------------------------
+[ $ cat 01_hello.py ]
+
+#Comments are written like this.
+
+#The magick command:
+print 'Hello world!'
+#Note that it automaticly adds a newline character.
+#What an easy and modern language! :|
+
+
+[-----------------------------
+[ $ cat 02_numbers.py ]
+
+#Calculations made easy with python
+
+#This is easy:
+print 2+2
+print 2*2
+print 2-1
+print 4/2
+
+#empty newline, making it easy to seperate the output numbers..
+print
+
+#The math-order is normal:
+print 2+3*4
+print
+
+#To the powah (x^y):
+print 3**2
+print 2**8
+print
+
+#Dividing. First normally integer division. Then with a comma-output,
+# and at last modulus.
+print 7/3
+print 7/3.0
+print 7%3
+print
+
+#When assigning variables only with numbers,
+# they automatically get integer-vars.:
+number1=5
+number2=10
+print number1 + number2
+
+
+[-----------------------------
+[ $ cat 03_strings.py ]
+
+#Playing with string
+
+#How to give a variable a value:
+variable="Value"
+print 'The variable contains a ' + variable
+
+#It is easy to connect string:
+part1='Two par'
+part2='ts connected'
+print part1 + part2
+
+#And connect variables:
+part_total = part1 + part2
+print "Still " + part_total
+
+#Handle parts of strings, (like arrays):
+numbers='0123456789'
+print numbers[3:6]
+name='Rafael Justingowitch'
+print name[0:7]
+
+#Search in strings, output starting position:
+print name.find('Rafael')
+
+#Replace in strings:
+print name.replace('Rafael','John')
+
+#Easy printing multiple strings:
+print 'Hej! '*5
+
+
+[-----------------------------
+[ $ cat 04_int_to_str_converting.py ]
+
+#Integer to string converting
+
+#We make two different variables:
+i=10
+s='humle'
+
+#The "i + s" wont work
+print s + str(i)
+
+#Ofcause it works fine when using i with s, as an integer:
+print s*i
+#Meaning "print humle ten times"
+
+
+[-----------------------------
+[ $ cat 05_lists.py ]
+
+#Pythonic Lists
+
+#Like an array:
+list1=[1,2,3,42,500]
+
+#By printing the list, it makes it look nice
+print list1
+
+#Perhaps we want the length of the list:
+print len(list1)
+
+#Test if the n'th place in the list contains something:
+print 1 in list1
+print 8 in list1
+
+#print the list a couple of times:
+print list1 * 3
+
+#print a single place in the list, or parts of the list:
+print list1[1]
+print list1[3]
+print list1[1:3]
+print list1[:3]
+
+#Let us create a more complex list, a two dimentional array, table, matrix,
+# or whatever youll call it:
+matrix1=[['ID','Name','Score'],[0,'me',42],[1,'mother',100],[2,'father',65535]]
+
+#we can extract an entry:
+print matrix1[2]
+
+#or just a single name:
+print matrix1[3][1]
+
+#We can replace his score:
+matrix1[3][2] = -42
+print matrix1[3]
+
+#To isolate an entry:
+mealone = matrix1[1]
+print mealone
+
+#Print and remove the last element:
+print matrix1.pop()
+print matrix1.pop()
+
+#extent the list:
+mealone.extend(['more','yet more', 'MOST'])
+print mealone
+
+#reverse the list:
+mealone.reverse()
+print mealone
+
+#remove elements:
+del mealone[3:6]
+print mealone
+
+
+[-----------------------------
+[ $ cat 06_dictionaries.py ]
+
+#Dictionaries 
+
+#Dictionaries are lists where the objects are referenced by a key,
+# and not by and numeric index.
+#This is what perl-people call hashes
+
+#Sample dictionary:
+admins = { 'root' : 'mama', 'operator': 'me', 'coadmins':5 }
+
+#who is behind key root?
+print admins['root']
+
+#which keys do we have?
+print admins.keys()
+
+#and which values?
+print admins.values()
+
+#We should add exobit/exibot as pentester perhaps...:
+admins['pentester'] = 'my sister'
+
+#show it all:
+print admins
+
+
+[-----------------------------
+[ $ cat 07_loops.py ]
+
+#Python loops
+
+#The while loop:
+int=0
+while int < 10:
+	print int
+	int = int + 1
+	print "this is within the loop"
+print "this is not within the while loop, but will be printed after the loop."
+
+#as you can see, we are using tabs to define what is within the loop.
+#I think its a lame syntax, but whatever.
+print
+
+#For loop:
+#do a list:
+list1 = [1,2,3,42,321]
+for bonk in list1:
+	print "We are for-looping the list1...:"
+	print bonk
+#At the moment I think both loops looks quite lame, but thats python.. :)
+
+
+[-----------------------------
+[ $ cat 08_if_then.py ]
+
+#If borked then python else perl
+
+int = 5
+
+if int > 10:
+	print"int is greater than 10"
+elif int == 10:
+	print"int is 10!"
+else:
+	print"int isnt greater or equal to 10"
+
+
+[-----------------------------
+[ $ cat 09_files.py ]
+
+#Python file handling
+
+#Note that this script creates the temporary file "09_tempfile"
+print "Note that this script creates the temporary file 09_tempfile"
+
+#A file is opened with "open('filename','mode')" where mode is either
+# r or w for read or write.
+testfile = open('09_tempfile','w')
+
+#Lets do a list of random junk:
+randlist=[3,5,8,'twack']
+
+#And for-loop it into the tempfile:
+for entry in randlist:
+	testfile.write(str(entry) + '\n')
+print "09_tempfile written. You can view contents with cat"
+
+#Note three important things with that write command i the for loop:
+# It is a write command, not an append command, so any old content in the file,
+# will be overwritten.
+#You can only write strings to files, not integers directly. That why we
+# have the str() inside.
+#Normal screen output automatically gets newline in the end. File-written
+# strings does not. So we add the "+ '\n'" to get a newline.
+
+#Always close opened files after work is done:
+testfile.close()
+
+#When reading the lines in a file, the lines will be stored in a list:
+readfile = open('09_tempfile','r')
+lines = readfile.readlines()
+print lines
+
+readfile.close()
+
+
+[-----------------------------
+[ $ cat 0a_sockets.py ]
+
+#Network sockets in python
+
+#We need a library for this (note that we havent included any stdio-like
+# things before..)
+import socket
+
+#We create an socket object with some options:
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+#Now we can connect to someone, ('hostname', port):
+sock.connect(('localhost', 12345))
+
+#And send something:
+sock.send('Hello networld!')
+
+#Like files, we always close after done work:
+sock.close()
+
+#You can test the "Hello networld" by starting a netcat-session, which
+# listens on port 12345.
+#This command "nc -l -p 12345", will make NetCat (nc) listen (-l) on
+# port (-p) 12345.
+
+
+[-----------------------------
+[ $ cat 0b_socks_more.py ]
+
+import socket
+net=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+net.connect(('192.168.1.1', 25))
+welcome=net.recv(1024)
+print welcome
+
+
+[-----------------------------
+[ $ cat 0c_sock_loop.py ]
+
+import socket
+net = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+i = 1
+net.connect(('192.168.1.117', 22))
+while i:
+	net.send('ye\n\r')
+net.close()
