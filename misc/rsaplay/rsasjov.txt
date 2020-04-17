@@ -1,0 +1,50 @@
+
+p=3
+q=5
+
+n=p*q=15
+
+ø=(3-1)*(5-1) = 8
+
+1 < e < 8 , coprime til 8, =   3 ell 5 ell 7, vi tager 3
+
+Hvilke tal giver resten 1, når modulus ø (altså 8) ?
+Det skal være deleligt med e (altså 3), da: d*e=1(mod(ø))
+
+Disse giver rest 1, når modulus 8:
+17 25 33 41 49 57 65 73 81
+
+Vi tager 33. Så d*e=33, e=3, så d=11.
+
+Cleartexten M omformes til integer m < n (se padding scheme)
+m < 15, så vi prøver m=4
+
+Ciphertexten c bliver da:
+c=m^e %n, altså
+c=4^3 % 15 = 64 %15 = 4
+
+For at komme tilbage:
+m=c^d %n
+m=4^11 %15 = 4194304 %15 = 4
+
+Huhej, lad os prøve med et par andre m'er, m < n:
+m=5 : c=5^3 %15  = 5  , m=5^11  %15 = 5
+m=7 : c=7^3 %15  = 13 , m=13^11 %15 = 7
+m=10: c=10^3 %15 = 10 , m=10^11 %15 = 10
+m=12: c=12^3 %15 = 3  , m=3^11  %15 = 12
+m=13: c=13^3 %15 = 7  , m=7^11  %15 = 13
+
+Hvad hvis vi tog et andet d? - Kan vi finde et?
+d*e=57, e=3, d=19.
+
+Vi tager et par m-forsøg igen, med det nye d:
+m=5 : c=5^3 %15  = 5  , m=5^19  %15 = 5
+m=7 : c=7^3 %15  = 13 , m=13^19 %15 = 0
+m=13: c=13^3 %15 = 7  , m=7^19  %15 = 14
+Jeg tror matlab har problemer med de store potenser. Mon man kan gøre det smartere?
+Prøver Maple:
+m=7 : c=7^3 %15  = 13 , m=13^19 %15 = 7
+m=13: c=13^3 %15 = 7  , m=7^19  %15 = 13
+
+
+
