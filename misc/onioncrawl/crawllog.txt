@@ -1,0 +1,2411 @@
+
+2013-07-08_132801_22gdwwknxr2lfyzx: Crawling routine initiated with URL: http://22gdwwknxr2lfyzx.onion
+2013-07-08_132801_22gdwwknxr2lfyzx: Waiting 38 seconds before launching
+2013-07-08_132944_22gdwwknxr2lfyzx: Crawling routine finished.
+
+2013-07-08_133441_22gdwwknxr2lfyzx: Crawling routine initiated with URL: http://22gdwwknxr2lfyzx.onion
+2013-07-08_133441_22gdwwknxr2lfyzx: Waiting 16 seconds before launching
+2013-07-08_133514_22gdwwknxr2lfyzx: Crawling routine finished.
+
+2013-07-08_133603_22vkgxdll3fcwtf4: Crawling routine initiated with URL: http://22vkgxdll3fcwtf4.onion
+2013-07-08_133603_22vkgxdll3fcwtf4: Waiting 49 seconds before launching
+
+2013-07-08_133725_25ffhnaechrbzwf3: Crawling routine initiated with URL: http://25ffhnaechrbzwf3.onion
+2013-07-08_133725_25ffhnaechrbzwf3: Waiting 35 seconds before launching
+2013-07-08_133801_22vkgxdll3fcwtf4: Crawling routine finished.
+
+2013-07-08_133847_25ywlhcqibarzze5: Crawling routine initiated with URL: http://25ywlhcqibarzze5.onion
+2013-07-08_133847_25ywlhcqibarzze5: Waiting 26 seconds before launching
+2013-07-08_133943_25ywlhcqibarzze5: Crawling routine finished.
+
+2013-07-08_134009_277kgwe6cw2pm7u7: Crawling routine initiated with URL: http://277kgwe6cw2pm7u7.onion
+2013-07-08_134009_277kgwe6cw2pm7u7: Waiting 10 seconds before launching
+2013-07-08_134105_277kgwe6cw2pm7u7: Crawling routine finished.
+
+2013-07-08_134131_27mgadiomilvuboe: Crawling routine initiated with URL: http://27mgadiomilvuboe.onion
+2013-07-08_134131_27mgadiomilvuboe: Waiting 47 seconds before launching
+2013-07-08_134229_25ffhnaechrbzwf3: Crawling routine finished.
+
+2013-07-08_134253_2FJohnyhasgonefo: Crawling routine initiated with URL: http://2FJohnyhasgonefo.onion
+2013-07-08_134253_2FJohnyhasgonefo: Waiting 6 seconds before launching
+2013-07-08_134326_2FJohnyhasgonefo: Crawling routine finished.
+
+2013-07-08_134415_2FThirdeyevision: Crawling routine initiated with URL: http://2FThirdeyevision.onion
+2013-07-08_134415_2FThirdeyevision: Waiting 14 seconds before launching
+2013-07-08_134500_2FThirdeyevision: Crawling routine finished.
+2013-07-08_134505_27mgadiomilvuboe: Crawling routine finished.
+
+2013-07-08_134537_2ankotiibcc74he5: Crawling routine initiated with URL: http://2ankotiibcc74he5.onion
+2013-07-08_134537_2ankotiibcc74he5: Waiting 45 seconds before launching
+2013-07-08_134716_2ankotiibcc74he5: Crawling routine finished.
+
+2013-07-08_134659_2c2na76zih6lxmeo: Crawling routine initiated with URL: http://2c2na76zih6lxmeo.onion
+2013-07-08_134659_2c2na76zih6lxmeo: Waiting 43 seconds before launching
+2013-07-08_134841_2c2na76zih6lxmeo: Crawling routine finished.
+
+2013-07-08_134821_2d4pbbchse3usiha: Crawling routine initiated with URL: http://2d4pbbchse3usiha.onion
+2013-07-08_134821_2d4pbbchse3usiha: Waiting 57 seconds before launching
+2013-07-08_135027_2d4pbbchse3usiha: Crawling routine finished.
+
+2013-07-08_134943_2ddjd7xsni7pefcx: Crawling routine initiated with URL: http://2ddjd7xsni7pefcx.onion
+2013-07-08_134943_2ddjd7xsni7pefcx: Waiting 47 seconds before launching
+
+2013-07-08_135105_2dggfjsuxgwhf3au: Crawling routine initiated with URL: http://2dggfjsuxgwhf3au.onion
+2013-07-08_135105_2dggfjsuxgwhf3au: Waiting 11 seconds before launching
+2013-07-08_135123_2ddjd7xsni7pefcx: Crawling routine finished.
+2013-07-08_135138_2dggfjsuxgwhf3au: Crawling routine finished.
+
+2013-07-08_135227_2dn2dmxt5uwnxz3j: Crawling routine initiated with URL: http://2dn2dmxt5uwnxz3j.onion
+2013-07-08_135227_2dn2dmxt5uwnxz3j: Waiting 46 seconds before launching
+
+2013-07-08_135349_2enhmmpik77itb6w: Crawling routine initiated with URL: http://2enhmmpik77itb6w.onion
+2013-07-08_135349_2enhmmpik77itb6w: Waiting 19 seconds before launching
+2013-07-08_135441_2enhmmpik77itb6w: Crawling routine finished.
+
+2013-07-08_135511_2g2ldn66nwagegy7: Crawling routine initiated with URL: http://2g2ldn66nwagegy7.onion
+2013-07-08_135511_2g2ldn66nwagegy7: Waiting 53 seconds before launching
+2013-07-08_135704_2g2ldn66nwagegy7: Crawling routine finished.
+
+2013-07-08_143944_2herc2idzwk3dhpj: Crawling routine initiated with URL: http://2herc2idzwk3dhpj.onion
+2013-07-08_143944_2herc2idzwk3dhpj: Waiting 14 seconds before launching
+2013-07-08_144028_2herc2idzwk3dhpj: Crawling routine finished.
+
+2013-07-08_144126_2jta7rfhfihddrse: Crawling routine initiated with URL: http://2jta7rfhfihddrse.onion
+2013-07-08_144126_2jta7rfhfihddrse: Waiting 45 seconds before launching
+2013-07-08_144313_2jta7rfhfihddrse: Crawling routine finished.
+
+2013-07-08_145308_2kcreatydoneqybu: Crawling routine initiated with URL: http://2kcreatydoneqybu.onion
+2013-07-08_145308_2kcreatydoneqybu: Waiting 14 seconds before launching
+2013-07-08_145756_2dn2dmxt5uwnxz3j: Crawling routine finished.
+
+2013-07-08_150450_2kka4f23pcxgqkpv: Crawling routine initiated with URL: http://2kka4f23pcxgqkpv.onion
+2013-07-08_150450_2kka4f23pcxgqkpv: Waiting 36 seconds before launching
+2013-07-08_151133_2kka4f23pcxgqkpv: Crawling routine finished.
+
+2013-07-08_151632_2kka4t23pcxgqkpv: Crawling routine initiated with URL: http://2kka4t23pcxgqkpv.onion
+2013-07-08_151632_2kka4t23pcxgqkpv: Waiting 25 seconds before launching
+2013-07-08_151735_2kka4t23pcxgqkpv: Crawling routine finished.
+
+2013-07-08_151814_2l3kh6gzncyiseft: Crawling routine initiated with URL: http://2l3kh6gzncyiseft.onion
+2013-07-08_151814_2l3kh6gzncyiseft: Waiting 0 seconds before launching
+2013-07-08_152129_2kcreatydoneqybu: Crawling routine finished.
+
+2013-07-08_152956_2l3kh6gzntyiseft: Crawling routine initiated with URL: http://2l3kh6gzntyiseft.onion
+2013-07-08_152956_2l3kh6gzntyiseft: Waiting 11 seconds before launching
+2013-07-08_153031_2l3kh6gzntyiseft: Crawling routine finished.
+
+2013-07-08_153138_2l5ar4fmdaxiqxqq: Crawling routine initiated with URL: http://2l5ar4fmdaxiqxqq.onion
+2013-07-08_153138_2l5ar4fmdaxiqxqq: Waiting 16 seconds before launching
+2013-07-08_153220_2l5ar4fmdaxiqxqq: Crawling routine finished.
+
+2013-07-08_153320_2l745df4mq4qkq44: Crawling routine initiated with URL: http://2l745df4mq4qkq44.onion
+2013-07-08_153320_2l745df4mq4qkq44: Waiting 8 seconds before launching
+2013-07-08_153349_2l745df4mq4qkq44: Crawling routine finished.
+
+2013-07-08_153502_2lhcoxalwqjja5ih: Crawling routine initiated with URL: http://2lhcoxalwqjja5ih.onion
+2013-07-08_153502_2lhcoxalwqjja5ih: Waiting 36 seconds before launching
+2013-07-08_153629_2lhcoxalwqjja5ih: Crawling routine finished.
+
+2013-07-08_153644_2mafsphq7tbmefk2: Crawling routine initiated with URL: http://2mafsphq7tbmefk2.onion
+2013-07-08_153644_2mafsphq7tbmefk2: Waiting 18 seconds before launching
+2013-07-08_153920_2mafsphq7tbmefk2: Crawling routine finished.
+
+2013-07-08_155251_2mjdz5bydx2gdzzh: Crawling routine initiated with URL: http://2mjdz5bydx2gdzzh.onion
+2013-07-08_155251_2mjdz5bydx2gdzzh: Waiting 50 seconds before launching
+2013-07-08_155444_2mjdz5bydx2gdzzh: Crawling routine finished.
+
+2013-07-08_155636_2mmi4wbdaf33n7ty: Crawling routine initiated with URL: http://2mmi4wbdaf33n7ty.onion
+2013-07-08_155636_2mmi4wbdaf33n7ty: Waiting 12 seconds before launching
+2013-07-08_155817_2mmi4wbdaf33n7ty: Crawling routine finished.
+
+2013-07-08_160021_2ngdwutckgelwn3d: Crawling routine initiated with URL: http://2ngdwutckgelwn3d.onion
+2013-07-08_160021_2ngdwutckgelwn3d: Waiting 35 seconds before launching
+2013-07-08_160144_2ngdwutckgelwn3d: Crawling routine finished.
+
+2013-07-08_160406_2nkzz5wy4zwkwway: Crawling routine initiated with URL: http://2nkzz5wy4zwkwway.onion
+2013-07-08_160406_2nkzz5wy4zwkwway: Waiting 14 seconds before launching
+2013-07-08_160504_2nkzz5wy4zwkwway: Crawling routine finished.
+
+2013-07-08_160751_2nubttlrh7ojhbj7: Crawling routine initiated with URL: http://2nubttlrh7ojhbj7.onion
+2013-07-08_160751_2nubttlrh7ojhbj7: Waiting 38 seconds before launching
+2013-07-08_160930_2nubttlrh7ojhbj7: Crawling routine finished.
+
+2013-07-08_161136_2o5o3tzalihh5g4h: Crawling routine initiated with URL: http://2o5o3tzalihh5g4h.onion
+2013-07-08_161136_2o5o3tzalihh5g4h: Waiting 38 seconds before launching
+2013-07-08_161320_2o5o3tzalihh5g4h: Crawling routine finished.
+
+2013-07-08_161521_2ogmrlfzdthnwkez: Crawling routine initiated with URL: http://2ogmrlfzdthnwkez.onion
+2013-07-08_161521_2ogmrlfzdthnwkez: Waiting 7 seconds before launching
+
+2013-07-08_161906_2ogyy6dywtyi2jlo: Crawling routine initiated with URL: http://2ogyy6dywtyi2jlo.onion
+2013-07-08_161906_2ogyy6dywtyi2jlo: Waiting 20 seconds before launching
+2013-07-08_161939_2ogmrlfzdthnwkez: Crawling routine finished.
+2013-07-08_162006_2ogyy6dywtyi2jlo: Crawling routine finished.
+
+2013-07-08_162251_2ousn6z3qfxvcv7t: Crawling routine initiated with URL: http://2ousn6z3qfxvcv7t.onion
+2013-07-08_162251_2ousn6z3qfxvcv7t: Waiting 15 seconds before launching
+2013-07-08_162331_2ousn6z3qfxvcv7t: Crawling routine finished.
+
+2013-07-08_162636_2ppjtsouyikjbpdl: Crawling routine initiated with URL: http://2ppjtsouyikjbpdl.onion
+2013-07-08_162636_2ppjtsouyikjbpdl: Waiting 28 seconds before launching
+2013-07-08_162742_2ppjtsouyikjbpdl: Crawling routine finished.
+
+2013-07-08_163021_2qd7fja6e772o7yc: Crawling routine initiated with URL: http://2qd7fja6e772o7yc.onion
+2013-07-08_163021_2qd7fja6e772o7yc: Waiting 17 seconds before launching
+2013-07-08_163132_2qd7fja6e772o7yc: Crawling routine finished.
+
+2013-07-08_163406_2qfmxnhjnixseuyn: Crawling routine initiated with URL: http://2qfmxnhjnixseuyn.onion
+2013-07-08_163406_2qfmxnhjnixseuyn: Waiting 10 seconds before launching
+2013-07-08_163440_2qfmxnhjnixseuyn: Crawling routine finished.
+
+2013-07-08_163751_2qixy5vbo3kbwf4i: Crawling routine initiated with URL: http://2qixy5vbo3kbwf4i.onion
+2013-07-08_163751_2qixy5vbo3kbwf4i: Waiting 15 seconds before launching
+2013-07-08_163833_2qixy5vbo3kbwf4i: Crawling routine finished.
+
+2013-07-08_164136_2qrww3nv5w3ue3ir: Crawling routine initiated with URL: http://2qrww3nv5w3ue3ir.onion
+2013-07-08_164136_2qrww3nv5w3ue3ir: Waiting 59 seconds before launching
+2013-07-08_164355_2qrww3nv5w3ue3ir: Crawling routine finished.
+
+2013-07-08_164521_2r5sbcclucj672z5: Crawling routine initiated with URL: http://2r5sbcclucj672z5.onion
+2013-07-08_164521_2r5sbcclucj672z5: Waiting 29 seconds before launching
+2013-07-08_164629_2r5sbcclucj672z5: Crawling routine finished.
+
+2013-07-08_164906_2r5ziqnj7qk363c6: Crawling routine initiated with URL: http://2r5ziqnj7qk363c6.onion
+2013-07-08_164906_2r5ziqnj7qk363c6: Waiting 56 seconds before launching
+2013-07-08_165113_2r5ziqnj7qk363c6: Crawling routine finished.
+
+2013-07-08_165251_2s5tloxulkn2hwe3: Crawling routine initiated with URL: http://2s5tloxulkn2hwe3.onion
+2013-07-08_165251_2s5tloxulkn2hwe3: Waiting 3 seconds before launching
+2013-07-08_165307_2s5tloxulkn2hwe3: Crawling routine finished.
+
+2013-07-08_165636_2scamq6q7rq7diaa: Crawling routine initiated with URL: http://2scamq6q7rq7diaa.onion
+2013-07-08_165636_2scamq6q7rq7diaa: Waiting 13 seconds before launching
+2013-07-08_165716_2scamq6q7rq7diaa: Crawling routine finished.
+
+2013-07-08_170021_2scg3bazkv2cip4j: Crawling routine initiated with URL: http://2scg3bazkv2cip4j.onion
+2013-07-08_170021_2scg3bazkv2cip4j: Waiting 38 seconds before launching
+
+2013-07-08_170406_2sgh2s5gkbj5mbii: Crawling routine initiated with URL: http://2sgh2s5gkbj5mbii.onion
+2013-07-08_170406_2sgh2s5gkbj5mbii: Waiting 43 seconds before launching
+
+2013-07-08_171136_2td6kyvvq437j6ow: Crawling routine initiated with URL: http://2td6kyvvq437j6ow.onion
+2013-07-08_171136_2td6kyvvq437j6ow: Waiting 24 seconds before launching
+2013-07-08_171840_2scg3bazkv2cip4j: Crawling routine finished.
+
+2013-07-08_171906_2tpt54hsdthpgu5p: Crawling routine initiated with URL: http://2tpt54hsdthpgu5p.onion
+2013-07-08_171906_2tpt54hsdthpgu5p: Waiting 34 seconds before launching
+2013-07-08_175323_2sgh2s5gkbj5mbii: Crawling routine finished.
+
+2013-07-08_175636_2ue35wfkmo3d1gjm: Crawling routine initiated with URL: http://2ue35wfkmo3d1gjm.onion
+2013-07-08_175636_2ue35wfkmo3d1gjm: Waiting 26 seconds before launching
+2013-07-08_175728_2ue35wfkmo3d1gjm: Crawling routine finished.
+
+2013-07-08_180406_2ue35wfkmo3dlgjm: Crawling routine initiated with URL: http://2ue35wfkmo3dlgjm.onion
+2013-07-08_180406_2ue35wfkmo3dlgjm: Waiting 42 seconds before launching
+2013-07-08_180651_2ue35wfkmo3dlgjm: Crawling routine finished.
+
+2013-07-08_181136_2uwenu7lgujnjmsw: Crawling routine initiated with URL: http://2uwenu7lgujnjmsw.onion
+2013-07-08_181136_2uwenu7lgujnjmsw: Waiting 24 seconds before launching
+2013-07-08_181254_2uwenu7lgujnjmsw: Crawling routine finished.
+
+2013-07-08_181906_2v3o2fpukdlpk5nf: Crawling routine initiated with URL: http://2v3o2fpukdlpk5nf.onion
+2013-07-08_181906_2v3o2fpukdlpk5nf: Waiting 43 seconds before launching
+2013-07-08_183617_2v3o2fpukdlpk5nf: Crawling routine finished.
+
+2013-07-08_183752_2vkpt4pelhbu7yfw: Crawling routine initiated with URL: http://2vkpt4pelhbu7yfw.onion
+2013-07-08_183752_2vkpt4pelhbu7yfw: Waiting 6 seconds before launching
+2013-07-08_183816_2vkpt4pelhbu7yfw: Crawling routine finished.
+
+2013-07-08_184522_2vpa5gxyvswz5nka: Crawling routine initiated with URL: http://2vpa5gxyvswz5nka.onion
+2013-07-08_184522_2vpa5gxyvswz5nka: Waiting 29 seconds before launching
+2013-07-08_184820_2vpa5gxyvswz5nka: Crawling routine finished.
+
+2013-07-08_185252_2vx63nyktk4kxbxb: Crawling routine initiated with URL: http://2vx63nyktk4kxbxb.onion
+2013-07-08_185252_2vx63nyktk4kxbxb: Waiting 40 seconds before launching
+2013-07-08_190134_2vx63nyktk4kxbxb: Crawling routine finished.
+
+2013-07-08_190407_2vxx63nyktk4kxbx: Crawling routine initiated with URL: http://2vxx63nyktk4kxbx.onion
+2013-07-08_190407_2vxx63nyktk4kxbx: Waiting 24 seconds before launching
+2013-07-08_190436_2tpt54hsdthpgu5p: Crawling routine finished.
+2013-07-08_190511_2vxx63nyktk4kxbx: Crawling routine finished.
+
+2013-07-08_190752_2w4nusxehsiglyhh: Crawling routine initiated with URL: http://2w4nusxehsiglyhh.onion
+2013-07-08_190752_2w4nusxehsiglyhh: Waiting 36 seconds before launching
+2013-07-08_190911_2w4nusxehsiglyhh: Crawling routine finished.
+
+2013-07-08_191137_2wjsnwzoeiae4iyf: Crawling routine initiated with URL: http://2wjsnwzoeiae4iyf.onion
+2013-07-08_191137_2wjsnwzoeiae4iyf: Waiting 4 seconds before launching
+2013-07-08_191345_2wjsnwzoeiae4iyf: Crawling routine finished.
+
+2013-07-08_191522_2zyakjq2hvtbg6qd: Crawling routine initiated with URL: http://2zyakjq2hvtbg6qd.onion
+2013-07-08_191522_2zyakjq2hvtbg6qd: Waiting 42 seconds before launching
+2013-07-08_191657_2zyakjq2hvtbg6qd: Crawling routine finished.
+
+2013-07-08_191907_324hmgyozyeqaqea: Crawling routine initiated with URL: http://324hmgyozyeqaqea.onion
+2013-07-08_191907_324hmgyozyeqaqea: Waiting 46 seconds before launching
+2013-07-08_192237_324hmgyozyeqaqea: Crawling routine finished.
+
+2013-07-08_192252_32rfckwuorlf4dlv: Crawling routine initiated with URL: http://32rfckwuorlf4dlv.onion
+2013-07-08_192252_32rfckwuorlf4dlv: Waiting 22 seconds before launching
+
+2013-07-08_193022_32zaudfm5y6w3ypy: Crawling routine initiated with URL: http://32zaudfm5y6w3ypy.onion
+2013-07-08_193022_32zaudfm5y6w3ypy: Waiting 48 seconds before launching
+2013-07-08_193236_32zaudfm5y6w3ypy: Crawling routine finished.
+2013-07-08_193305_2td6kyvvq437j6ow: Crawling routine finished.
+
+2013-07-08_193407_33pvcdba2nm3afnj: Crawling routine initiated with URL: http://33pvcdba2nm3afnj.onion
+2013-07-08_193407_33pvcdba2nm3afnj: Waiting 16 seconds before launching
+
+2013-07-08_194137_34m5fntgvz44hw2q: Crawling routine initiated with URL: http://34m5fntgvz44hw2q.onion
+2013-07-08_194137_34m5fntgvz44hw2q: Waiting 7 seconds before launching
+2013-07-08_205902_32rfckwuorlf4dlv: Crawling routine finished.
+
+2013-07-08_210022_34n5x2krwnytgcfo: Crawling routine initiated with URL: http://34n5x2krwnytgcfo.onion
+2013-07-08_210022_34n5x2krwnytgcfo: Waiting 41 seconds before launching
+2013-07-08_210344_34n5x2krwnytgcfo: Crawling routine finished.
+
+2013-07-08_210752_34uvre3xzku2eanr: Crawling routine initiated with URL: http://34uvre3xzku2eanr.onion
+2013-07-08_210752_34uvre3xzku2eanr: Waiting 38 seconds before launching
+2013-07-08_210919_34uvre3xzku2eanr: Crawling routine finished.
+
+2013-07-08_211522_354lzc2txh3npeqy: Crawling routine initiated with URL: http://354lzc2txh3npeqy.onion
+2013-07-08_211522_354lzc2txh3npeqy: Waiting 2 seconds before launching
+2013-07-08_211541_354lzc2txh3npeqy: Crawling routine finished.
+
+2013-07-08_212252_35tpcqd2ixcyulz5: Crawling routine initiated with URL: http://35tpcqd2ixcyulz5.onion
+2013-07-08_212252_35tpcqd2ixcyulz5: Waiting 12 seconds before launching
+2013-07-08_212516_35tpcqd2ixcyulz5: Crawling routine finished.
+2013-07-08_213020_2l3kh6gzncyiseft: Crawling routine finished.
+
+2013-07-08_213022_36ppoclfuecbbvjh: Crawling routine initiated with URL: http://36ppoclfuecbbvjh.onion
+2013-07-08_213022_36ppoclfuecbbvjh: Waiting 21 seconds before launching
+2013-07-08_213122_36ppoclfuecbbvjh: Crawling routine finished.
+
+2013-07-08_213407_36y5bemdr6jobe2d: Crawling routine initiated with URL: http://36y5bemdr6jobe2d.onion
+2013-07-08_213407_36y5bemdr6jobe2d: Waiting 22 seconds before launching
+2013-07-08_213516_36y5bemdr6jobe2d: Crawling routine finished.
+
+2013-07-08_213752_3AMichiganThePed: Crawling routine initiated with URL: http://3AMichiganThePed.onion
+2013-07-08_213752_3AMichiganThePed: Waiting 16 seconds before launching
+2013-07-08_213838_3AMichiganThePed: Crawling routine finished.
+
+2013-07-08_214137_3ao3auak7taazi4d: Crawling routine initiated with URL: http://3ao3auak7taazi4d.onion
+2013-07-08_214137_3ao3auak7taazi4d: Waiting 50 seconds before launching
+
+2013-07-08_214907_3b7mvin2ndcc3c6e: Crawling routine initiated with URL: http://3b7mvin2ndcc3c6e.onion
+2013-07-08_214907_3b7mvin2ndcc3c6e: Waiting 8 seconds before launching
+2013-07-08_214936_3b7mvin2ndcc3c6e: Crawling routine finished.
+2013-07-08_215035_3ao3auak7taazi4d: Crawling routine finished.
+
+2013-07-08_215252_3bbwan65dmnhwqxy: Crawling routine initiated with URL: http://3bbwan65dmnhwqxy.onion
+2013-07-08_215252_3bbwan65dmnhwqxy: Waiting 3 seconds before launching
+2013-07-08_215311_3bbwan65dmnhwqxy: Crawling routine finished.
+
+2013-07-08_215637_3bdyxxkqqtu2tirh: Crawling routine initiated with URL: http://3bdyxxkqqtu2tirh.onion
+2013-07-08_215637_3bdyxxkqqtu2tirh: Waiting 44 seconds before launching
+2013-07-08_215846_3bdyxxkqqtu2tirh: Crawling routine finished.
+
+2013-07-08_220022_3bqvjtimcrvz4ajo: Crawling routine initiated with URL: http://3bqvjtimcrvz4ajo.onion
+2013-07-08_220022_3bqvjtimcrvz4ajo: Waiting 8 seconds before launching
+
+2013-07-08_220752_3c3bdbvhb7j6yab2: Crawling routine initiated with URL: http://3c3bdbvhb7j6yab2.onion
+2013-07-08_220752_3c3bdbvhb7j6yab2: Waiting 11 seconds before launching
+
+2013-07-13_010044_2mjdz5bydx2gdzzh: Crawling routine initiated with URL: http://2mjdz5bydx2gdzzh.onion
+2013-07-13_010044_2mjdz5bydx2gdzzh: Waiting 44 seconds before launching
+
+2013-07-13_010200_2mmi4wbdaf33n7ty: Crawling routine initiated with URL: http://2mmi4wbdaf33n7ty.onion
+2013-07-13_010200_2mmi4wbdaf33n7ty: Waiting 55 seconds before launching
+2013-07-13_010308_2mjdz5bydx2gdzzh: Crawling routine finished.
+
+2013-07-13_010316_2ngdwutckgelwn3d: Crawling routine initiated with URL: http://2ngdwutckgelwn3d.onion
+2013-07-13_010316_2ngdwutckgelwn3d: Waiting 45 seconds before launching
+
+2013-07-13_010432_2nkzz5wy4zwkwway: Crawling routine initiated with URL: http://2nkzz5wy4zwkwway.onion
+2013-07-13_010432_2nkzz5wy4zwkwway: Waiting 3 seconds before launching
+2013-07-13_010450_2nkzz5wy4zwkwway: Crawling routine finished.
+2013-07-13_010456_2ngdwutckgelwn3d: Crawling routine finished.
+2013-07-13_010514_2mmi4wbdaf33n7ty: Crawling routine finished.
+
+2013-07-13_010548_2nubttlrh7ojhbj7: Crawling routine initiated with URL: http://2nubttlrh7ojhbj7.onion
+2013-07-13_010548_2nubttlrh7ojhbj7: Waiting 9 seconds before launching
+
+2013-07-13_010704_2o5o3tzalihh5g4h: Crawling routine initiated with URL: http://2o5o3tzalihh5g4h.onion
+2013-07-13_010704_2o5o3tzalihh5g4h: Waiting 12 seconds before launching
+2013-07-13_010720_2nubttlrh7ojhbj7: Crawling routine finished.
+2013-07-13_010746_2o5o3tzalihh5g4h: Crawling routine finished.
+
+2013-07-13_010820_2ogmrlfzdthnwkez: Crawling routine initiated with URL: http://2ogmrlfzdthnwkez.onion
+2013-07-13_010820_2ogmrlfzdthnwkez: Waiting 5 seconds before launching
+
+2013-07-13_010936_2ogyy6dywtyi2jlo: Crawling routine initiated with URL: http://2ogyy6dywtyi2jlo.onion
+2013-07-13_010936_2ogyy6dywtyi2jlo: Waiting 30 seconds before launching
+2013-07-13_011047_2ogyy6dywtyi2jlo: Crawling routine finished.
+
+2013-07-13_011052_2ousn6z3qfxvcv7t: Crawling routine initiated with URL: http://2ousn6z3qfxvcv7t.onion
+2013-07-13_011052_2ousn6z3qfxvcv7t: Waiting 9 seconds before launching
+2013-07-13_011143_2ousn6z3qfxvcv7t: Crawling routine finished.
+2013-07-13_011200_2ogmrlfzdthnwkez: Crawling routine finished.
+
+2013-07-13_011208_2ppjtsouyikjbpdl: Crawling routine initiated with URL: http://2ppjtsouyikjbpdl.onion
+2013-07-13_011208_2ppjtsouyikjbpdl: Waiting 8 seconds before launching
+2013-07-13_011240_2ppjtsouyikjbpdl: Crawling routine finished.
+
+2013-07-13_011324_2qd7fja6e772o7yc: Crawling routine initiated with URL: http://2qd7fja6e772o7yc.onion
+2013-07-13_011324_2qd7fja6e772o7yc: Waiting 52 seconds before launching
+
+2013-07-13_011440_2qfmxnhjnixseuyn: Crawling routine initiated with URL: http://2qfmxnhjnixseuyn.onion
+2013-07-13_011440_2qfmxnhjnixseuyn: Waiting 55 seconds before launching
+
+2013-07-13_011556_2qixy5vbo3kbwf4i: Crawling routine initiated with URL: http://2qixy5vbo3kbwf4i.onion
+2013-07-13_011556_2qixy5vbo3kbwf4i: Waiting 0 seconds before launching
+2013-07-13_011556_2qd7fja6e772o7yc: Crawling routine finished.
+2013-07-13_011640_2qfmxnhjnixseuyn: Crawling routine finished.
+2013-07-13_011658_2qixy5vbo3kbwf4i: Crawling routine finished.
+
+2013-07-13_011712_2qrww3nv5w3ue3ir: Crawling routine initiated with URL: http://2qrww3nv5w3ue3ir.onion
+2013-07-13_011712_2qrww3nv5w3ue3ir: Waiting 3 seconds before launching
+2013-07-13_011730_2qrww3nv5w3ue3ir: Crawling routine finished.
+
+2013-07-13_011828_2r5sbcclucj672z5: Crawling routine initiated with URL: http://2r5sbcclucj672z5.onion
+2013-07-13_011828_2r5sbcclucj672z5: Waiting 43 seconds before launching
+2013-07-13_012004_2r5sbcclucj672z5: Crawling routine finished.
+
+2013-07-13_011944_2r5ziqnj7qk363c6: Crawling routine initiated with URL: http://2r5ziqnj7qk363c6.onion
+2013-07-13_011944_2r5ziqnj7qk363c6: Waiting 21 seconds before launching
+2013-07-13_012038_2r5ziqnj7qk363c6: Crawling routine finished.
+
+2013-07-13_012100_2s5tloxulkn2hwe3: Crawling routine initiated with URL: http://2s5tloxulkn2hwe3.onion
+2013-07-13_012100_2s5tloxulkn2hwe3: Waiting 43 seconds before launching
+2013-07-13_012236_2s5tloxulkn2hwe3: Crawling routine finished.
+
+2013-07-13_012216_2scamq6q7rq7diaa: Crawling routine initiated with URL: http://2scamq6q7rq7diaa.onion
+2013-07-13_012216_2scamq6q7rq7diaa: Waiting 42 seconds before launching
+
+2013-07-13_012332_2scg3bazkv2cip4j: Crawling routine initiated with URL: http://2scg3bazkv2cip4j.onion
+2013-07-13_012332_2scg3bazkv2cip4j: Waiting 8 seconds before launching
+2013-07-13_012353_2scamq6q7rq7diaa: Crawling routine finished.
+
+2013-07-13_012448_2sgh2s5gkbj5mbii: Crawling routine initiated with URL: http://2sgh2s5gkbj5mbii.onion
+2013-07-13_012448_2sgh2s5gkbj5mbii: Waiting 3 seconds before launching
+
+2013-07-13_012604_2td6kyvvq437j6ow: Crawling routine initiated with URL: http://2td6kyvvq437j6ow.onion
+2013-07-13_012604_2td6kyvvq437j6ow: Waiting 15 seconds before launching
+2013-07-13_012649_2td6kyvvq437j6ow: Crawling routine finished.
+
+2013-07-13_012720_2tpt54hsdthpgu5p: Crawling routine initiated with URL: http://2tpt54hsdthpgu5p.onion
+2013-07-13_012720_2tpt54hsdthpgu5p: Waiting 19 seconds before launching
+
+2013-07-13_012836_2ue35wfkmo3d1gjm: Crawling routine initiated with URL: http://2ue35wfkmo3d1gjm.onion
+2013-07-13_012836_2ue35wfkmo3d1gjm: Waiting 55 seconds before launching
+2013-07-13_013026_2ue35wfkmo3d1gjm: Crawling routine finished.
+
+2013-07-13_012952_2ue35wfkmo3dlgjm: Crawling routine initiated with URL: http://2ue35wfkmo3dlgjm.onion
+2013-07-13_012952_2ue35wfkmo3dlgjm: Waiting 40 seconds before launching
+2013-07-13_013123_2ue35wfkmo3dlgjm: Crawling routine finished.
+
+2013-07-13_013108_2uwenu7lgujnjmsw: Crawling routine initiated with URL: http://2uwenu7lgujnjmsw.onion
+2013-07-13_013108_2uwenu7lgujnjmsw: Waiting 29 seconds before launching
+2013-07-13_013313_2uwenu7lgujnjmsw: Crawling routine finished.
+
+2013-07-13_013224_2v3o2fpukdlpk5nf: Crawling routine initiated with URL: http://2v3o2fpukdlpk5nf.onion
+2013-07-13_013224_2v3o2fpukdlpk5nf: Waiting 53 seconds before launching
+
+2013-07-13_013340_2vkpt4pelhbu7yfw: Crawling routine initiated with URL: http://2vkpt4pelhbu7yfw.onion
+2013-07-13_013340_2vkpt4pelhbu7yfw: Waiting 59 seconds before launching
+2013-07-13_013549_2vkpt4pelhbu7yfw: Crawling routine finished.
+
+2013-07-13_013613_2vpa5gxyvswz5nka: Crawling routine initiated with URL: http://2vpa5gxyvswz5nka.onion
+2013-07-13_013613_2vpa5gxyvswz5nka: Waiting 45 seconds before launching
+2013-07-13_013859_2vpa5gxyvswz5nka: Crawling routine finished.
+
+2013-07-13_013845_2vx63nyktk4kxbxb: Crawling routine initiated with URL: http://2vx63nyktk4kxbxb.onion
+2013-07-13_013845_2vx63nyktk4kxbxb: Waiting 52 seconds before launching
+2013-07-13_014047_2scg3bazkv2cip4j: Crawling routine finished.
+
+2013-07-13_014117_2vxx63nyktk4kxbx: Crawling routine initiated with URL: http://2vxx63nyktk4kxbx.onion
+2013-07-13_014117_2vxx63nyktk4kxbx: Waiting 57 seconds before launching
+2013-07-13_014322_2vxx63nyktk4kxbx: Crawling routine finished.
+
+2013-07-13_014349_2w4nusxehsiglyhh: Crawling routine initiated with URL: http://2w4nusxehsiglyhh.onion
+2013-07-13_014349_2w4nusxehsiglyhh: Waiting 29 seconds before launching
+2013-07-13_014456_2w4nusxehsiglyhh: Crawling routine finished.
+
+2013-07-13_014505_2wjsnwzoeiae4iyf: Crawling routine initiated with URL: http://2wjsnwzoeiae4iyf.onion
+2013-07-13_014505_2wjsnwzoeiae4iyf: Waiting 56 seconds before launching
+2013-07-13_014714_2vx63nyktk4kxbxb: Crawling routine finished.
+2013-07-13_014722_2wjsnwzoeiae4iyf: Crawling routine finished.
+
+2013-07-13_014737_2zyakjq2hvtbg6qd: Crawling routine initiated with URL: http://2zyakjq2hvtbg6qd.onion
+2013-07-13_014737_2zyakjq2hvtbg6qd: Waiting 1 seconds before launching
+2013-07-13_014749_2zyakjq2hvtbg6qd: Crawling routine finished.
+2013-07-13_014817_2v3o2fpukdlpk5nf: Crawling routine finished.
+
+2013-07-13_014853_324hmgyozyeqaqea: Crawling routine initiated with URL: http://324hmgyozyeqaqea.onion
+2013-07-13_014853_324hmgyozyeqaqea: Waiting 4 seconds before launching
+
+2013-07-13_015009_32rfckwuorlf4dlv: Crawling routine initiated with URL: http://32rfckwuorlf4dlv.onion
+2013-07-13_015009_32rfckwuorlf4dlv: Waiting 40 seconds before launching
+
+2013-07-13_015125_32zaudfm5y6w3ypy: Crawling routine initiated with URL: http://32zaudfm5y6w3ypy.onion
+2013-07-13_015125_32zaudfm5y6w3ypy: Waiting 36 seconds before launching
+2013-07-13_015239_324hmgyozyeqaqea: Crawling routine finished.
+2013-07-13_015327_32zaudfm5y6w3ypy: Crawling routine finished.
+
+2013-07-13_015241_33pvcdba2nm3afnj: Crawling routine initiated with URL: http://33pvcdba2nm3afnj.onion
+2013-07-13_015241_33pvcdba2nm3afnj: Waiting 55 seconds before launching
+
+2013-07-13_015357_34m5fntgvz44hw2q: Crawling routine initiated with URL: http://34m5fntgvz44hw2q.onion
+2013-07-13_015357_34m5fntgvz44hw2q: Waiting 51 seconds before launching
+
+2013-07-13_015629_34n5x2krwnytgcfo: Crawling routine initiated with URL: http://34n5x2krwnytgcfo.onion
+2013-07-13_015629_34n5x2krwnytgcfo: Waiting 11 seconds before launching
+2013-07-13_015702_34n5x2krwnytgcfo: Crawling routine finished.
+
+2013-07-13_015901_34uvre3xzku2eanr: Crawling routine initiated with URL: http://34uvre3xzku2eanr.onion
+2013-07-13_015901_34uvre3xzku2eanr: Waiting 31 seconds before launching
+2013-07-13_020017_34uvre3xzku2eanr: Crawling routine finished.
+
+2013-07-13_020133_354lzc2txh3npeqy: Crawling routine initiated with URL: http://354lzc2txh3npeqy.onion
+2013-07-13_020133_354lzc2txh3npeqy: Waiting 55 seconds before launching
+2013-07-13_020337_354lzc2txh3npeqy: Crawling routine finished.
+
+2013-07-13_020405_35tpcqd2ixcyulz5: Crawling routine initiated with URL: http://35tpcqd2ixcyulz5.onion
+2013-07-13_020405_35tpcqd2ixcyulz5: Waiting 7 seconds before launching
+2013-07-13_021258_2sgh2s5gkbj5mbii: Crawling routine finished.
+
+2013-07-13_021413_36ppoclfuecbbvjh: Crawling routine initiated with URL: http://36ppoclfuecbbvjh.onion
+2013-07-13_021413_36ppoclfuecbbvjh: Waiting 48 seconds before launching
+2013-07-13_021601_36ppoclfuecbbvjh: Crawling routine finished.
+
+2013-07-13_021645_36y5bemdr6jobe2d: Crawling routine initiated with URL: http://36y5bemdr6jobe2d.onion
+2013-07-13_021645_36y5bemdr6jobe2d: Waiting 14 seconds before launching
+2013-07-13_021724_36y5bemdr6jobe2d: Crawling routine finished.
+
+2013-07-13_021917_3AMichiganThePed: Crawling routine initiated with URL: http://3AMichiganThePed.onion
+2013-07-13_021917_3AMichiganThePed: Waiting 56 seconds before launching
+2013-07-13_022119_3AMichiganThePed: Crawling routine finished.
+
+2013-07-13_022149_3ao3auak7taazi4d: Crawling routine initiated with URL: http://3ao3auak7taazi4d.onion
+2013-07-13_022149_3ao3auak7taazi4d: Waiting 46 seconds before launching
+2013-07-13_022942_3ao3auak7taazi4d: Crawling routine finished.
+
+2013-07-13_023041_3b7mvin2ndcc3c6e: Crawling routine initiated with URL: http://3b7mvin2ndcc3c6e.onion
+2013-07-13_023041_3b7mvin2ndcc3c6e: Waiting 42 seconds before launching
+2013-07-13_023219_3b7mvin2ndcc3c6e: Crawling routine finished.
+
+2013-07-13_023313_3bbwan65dmnhwqxy: Crawling routine initiated with URL: http://3bbwan65dmnhwqxy.onion
+2013-07-13_023313_3bbwan65dmnhwqxy: Waiting 44 seconds before launching
+2013-07-13_023449_3bbwan65dmnhwqxy: Crawling routine finished.
+
+2013-07-13_023545_3bdyxxkqqtu2tirh: Crawling routine initiated with URL: http://3bdyxxkqqtu2tirh.onion
+2013-07-13_023545_3bdyxxkqqtu2tirh: Waiting 45 seconds before launching
+2013-07-13_023721_3bdyxxkqqtu2tirh: Crawling routine finished.
+
+2013-07-13_023817_3bqvjtimcrvz4ajo: Crawling routine initiated with URL: http://3bqvjtimcrvz4ajo.onion
+2013-07-13_023817_3bqvjtimcrvz4ajo: Waiting 2 seconds before launching
+2013-07-13_030941_2tpt54hsdthpgu5p: Crawling routine finished.
+
+2013-07-13_030958_3c3bdbvhb7j6yab2: Crawling routine initiated with URL: http://3c3bdbvhb7j6yab2.onion
+2013-07-13_030958_3c3bdbvhb7j6yab2: Waiting 6 seconds before launching
+2013-07-13_032020_32rfckwuorlf4dlv: Crawling routine finished.
+
+2013-07-13_032122_3cekfrsntx5ax5og: Crawling routine initiated with URL: http://3cekfrsntx5ax5og.onion
+2013-07-13_032122_3cekfrsntx5ax5og: Waiting 4 seconds before launching
+2013-07-13_032145_3cekfrsntx5ax5og: Crawling routine finished.
+
+2013-07-13_032354_3d2et7ek4jjhnv3k: Crawling routine initiated with URL: http://3d2et7ek4jjhnv3k.onion
+2013-07-13_032354_3d2et7ek4jjhnv3k: Waiting 57 seconds before launching
+2013-07-13_032748_3d2et7ek4jjhnv3k: Crawling routine finished.
+
+2013-07-13_032858_3dbr5t4pygahedms: Crawling routine initiated with URL: http://3dbr5t4pygahedms.onion
+2013-07-13_032858_3dbr5t4pygahedms: Waiting 52 seconds before launching
+2013-07-13_033546_3dbr5t4pygahedms: Crawling routine finished.
+
+2013-07-13_033634_3ehxgv42wpip4cgz: Crawling routine initiated with URL: http://3ehxgv42wpip4cgz.onion
+2013-07-13_033634_3ehxgv42wpip4cgz: Waiting 42 seconds before launching
+2013-07-13_034257_3ehxgv42wpip4cgz: Crawling routine finished.
+
+2013-07-13_034410_3f6jrvh7jobxpypc: Crawling routine initiated with URL: http://3f6jrvh7jobxpypc.onion
+2013-07-13_034410_3f6jrvh7jobxpypc: Waiting 42 seconds before launching
+2013-07-13_034542_3f6jrvh7jobxpypc: Crawling routine finished.
+
+2013-07-13_034642_3fa7ihmfwq77rmgb: Crawling routine initiated with URL: http://3fa7ihmfwq77rmgb.onion
+2013-07-13_034642_3fa7ihmfwq77rmgb: Waiting 58 seconds before launching
+2013-07-13_034850_3fa7ihmfwq77rmgb: Crawling routine finished.
+
+2013-07-13_034914_3fix3edqp3tzrfuf: Crawling routine initiated with URL: http://3fix3edqp3tzrfuf.onion
+2013-07-13_034914_3fix3edqp3tzrfuf: Waiting 9 seconds before launching
+2013-07-13_034942_3fix3edqp3tzrfuf: Crawling routine finished.
+
+2013-07-13_035146_3fnhfsfc2bpzdste: Crawling routine initiated with URL: http://3fnhfsfc2bpzdste.onion
+2013-07-13_035146_3fnhfsfc2bpzdste: Waiting 1 seconds before launching
+2013-07-13_035152_3fnhfsfc2bpzdste: Crawling routine finished.
+
+2013-07-13_035418_3fuqekyfopkycbzs: Crawling routine initiated with URL: http://3fuqekyfopkycbzs.onion
+2013-07-13_035418_3fuqekyfopkycbzs: Waiting 46 seconds before launching
+2013-07-13_035604_3fuqekyfopkycbzs: Crawling routine finished.
+
+2013-07-13_035650_3fyb44wdhn32ghhl: Crawling routine initiated with URL: http://3fyb44wdhn32ghhl.onion
+2013-07-13_035650_3fyb44wdhn32ghhl: Waiting 50 seconds before launching
+2013-07-13_040030_3fyb44wdhn32ghhl: Crawling routine finished.
+
+2013-07-13_040038_3fyb44wdhnd2ghhl: Crawling routine initiated with URL: http://3fyb44wdhnd2ghhl.onion
+2013-07-13_040038_3fyb44wdhnd2ghhl: Waiting 14 seconds before launching
+2013-07-14_103017_35tpcqd2ixcyulz5: Crawling routine finished.
+
+2013-07-14_103114_3g2upl4pq6kufc4m: Crawling routine initiated with URL: http://3g2upl4pq6kufc4m.onion
+2013-07-14_103114_3g2upl4pq6kufc4m: Waiting 6 seconds before launching
+2013-07-14_110744_3fyb44wdhnd2ghhl: Crawling routine finished.
+
+2013-07-14_110758_3h6hi2iypyk5nvh5: Crawling routine initiated with URL: http://3h6hi2iypyk5nvh5.onion
+2013-07-14_110758_3h6hi2iypyk5nvh5: Waiting 23 seconds before launching
+2013-07-14_110857_3h6hi2iypyk5nvh5: Crawling routine finished.
+
+2013-07-14_111030_3i3yqfipqyb2e2qn: Crawling routine initiated with URL: http://3i3yqfipqyb2e2qn.onion
+2013-07-14_111030_3i3yqfipqyb2e2qn: Waiting 14 seconds before launching
+2013-07-14_111106_3i3yqfipqyb2e2qn: Crawling routine finished.
+
+2013-07-14_111302_3jaldjn5zgcirr7t: Crawling routine initiated with URL: http://3jaldjn5zgcirr7t.onion
+2013-07-14_111302_3jaldjn5zgcirr7t: Waiting 46 seconds before launching
+2013-07-14_111444_3jaldjn5zgcirr7t: Crawling routine finished.
+
+2013-07-14_111534_3jclb73v3qwlzlyv: Crawling routine initiated with URL: http://3jclb73v3qwlzlyv.onion
+2013-07-14_111534_3jclb73v3qwlzlyv: Waiting 55 seconds before launching
+2013-07-14_111924_3jclb73v3qwlzlyv: Crawling routine finished.
+
+2013-07-14_112038_3jtpju3oty4bcego: Crawling routine initiated with URL: http://3jtpju3oty4bcego.onion
+2013-07-14_112038_3jtpju3oty4bcego: Waiting 42 seconds before launching
+2013-07-14_112209_3jtpju3oty4bcego: Crawling routine finished.
+
+2013-07-14_112310_3mrdrr2gas45q6hp: Crawling routine initiated with URL: http://3mrdrr2gas45q6hp.onion
+2013-07-14_112310_3mrdrr2gas45q6hp: Waiting 21 seconds before launching
+2013-07-14_112400_3mrdrr2gas45q6hp: Crawling routine finished.
+
+2013-07-14_112542_3nh2sffatuqx45rv: Crawling routine initiated with URL: http://3nh2sffatuqx45rv.onion
+2013-07-14_112542_3nh2sffatuqx45rv: Waiting 22 seconds before launching
+2013-07-14_112826_3nh2sffatuqx45rv: Crawling routine finished.
+
+2013-07-14_112930_3ol62mtzjphpvgxq: Crawling routine initiated with URL: http://3ol62mtzjphpvgxq.onion
+2013-07-14_112930_3ol62mtzjphpvgxq: Waiting 52 seconds before launching
+2013-07-14_113140_3ol62mtzjphpvgxq: Crawling routine finished.
+
+2013-07-14_113202_3olqnfvujrplgay4: Crawling routine initiated with URL: http://3olqnfvujrplgay4.onion
+2013-07-14_113202_3olqnfvujrplgay4: Waiting 36 seconds before launching
+2013-07-15_131329_3g2upl4pq6kufc4m: Crawling routine finished.
+
+2013-07-15_131355_3orbl7bfxenyqq75: Crawling routine initiated with URL: http://3orbl7bfxenyqq75.onion
+2013-07-15_131355_3orbl7bfxenyqq75: Waiting 7 seconds before launching
+2013-07-15_131433_3orbl7bfxenyqq75: Crawling routine finished.
+
+2013-07-15_131627_3pav6ivc6czuypuq: Crawling routine initiated with URL: http://3pav6ivc6czuypuq.onion
+2013-07-15_131627_3pav6ivc6czuypuq: Waiting 53 seconds before launching
+2013-07-16_090029_34m5fntgvz44hw2q: Crawling routine finished.
+
+2013-07-16_090058_3qmzpsw5td2mk4ts: Crawling routine initiated with URL: http://3qmzpsw5td2mk4ts.onion
+2013-07-16_090058_3qmzpsw5td2mk4ts: Waiting 39 seconds before launching
+2013-07-16_090226_3qmzpsw5td2mk4ts: Crawling routine finished.
+
+2013-07-16_090330_3qzjzbkxedhgdl73: Crawling routine initiated with URL: http://3qzjzbkxedhgdl73.onion
+2013-07-16_090330_3qzjzbkxedhgdl73: Waiting 14 seconds before launching
+2013-07-16_090423_3qzjzbkxedhgdl73: Crawling routine finished.
+
+2013-07-16_090602_3rlqkicvauds47ch: Crawling routine initiated with URL: http://3rlqkicvauds47ch.onion
+2013-07-16_090602_3rlqkicvauds47ch: Waiting 42 seconds before launching
+2013-07-16_090739_3rlqkicvauds47ch: Crawling routine finished.
+
+2013-07-16_090834_3rm4cqghjheer7dh: Crawling routine initiated with URL: http://3rm4cqghjheer7dh.onion
+2013-07-16_090834_3rm4cqghjheer7dh: Waiting 4 seconds before launching
+2013-07-16_091044_3rm4cqghjheer7dh: Crawling routine finished.
+
+2013-07-16_091106_3rontsmevctjqyfj: Crawling routine initiated with URL: http://3rontsmevctjqyfj.onion
+2013-07-16_091106_3rontsmevctjqyfj: Waiting 33 seconds before launching
+2013-07-16_094706_3rontsmevctjqyfj: Crawling routine finished.
+
+2013-07-16_094750_3rontsmevctjqyhj: Crawling routine initiated with URL: http://3rontsmevctjqyhj.onion
+2013-07-16_094750_3rontsmevctjqyhj: Waiting 44 seconds before launching
+2013-07-16_094934_3rontsmevctjqyhj: Crawling routine finished.
+
+2013-07-16_095022_3rrf4fqicqwl7amf: Crawling routine initiated with URL: http://3rrf4fqicqwl7amf.onion
+2013-07-16_095022_3rrf4fqicqwl7amf: Waiting 33 seconds before launching
+2013-07-16_095143_3rrf4fqicqwl7amf: Crawling routine finished.
+
+2013-07-16_095254_3srxdnetmhbfyisw: Crawling routine initiated with URL: http://3srxdnetmhbfyisw.onion
+2013-07-16_095254_3srxdnetmhbfyisw: Waiting 16 seconds before launching
+2013-07-16_095629_3srxdnetmhbfyisw: Crawling routine finished.
+
+2013-07-16_095642_3suaoaltfj2xjksb: Crawling routine initiated with URL: http://3suaoaltfj2xjksb.onion
+2013-07-16_095642_3suaoaltfj2xjksb: Waiting 3 seconds before launching
+2013-07-16_095657_3suaoaltfj2xjksb: Crawling routine finished.
+
+2013-07-16_095914_3suaolltfj2xjksb: Crawling routine initiated with URL: http://3suaolltfj2xjksb.onion
+2013-07-16_095914_3suaolltfj2xjksb: Waiting 23 seconds before launching
+2013-07-16_133521_3pav6ivc6czuypuq: Crawling routine finished.
+
+2013-07-16_133552_3terbsb5mmmdyhse: Crawling routine initiated with URL: http://3terbsb5mmmdyhse.onion
+2013-07-16_133552_3terbsb5mmmdyhse: Waiting 25 seconds before launching
+2013-07-16_133727_3terbsb5mmmdyhse: Crawling routine finished.
+
+2013-07-16_133824_3tfqvth2lzeieiha: Crawling routine initiated with URL: http://3tfqvth2lzeieiha.onion
+2013-07-16_133824_3tfqvth2lzeieiha: Waiting 30 seconds before launching
+2013-07-16_133954_3tfqvth2lzeieiha: Crawling routine finished.
+
+2013-07-16_134056_3ulaotq7xkz2onzw: Crawling routine initiated with URL: http://3ulaotq7xkz2onzw.onion
+2013-07-16_134056_3ulaotq7xkz2onzw: Waiting 15 seconds before launching
+2013-07-16_134200_3ulaotq7xkz2onzw: Crawling routine finished.
+
+2013-07-16_134328_3vnjj7h6c6vw2yh5: Crawling routine initiated with URL: http://3vnjj7h6c6vw2yh5.onion
+2013-07-16_134328_3vnjj7h6c6vw2yh5: Waiting 27 seconds before launching
+2013-07-17_135851_3bqvjtimcrvz4ajo: Crawling routine finished.
+
+2013-07-17_135906_3wavqui2mpklpcn5: Crawling routine initiated with URL: http://3wavqui2mpklpcn5.onion
+2013-07-17_135906_3wavqui2mpklpcn5: Waiting 51 seconds before launching
+2013-07-17_140159_3wavqui2mpklpcn5: Crawling routine finished.
+
+2013-07-17_140254_3woapc2khixooeit: Crawling routine initiated with URL: http://3woapc2khixooeit.onion
+2013-07-17_140254_3woapc2khixooeit: Waiting 48 seconds before launching
+2013-07-17_140442_3woapc2khixooeit: Crawling routine finished.
+
+2013-07-17_140526_3zl3nmgttewhkpuc: Crawling routine initiated with URL: http://3zl3nmgttewhkpuc.onion
+2013-07-17_140526_3zl3nmgttewhkpuc: Waiting 4 seconds before launching
+2013-07-17_140544_3zl3nmgttewhkpuc: Crawling routine finished.
+
+2013-07-17_140758_3zvjzoinvz4mxgsg: Crawling routine initiated with URL: http://3zvjzoinvz4mxgsg.onion
+2013-07-17_140758_3zvjzoinvz4mxgsg: Waiting 18 seconds before launching
+2013-07-17_140859_3zvjzoinvz4mxgsg: Crawling routine finished.
+
+2013-07-17_141030_426bznbgjzwd2nhp: Crawling routine initiated with URL: http://426bznbgjzwd2nhp.onion
+2013-07-17_141030_426bznbgjzwd2nhp: Waiting 53 seconds before launching
+2013-07-17_143128_426bznbgjzwd2nhp: Crawling routine finished.
+
+2013-07-17_143202_42iw3f4piqa7hcyi: Crawling routine initiated with URL: http://42iw3f4piqa7hcyi.onion
+2013-07-17_143202_42iw3f4piqa7hcyi: Waiting 52 seconds before launching
+2013-07-17_143354_42iw3f4piqa7hcyi: Crawling routine finished.
+
+2013-07-17_143434_4344457357774542: Crawling routine initiated with URL: http://4344457357774542.onion
+2013-07-17_143434_4344457357774542: Waiting 15 seconds before launching
+2013-07-17_143516_4344457357774542: Crawling routine finished.
+
+2013-07-17_143706_455sdmsz3oa5w3xx: Crawling routine initiated with URL: http://455sdmsz3oa5w3xx.onion
+2013-07-17_143706_455sdmsz3oa5w3xx: Waiting 51 seconds before launching
+2013-07-21_062027_455sdmsz3oa5w3xx: Crawling routine finished.
+
+2013-07-21_062056_45vvbvgsihzghscc: Crawling routine initiated with URL: http://45vvbvgsihzghscc.onion
+2013-07-21_062056_45vvbvgsihzghscc: Waiting 52 seconds before launching
+2013-07-21_062305_45vvbvgsihzghscc: Crawling routine finished.
+
+2013-07-21_062328_45y6hewfiwefjsrg: Crawling routine initiated with URL: http://45y6hewfiwefjsrg.onion
+2013-07-21_062328_45y6hewfiwefjsrg: Waiting 0 seconds before launching
+2013-07-21_062336_45y6hewfiwefjsrg: Crawling routine finished.
+
+2013-07-21_062600_467u5uvwkfgujt2f: Crawling routine initiated with URL: http://467u5uvwkfgujt2f.onion
+2013-07-21_062600_467u5uvwkfgujt2f: Waiting 24 seconds before launching
+2013-07-21_062700_467u5uvwkfgujt2f: Crawling routine finished.
+
+2013-07-21_062832_46dspvfldjiqzsre: Crawling routine initiated with URL: http://46dspvfldjiqzsre.onion
+2013-07-21_062832_46dspvfldjiqzsre: Waiting 10 seconds before launching
+2013-07-21_062856_46dspvfldjiqzsre: Crawling routine finished.
+
+2013-07-21_063104_46g2asmp7ouz2udv: Crawling routine initiated with URL: http://46g2asmp7ouz2udv.onion
+2013-07-21_063104_46g2asmp7ouz2udv: Waiting 4 seconds before launching
+2013-07-21_063123_46g2asmp7ouz2udv: Crawling routine finished.
+
+2013-07-21_063336_46lm7zhgildryehk: Crawling routine initiated with URL: http://46lm7zhgildryehk.onion
+2013-07-21_063336_46lm7zhgildryehk: Waiting 5 seconds before launching
+2013-07-21_063351_46lm7zhgildryehk: Crawling routine finished.
+
+2013-07-21_063608_46q5qtxylpl6jsib: Crawling routine initiated with URL: http://46q5qtxylpl6jsib.onion
+2013-07-21_063608_46q5qtxylpl6jsib: Waiting 45 seconds before launching
+2013-07-21_064112_46q5qtxylpl6jsib: Crawling routine finished.
+
+2013-07-21_064112_47uqlddr2xnrlpn3: Crawling routine initiated with URL: http://47uqlddr2xnrlpn3.onion
+2013-07-21_064112_47uqlddr2xnrlpn3: Waiting 54 seconds before launching
+2013-07-21_064325_47uqlddr2xnrlpn3: Crawling routine finished.
+
+2013-07-21_064344_4aclu6ka6s7gz6st: Crawling routine initiated with URL: http://4aclu6ka6s7gz6st.onion
+2013-07-21_064344_4aclu6ka6s7gz6st: Waiting 40 seconds before launching
+2013-07-21_064527_4aclu6ka6s7gz6st: Crawling routine finished.
+
+2013-07-21_064616_4aftzxjgrdl45i6u: Crawling routine initiated with URL: http://4aftzxjgrdl45i6u.onion
+2013-07-21_064616_4aftzxjgrdl45i6u: Waiting 52 seconds before launching
+2013-07-21_064808_4aftzxjgrdl45i6u: Crawling routine finished.
+
+2013-07-21_064848_4aqmyjsgqtxqzgl6: Crawling routine initiated with URL: http://4aqmyjsgqtxqzgl6.onion
+2013-07-21_064848_4aqmyjsgqtxqzgl6: Waiting 34 seconds before launching
+2013-07-21_065003_4aqmyjsgqtxqzgl6: Crawling routine finished.
+
+2013-07-21_065120_4b4fq3u3e6gbvfh7: Crawling routine initiated with URL: http://4b4fq3u3e6gbvfh7.onion
+2013-07-21_065120_4b4fq3u3e6gbvfh7: Waiting 16 seconds before launching
+2013-07-21_065220_4b4fq3u3e6gbvfh7: Crawling routine finished.
+
+2013-07-21_065352_4ckvskrc3ihlj6jv: Crawling routine initiated with URL: http://4ckvskrc3ihlj6jv.onion
+2013-07-21_065352_4ckvskrc3ihlj6jv: Waiting 28 seconds before launching
+2013-07-21_065457_4ckvskrc3ihlj6jv: Crawling routine finished.
+
+2013-07-21_065624_4e2invrtbcmcnw55: Crawling routine initiated with URL: http://4e2invrtbcmcnw55.onion
+2013-07-21_065624_4e2invrtbcmcnw55: Waiting 56 seconds before launching
+2013-07-21_065826_4e2invrtbcmcnw55: Crawling routine finished.
+
+2013-07-21_065856_4e65l3uhtqjzowvx: Crawling routine initiated with URL: http://4e65l3uhtqjzowvx.onion
+2013-07-21_065856_4e65l3uhtqjzowvx: Waiting 55 seconds before launching
+2013-07-21_070057_4e65l3uhtqjzowvx: Crawling routine finished.
+
+2013-07-21_070128_4eiruntyxxbgfv7o: Crawling routine initiated with URL: http://4eiruntyxxbgfv7o.onion
+2013-07-21_070128_4eiruntyxxbgfv7o: Waiting 57 seconds before launching
+2013-07-21_070330_4eiruntyxxbgfv7o: Crawling routine finished.
+
+2013-07-21_070400_4fj7juxplvsxgocy: Crawling routine initiated with URL: http://4fj7juxplvsxgocy.onion
+2013-07-21_070400_4fj7juxplvsxgocy: Waiting 56 seconds before launching
+2013-07-21_070834_4fj7juxplvsxgocy: Crawling routine finished.
+
+2013-07-21_070904_4fvfamdpoulu2nms: Crawling routine initiated with URL: http://4fvfamdpoulu2nms.onion
+2013-07-21_070904_4fvfamdpoulu2nms: Waiting 32 seconds before launching
+2013-07-21_084452_4fvfamdpoulu2nms: Crawling routine finished.
+
+2013-07-21_084521_4fwsk6icauh5vgzh: Crawling routine initiated with URL: http://4fwsk6icauh5vgzh.onion
+2013-07-21_084521_4fwsk6icauh5vgzh: Waiting 58 seconds before launching
+2013-07-21_084728_4fwsk6icauh5vgzh: Crawling routine finished.
+
+2013-07-21_084753_4gg3ro3pvuzp734o: Crawling routine initiated with URL: http://4gg3ro3pvuzp734o.onion
+2013-07-21_084753_4gg3ro3pvuzp734o: Waiting 11 seconds before launching
+2013-07-21_084836_4gg3ro3pvuzp734o: Crawling routine finished.
+
+2013-07-21_085025_4ha7nlx3shi5gcty: Crawling routine initiated with URL: http://4ha7nlx3shi5gcty.onion
+2013-07-21_085025_4ha7nlx3shi5gcty: Waiting 18 seconds before launching
+2013-07-21_085301_4ha7nlx3shi5gcty: Crawling routine finished.
+
+2013-07-21_085413_4hz4ew4ebeoo54g4: Crawling routine initiated with URL: http://4hz4ew4ebeoo54g4.onion
+2013-07-21_085413_4hz4ew4ebeoo54g4: Waiting 41 seconds before launching
+2013-07-21_085549_4hz4ew4ebeoo54g4: Crawling routine finished.
+
+2013-07-21_085645_4i2aiir44iqzopme: Crawling routine initiated with URL: http://4i2aiir44iqzopme.onion
+2013-07-21_085645_4i2aiir44iqzopme: Waiting 18 seconds before launching
+2013-07-22_045322_3olqnfvujrplgay4: Crawling routine finished.
+
+2013-07-22_045355_4ia4gar2m3p4mmxd: Crawling routine initiated with URL: http://4ia4gar2m3p4mmxd.onion
+2013-07-22_045355_4ia4gar2m3p4mmxd: Waiting 29 seconds before launching
+2013-07-22_045515_4ia4gar2m3p4mmxd: Crawling routine finished.
+
+2013-07-22_045627_4j2aiir44iqzopme: Crawling routine initiated with URL: http://4j2aiir44iqzopme.onion
+2013-07-22_045627_4j2aiir44iqzopme: Waiting 50 seconds before launching
+2013-07-22_045820_4j2aiir44iqzopme: Crawling routine finished.
+
+2013-07-22_045859_4jbxjjrbakmdcmvb: Crawling routine initiated with URL: http://4jbxjjrbakmdcmvb.onion
+2013-07-22_045859_4jbxjjrbakmdcmvb: Waiting 17 seconds before launching
+2013-07-22_050251_4jbxjjrbakmdcmvb: Crawling routine finished.
+
+2013-07-22_050403_4ktz77nd2rn7gcsm: Crawling routine initiated with URL: http://4ktz77nd2rn7gcsm.onion
+2013-07-22_050403_4ktz77nd2rn7gcsm: Waiting 42 seconds before launching
+2013-07-22_050544_4ktz77nd2rn7gcsm: Crawling routine finished.
+
+2013-07-22_050635_4kv6eum54axy46ow: Crawling routine initiated with URL: http://4kv6eum54axy46ow.onion
+2013-07-22_050635_4kv6eum54axy46ow: Waiting 36 seconds before launching
+2013-07-22_051116_4kv6eum54axy46ow: Crawling routine finished.
+
+2013-07-22_051139_4nc7xi5usjq6z7bc: Crawling routine initiated with URL: http://4nc7xi5usjq6z7bc.onion
+2013-07-22_051139_4nc7xi5usjq6z7bc: Waiting 2 seconds before launching
+2013-07-22_051152_4nc7xi5usjq6z7bc: Crawling routine finished.
+
+2013-07-22_051411_4ndbo7agidslvwr2: Crawling routine initiated with URL: http://4ndbo7agidslvwr2.onion
+2013-07-22_051411_4ndbo7agidslvwr2: Waiting 37 seconds before launching
+2013-07-22_051535_4ndbo7agidslvwr2: Crawling routine finished.
+
+2013-07-22_051643_4obvr73uv6exwmhi: Crawling routine initiated with URL: http://4obvr73uv6exwmhi.onion
+2013-07-22_051643_4obvr73uv6exwmhi: Waiting 18 seconds before launching
+2013-07-22_051733_4obvr73uv6exwmhi: Crawling routine finished.
+
+2013-07-22_051915_4pms4sejprryckox: Crawling routine initiated with URL: http://4pms4sejprryckox.onion
+2013-07-22_051915_4pms4sejprryckox: Waiting 25 seconds before launching
+2013-07-22_052017_4pms4sejprryckox: Crawling routine finished.
+
+2013-07-22_052147_4pms4sejqrryckox: Crawling routine initiated with URL: http://4pms4sejqrryckox.onion
+2013-07-22_052147_4pms4sejqrryckox: Waiting 28 seconds before launching
+2013-07-24_122818_33pvcdba2nm3afnj: Crawling routine finished.
+
+2013-07-24_122935_4pms4sejqueerkox: Crawling routine initiated with URL: http://4pms4sejqueerkox.onion
+2013-07-24_122935_4pms4sejqueerkox: Waiting 4 seconds before launching
+2013-07-24_122955_4pms4sejqueerkox: Crawling routine finished.
+
+2013-07-24_123207_4srnfsbuaebm2hj4: Crawling routine initiated with URL: http://4srnfsbuaebm2hj4.onion
+2013-07-24_123207_4srnfsbuaebm2hj4: Waiting 1 seconds before launching
+2013-07-24_123227_4srnfsbuaebm2hj4: Crawling routine finished.
+
+2013-07-24_123439_4uzco5w5qmklhzzn: Crawling routine initiated with URL: http://4uzco5w5qmklhzzn.onion
+2013-07-24_123439_4uzco5w5qmklhzzn: Waiting 9 seconds before launching
+2013-07-24_123507_4uzco5w5qmklhzzn: Crawling routine finished.
+
+2013-07-24_123711_4v6veu7nsxklglnu: Crawling routine initiated with URL: http://4v6veu7nsxklglnu.onion
+2013-07-24_123711_4v6veu7nsxklglnu: Waiting 57 seconds before launching
+2013-07-24_150502_4v6veu7nsxklglnu: Crawling routine finished.
+
+2013-07-24_150524_4vq45ioqq5cx7u23: Crawling routine initiated with URL: http://4vq45ioqq5cx7u23.onion
+2013-07-24_150524_4vq45ioqq5cx7u23: Waiting 10 seconds before launching
+2013-07-24_150551_4vq45ioqq5cx7u23: Crawling routine finished.
+
+2013-07-24_150756_4vq45ioqq5cx7u32: Crawling routine initiated with URL: http://4vq45ioqq5cx7u32.onion
+2013-07-24_150756_4vq45ioqq5cx7u32: Waiting 30 seconds before launching
+2013-07-24_151751_4vq45ioqq5cx7u32: Crawling routine finished.
+
+2013-07-24_151804_4vq45loqq5cz7u32: Crawling routine initiated with URL: http://4vq45loqq5cz7u32.onion
+2013-07-24_151804_4vq45loqq5cz7u32: Waiting 1 seconds before launching
+2013-07-24_152006_4vq45loqq5cz7u32: Crawling routine finished.
+
+2013-07-24_152036_4w7zrjehv3xhlche: Crawling routine initiated with URL: http://4w7zrjehv3xhlche.onion
+2013-07-24_152036_4w7zrjehv3xhlche: Waiting 46 seconds before launching
+2013-07-24_152338_4w7zrjehv3xhlche: Crawling routine finished.
+
+2013-07-24_152424_4wi54233drgz6abm: Crawling routine initiated with URL: http://4wi54233drgz6abm.onion
+2013-07-24_152424_4wi54233drgz6abm: Waiting 55 seconds before launching
+2013-07-24_152633_4wi54233drgz6abm: Crawling routine finished.
+
+2013-07-24_152656_4wwxkydsvavodj3i: Crawling routine initiated with URL: http://4wwxkydsvavodj3i.onion
+2013-07-24_152656_4wwxkydsvavodj3i: Waiting 56 seconds before launching
+2013-07-24_153048_4wwxkydsvavodj3i: Crawling routine finished.
+
+2013-07-24_153200_4yjes6zfucnh7vcj: Crawling routine initiated with URL: http://4yjes6zfucnh7vcj.onion
+2013-07-24_153200_4yjes6zfucnh7vcj: Waiting 12 seconds before launching
+2013-07-24_163119_4yjes6zfucnh7vcj: Crawling routine finished.
+
+2013-07-24_163132_4yjes6zfuvnh7vcj: Crawling routine initiated with URL: http://4yjes6zfuvnh7vcj.onion
+2013-07-24_163132_4yjes6zfuvnh7vcj: Waiting 28 seconds before launching
+2013-07-24_163259_4yjes6zfuvnh7vcj: Crawling routine finished.
+
+2013-07-24_163404_4zeottxi5qmnnjhd: Crawling routine initiated with URL: http://4zeottxi5qmnnjhd.onion
+2013-07-24_163404_4zeottxi5qmnnjhd: Waiting 13 seconds before launching
+2013-07-26_131015_3vnjj7h6c6vw2yh5: Crawling routine finished.
+
+2013-07-26_131059_4zjgf5i7dkafxpdm: Crawling routine initiated with URL: http://4zjgf5i7dkafxpdm.onion
+2013-07-26_131059_4zjgf5i7dkafxpdm: Waiting 5 seconds before launching
+2013-07-26_131122_4zjgf5i7dkafxpdm: Crawling routine finished.
+
+2013-07-26_131331_4zquqj53igfw7ogd: Crawling routine initiated with URL: http://4zquqj53igfw7ogd.onion
+2013-07-26_131331_4zquqj53igfw7ogd: Waiting 38 seconds before launching
+2013-07-26_131504_4zquqj53igfw7ogd: Crawling routine finished.
+
+2013-07-26_131603_53otrkyvae462lhb: Crawling routine initiated with URL: http://53otrkyvae462lhb.onion
+2013-07-26_131603_53otrkyvae462lhb: Waiting 28 seconds before launching
+2013-07-26_131859_53otrkyvae462lhb: Crawling routine finished.
+
+2013-07-26_131951_54av5zyi3vs22iqe: Crawling routine initiated with URL: http://54av5zyi3vs22iqe.onion
+2013-07-26_131951_54av5zyi3vs22iqe: Waiting 23 seconds before launching
+2013-07-26_133347_54av5zyi3vs22iqe: Crawling routine finished.
+
+2013-07-26_133503_54dgeda4ik6iypui: Crawling routine initiated with URL: http://54dgeda4ik6iypui.onion
+2013-07-26_133503_54dgeda4ik6iypui: Waiting 54 seconds before launching
+2013-07-26_133757_54dgeda4ik6iypui: Crawling routine finished.
+
+2013-07-26_133851_54flq67kqr5wvjqf: Crawling routine initiated with URL: http://54flq67kqr5wvjqf.onion
+2013-07-26_133851_54flq67kqr5wvjqf: Waiting 46 seconds before launching
+2013-07-26_134700_54flq67kqr5wvjqf: Crawling routine finished.
+
+2013-07-26_134743_552egj2iappsjjdu: Crawling routine initiated with URL: http://552egj2iappsjjdu.onion
+2013-07-26_134743_552egj2iappsjjdu: Waiting 46 seconds before launching
+2013-07-26_142103_552egj2iappsjjdu: Crawling routine finished.
+
+2013-07-26_142155_55d44yg2mdfaun5k: Crawling routine initiated with URL: http://55d44yg2mdfaun5k.onion
+2013-07-26_142155_55d44yg2mdfaun5k: Waiting 35 seconds before launching
+2013-07-26_142317_55d44yg2mdfaun5k: Crawling routine finished.
+
+2013-07-26_142427_562tqunvqdece76h: Crawling routine initiated with URL: http://562tqunvqdece76h.onion
+2013-07-26_142427_562tqunvqdece76h: Waiting 56 seconds before launching
+2013-07-26_150342_562tqunvqdece76h: Crawling routine finished.
+
+2013-07-26_150343_562tqunvwdece76h: Crawling routine initiated with URL: http://562tqunvwdece76h.onion
+2013-07-26_150343_562tqunvwdece76h: Waiting 3 seconds before launching
+2013-07-26_150407_562tqunvwdece76h: Crawling routine finished.
+
+2013-07-26_150616_56rgkpm4xmtw3lg5: Crawling routine initiated with URL: http://56rgkpm4xmtw3lg5.onion
+2013-07-26_150616_56rgkpm4xmtw3lg5: Waiting 52 seconds before launching
+2013-07-26_150808_56rgkpm4xmtw3lg5: Crawling routine finished.
+
+2013-07-26_150848_56rkpm4xmtw3lg5y: Crawling routine initiated with URL: http://56rkpm4xmtw3lg5y.onion
+2013-07-26_150848_56rkpm4xmtw3lg5y: Waiting 33 seconds before launching
+2013-07-26_151013_56rkpm4xmtw3lg5y: Crawling routine finished.
+
+2013-07-26_151120_56rkpmk4xmtw3lg5: Crawling routine initiated with URL: http://56rkpmk4xmtw3lg5.onion
+2013-07-26_151120_56rkpmk4xmtw3lg5: Waiting 40 seconds before launching
+2013-07-26_151249_56rkpmk4xmtw3lg5: Crawling routine finished.
+
+2013-07-26_151352_56twxq4s4hogh2ae: Crawling routine initiated with URL: http://56twxq4s4hogh2ae.onion
+2013-07-26_151352_56twxq4s4hogh2ae: Waiting 21 seconds before launching
+2013-07-26_151928_56twxq4s4hogh2ae: Crawling routine finished.
+
+2013-07-26_152012_57gira36vpyjfur4: Crawling routine initiated with URL: http://57gira36vpyjfur4.onion
+2013-07-26_152012_57gira36vpyjfur4: Waiting 3 seconds before launching
+2013-07-26_152831_57gira36vpyjfur4: Crawling routine finished.
+
+2013-07-26_152904_57lpjyggfr5irvhu: Crawling routine initiated with URL: http://57lpjyggfr5irvhu.onion
+2013-07-26_152904_57lpjyggfr5irvhu: Waiting 19 seconds before launching
+2013-07-26_153006_57lpjyggfr5irvhu: Crawling routine finished.
+
+2013-07-26_153136_5a2v5a2jx36eu7xm: Crawling routine initiated with URL: http://5a2v5a2jx36eu7xm.onion
+2013-07-26_153136_5a2v5a2jx36eu7xm: Waiting 4 seconds before launching
+2013-07-26_153155_5a2v5a2jx36eu7xm: Crawling routine finished.
+
+2013-07-26_153408_5a7ryk7pdjflogpx: Crawling routine initiated with URL: http://5a7ryk7pdjflogpx.onion
+2013-07-26_153408_5a7ryk7pdjflogpx: Waiting 53 seconds before launching
+2013-07-26_170100_5a7ryk7pdjflogpx: Crawling routine finished.
+
+2013-07-26_170132_5amh4qfxyuxf7h5x: Crawling routine initiated with URL: http://5amh4qfxyuxf7h5x.onion
+2013-07-26_170132_5amh4qfxyuxf7h5x: Waiting 1 seconds before launching
+2013-07-26_170151_5amh4qfxyuxf7h5x: Crawling routine finished.
+
+2013-07-26_170404_5bn4iomaj5uwuibf: Crawling routine initiated with URL: http://5bn4iomaj5uwuibf.onion
+2013-07-26_170404_5bn4iomaj5uwuibf: Waiting 57 seconds before launching
+2013-07-26_170610_5bn4iomaj5uwuibf: Crawling routine finished.
+
+2013-07-26_170636_5caqxjcvwzhl2c4h: Crawling routine initiated with URL: http://5caqxjcvwzhl2c4h.onion
+2013-07-26_170636_5caqxjcvwzhl2c4h: Waiting 28 seconds before launching
+2013-07-26_170747_5caqxjcvwzhl2c4h: Crawling routine finished.
+
+2013-07-26_170908_5cez64xymwnci47y: Crawling routine initiated with URL: http://5cez64xymwnci47y.onion
+2013-07-26_170908_5cez64xymwnci47y: Waiting 1 seconds before launching
+2013-07-27_074327_5cez64xymwnci47y: Crawling routine finished.
+
+2013-07-27_074435_5dpjyg4pjggfay43: Crawling routine initiated with URL: http://5dpjyg4pjggfay43.onion
+2013-07-27_074435_5dpjyg4pjggfay43: Waiting 13 seconds before launching
+2013-07-27_074508_5dpjyg4pjggfay43: Crawling routine finished.
+
+2013-07-27_074707_5dszo7rmxsu2tgow: Crawling routine initiated with URL: http://5dszo7rmxsu2tgow.onion
+2013-07-27_074707_5dszo7rmxsu2tgow: Waiting 42 seconds before launching
+2013-07-27_074839_5dszo7rmxsu2tgow: Crawling routine finished.
+
+2013-07-27_074939_5egroo6nqlghvvsf: Crawling routine initiated with URL: http://5egroo6nqlghvvsf.onion
+2013-07-27_074939_5egroo6nqlghvvsf: Waiting 8 seconds before launching
+2013-07-27_075009_5egroo6nqlghvvsf: Crawling routine finished.
+
+2013-07-27_075211_5f3b2paz4qi35zmk: Crawling routine initiated with URL: http://5f3b2paz4qi35zmk.onion
+2013-07-27_075211_5f3b2paz4qi35zmk: Waiting 26 seconds before launching
+2013-07-27_075358_5f3b2paz4qi35zmk: Crawling routine finished.
+
+2013-07-27_075443_5f3b2paz4qit5zmk: Crawling routine initiated with URL: http://5f3b2paz4qit5zmk.onion
+2013-07-27_075443_5f3b2paz4qit5zmk: Waiting 8 seconds before launching
+2013-07-27_075514_5f3b2paz4qit5zmk: Crawling routine finished.
+
+2013-07-27_075715_5fhp26efw2wit3df: Crawling routine initiated with URL: http://5fhp26efw2wit3df.onion
+2013-07-27_075715_5fhp26efw2wit3df: Waiting 59 seconds before launching
+2013-07-27_075923_5fhp26efw2wit3df: Crawling routine finished.
+
+2013-07-27_075947_5gggmxudztvu6vu6: Crawling routine initiated with URL: http://5gggmxudztvu6vu6.onion
+2013-07-27_075947_5gggmxudztvu6vu6: Waiting 20 seconds before launching
+2013-07-27_080038_5gggmxudztvu6vu6: Crawling routine finished.
+
+2013-07-27_080219_5iywan7cx5pedcjk: Crawling routine initiated with URL: http://5iywan7cx5pedcjk.onion
+2013-07-27_080219_5iywan7cx5pedcjk: Waiting 5 seconds before launching
+2013-07-27_080239_5iywan7cx5pedcjk: Crawling routine finished.
+
+2013-07-27_080451_5kdgyjnpcihfzskc: Crawling routine initiated with URL: http://5kdgyjnpcihfzskc.onion
+2013-07-27_080451_5kdgyjnpcihfzskc: Waiting 31 seconds before launching
+2013-07-27_080609_5kdgyjnpcihfzskc: Crawling routine finished.
+
+2013-07-27_080723_5l3f4hnpzgx4bcf5: Crawling routine initiated with URL: http://5l3f4hnpzgx4bcf5.onion
+2013-07-27_080723_5l3f4hnpzgx4bcf5: Waiting 25 seconds before launching
+2013-07-27_080823_5l3f4hnpzgx4bcf5: Crawling routine finished.
+
+2013-07-27_080955_5l3t4hnpzgx4bcf5: Crawling routine initiated with URL: http://5l3t4hnpzgx4bcf5.onion
+2013-07-27_080955_5l3t4hnpzgx4bcf5: Waiting 7 seconds before launching
+2013-07-27_081034_5l3t4hnpzgx4bcf5: Crawling routine finished.
+
+2013-07-27_081227_5l5mecmbhern3bi2: Crawling routine initiated with URL: http://5l5mecmbhern3bi2.onion
+2013-07-27_081227_5l5mecmbhern3bi2: Waiting 17 seconds before launching
+2013-07-27_081313_5l5mecmbhern3bi2: Crawling routine finished.
+
+2013-07-27_081459_5onwnspjvuk7cwvk: Crawling routine initiated with URL: http://5onwnspjvuk7cwvk.onion
+2013-07-27_081459_5onwnspjvuk7cwvk: Waiting 7 seconds before launching
+2013-07-27_083210_5onwnspjvuk7cwvk: Crawling routine finished.
+
+2013-07-27_083243_5ownsyhcxkccscrp: Crawling routine initiated with URL: http://5ownsyhcxkccscrp.onion
+2013-07-27_083243_5ownsyhcxkccscrp: Waiting 25 seconds before launching
+2013-07-27_083355_5ownsyhcxkccscrp: Crawling routine finished.
+
+2013-07-27_083515_5pnauannuco7bsma: Crawling routine initiated with URL: http://5pnauannuco7bsma.onion
+2013-07-27_083515_5pnauannuco7bsma: Waiting 43 seconds before launching
+2013-07-27_083650_5pnauannuco7bsma: Crawling routine finished.
+
+2013-07-27_083747_5pyq73pxm423mgzx: Crawling routine initiated with URL: http://5pyq73pxm423mgzx.onion
+2013-07-27_083747_5pyq73pxm423mgzx: Waiting 17 seconds before launching
+2013-07-27_083835_5pyq73pxm423mgzx: Crawling routine finished.
+
+2013-07-27_084020_5qc5xrebkeqzjaig: Crawling routine initiated with URL: http://5qc5xrebkeqzjaig.onion
+2013-07-27_084020_5qc5xrebkeqzjaig: Waiting 1 seconds before launching
+2013-07-27_084027_5qc5xrebkeqzjaig: Crawling routine finished.
+
+2013-07-27_084252_5qn4l2fnkzt6epp4: Crawling routine initiated with URL: http://5qn4l2fnkzt6epp4.onion
+2013-07-27_084252_5qn4l2fnkzt6epp4: Waiting 20 seconds before launching
+2013-07-27_084340_5qn4l2fnkzt6epp4: Crawling routine finished.
+
+2013-07-27_084524_5qv2ttcuck6zergu: Crawling routine initiated with URL: http://5qv2ttcuck6zergu.onion
+2013-07-27_084524_5qv2ttcuck6zergu: Waiting 9 seconds before launching
+2013-07-27_084553_5qv2ttcuck6zergu: Crawling routine finished.
+
+2013-07-27_084756_5rw56roal3f2riwj: Crawling routine initiated with URL: http://5rw56roal3f2riwj.onion
+2013-07-27_084756_5rw56roal3f2riwj: Waiting 28 seconds before launching
+2013-07-27_084901_5rw56roal3f2riwj: Crawling routine finished.
+
+2013-07-27_085028_5sdehmaqvrjho7xn: Crawling routine initiated with URL: http://5sdehmaqvrjho7xn.onion
+2013-07-27_085028_5sdehmaqvrjho7xn: Waiting 10 seconds before launching
+2013-07-27_085058_5sdehmaqvrjho7xn: Crawling routine finished.
+
+2013-07-27_085300_5toqozoa4vkbduqe: Crawling routine initiated with URL: http://5toqozoa4vkbduqe.onion
+2013-07-27_085300_5toqozoa4vkbduqe: Waiting 53 seconds before launching
+2013-07-27_114311_5toqozoa4vkbduqe: Crawling routine finished.
+
+2013-07-27_114401_5u2jddymss6rsrnh: Crawling routine initiated with URL: http://5u2jddymss6rsrnh.onion
+2013-07-27_114401_5u2jddymss6rsrnh: Waiting 3 seconds before launching
+2013-07-27_114414_5u2jddymss6rsrnh: Crawling routine finished.
+
+2013-07-27_114633_5uvrgtrgtwkkxsgw: Crawling routine initiated with URL: http://5uvrgtrgtwkkxsgw.onion
+2013-07-27_114633_5uvrgtrgtwkkxsgw: Waiting 15 seconds before launching
+2013-07-27_123643_5uvrgtrgtwkkxsgw: Crawling routine finished.
+
+2013-07-27_123713_5wfoimenm6fviv4d: Crawling routine initiated with URL: http://5wfoimenm6fviv4d.onion
+2013-07-27_123713_5wfoimenm6fviv4d: Waiting 4 seconds before launching
+2013-07-28_100526_5wfoimenm6fviv4d: Crawling routine finished.
+
+2013-07-28_100537_5wmhmrueflqo4yus: Crawling routine initiated with URL: http://5wmhmrueflqo4yus.onion
+2013-07-28_100537_5wmhmrueflqo4yus: Waiting 17 seconds before launching
+2013-07-28_100648_5wmhmrueflqo4yus: Crawling routine finished.
+
+2013-07-28_100809_5xhp3ntcxfpfd5ig: Crawling routine initiated with URL: http://5xhp3ntcxfpfd5ig.onion
+2013-07-28_100809_5xhp3ntcxfpfd5ig: Waiting 41 seconds before launching
+2013-07-28_101220_5xhp3ntcxfpfd5ig: Crawling routine finished.
+
+2013-07-28_101313_5xki35vc4g5ts6gc: Crawling routine initiated with URL: http://5xki35vc4g5ts6gc.onion
+2013-07-28_101313_5xki35vc4g5ts6gc: Waiting 30 seconds before launching
+2013-07-28_192334_4i2aiir44iqzopme: Crawling routine finished.
+
+2013-07-28_192418_5xoramw6yjkfznjx: Crawling routine initiated with URL: http://5xoramw6yjkfznjx.onion
+2013-07-28_192418_5xoramw6yjkfznjx: Waiting 23 seconds before launching
+2013-07-28_192529_5xoramw6yjkfznjx: Crawling routine finished.
+
+2013-07-28_192650_5xoramw6yjktznjx: Crawling routine initiated with URL: http://5xoramw6yjktznjx.onion
+2013-07-28_192650_5xoramw6yjktznjx: Waiting 8 seconds before launching
+2013-07-28_192714_5xoramw6yjktznjx: Crawling routine finished.
+
+2013-07-28_192922_5xorawm6yjkfznjx: Crawling routine initiated with URL: http://5xorawm6yjkfznjx.onion
+2013-07-28_192922_5xorawm6yjkfznjx: Waiting 55 seconds before launching
+2013-07-28_193124_5xorawm6yjkfznjx: Crawling routine finished.
+
+2013-07-28_193154_5xrder5zmkqkdary: Crawling routine initiated with URL: http://5xrder5zmkqkdary.onion
+2013-07-28_193154_5xrder5zmkqkdary: Waiting 13 seconds before launching
+2013-07-29_025052_5xrder5zmkqkdary: Crawling routine finished.
+
+2013-07-29_025130_5ygbghjsc6gcmhf5: Crawling routine initiated with URL: http://5ygbghjsc6gcmhf5.onion
+2013-07-29_025130_5ygbghjsc6gcmhf5: Waiting 53 seconds before launching
+2013-07-29_025331_5ygbghjsc6gcmhf5: Crawling routine finished.
+
+2013-07-29_025402_5ywf46syaanfqfdk: Crawling routine initiated with URL: http://5ywf46syaanfqfdk.onion
+2013-07-29_025402_5ywf46syaanfqfdk: Waiting 1 seconds before launching
+2013-07-29_025427_5ywf46syaanfqfdk: Crawling routine finished.
+
+2013-07-29_025634_5ywru45yobku2u7v: Crawling routine initiated with URL: http://5ywru45yobku2u7v.onion
+2013-07-29_025634_5ywru45yobku2u7v: Waiting 9 seconds before launching
+2013-07-29_030342_5ywru45yobku2u7v: Crawling routine finished.
+
+2013-07-29_030410_5zknmzxrg73tzmju: Crawling routine initiated with URL: http://5zknmzxrg73tzmju.onion
+2013-07-29_030410_5zknmzxrg73tzmju: Waiting 22 seconds before launching
+2013-07-29_030503_5zknmzxrg73tzmju: Crawling routine finished.
+
+2013-07-29_030643_624eb2rznzhtq2cz: Crawling routine initiated with URL: http://624eb2rznzhtq2cz.onion
+2013-07-29_030643_624eb2rznzhtq2cz: Waiting 52 seconds before launching
+2013-07-29_030837_624eb2rznzhtq2cz: Crawling routine finished.
+
+2013-07-29_030915_627kx22vati6uqkw: Crawling routine initiated with URL: http://627kx22vati6uqkw.onion
+2013-07-29_030915_627kx22vati6uqkw: Waiting 19 seconds before launching
+2013-07-29_031624_627kx22vati6uqkw: Crawling routine finished.
+
+2013-07-29_031651_62lpxb2lt3yt6vgr: Crawling routine initiated with URL: http://62lpxb2lt3yt6vgr.onion
+2013-07-29_031651_62lpxb2lt3yt6vgr: Waiting 23 seconds before launching
+2013-07-29_033100_62lpxb2lt3yt6vgr: Crawling routine finished.
+
+2013-07-29_033203_632n2oxldj5rsrmg: Crawling routine initiated with URL: http://632n2oxldj5rsrmg.onion
+2013-07-29_033203_632n2oxldj5rsrmg: Waiting 9 seconds before launching
+2013-07-29_033246_632n2oxldj5rsrmg: Crawling routine finished.
+
+2013-07-29_033435_63gtqvgqw2lmb2j2: Crawling routine initiated with URL: http://63gtqvgqw2lmb2j2.onion
+2013-07-29_033435_63gtqvgqw2lmb2j2: Waiting 14 seconds before launching
+2013-07-29_043833_63gtqvgqw2lmb2j2: Crawling routine finished.
+
+2013-07-29_043911_63nnu5aqsqk2rfrh: Crawling routine initiated with URL: http://63nnu5aqsqk2rfrh.onion
+2013-07-29_043911_63nnu5aqsqk2rfrh: Waiting 8 seconds before launching
+2013-07-29_043933_63nnu5aqsqk2rfrh: Crawling routine finished.
+
+2013-07-29_044143_64aq5kh52sj5w3pd: Crawling routine initiated with URL: http://64aq5kh52sj5w3pd.onion
+2013-07-29_044143_64aq5kh52sj5w3pd: Waiting 27 seconds before launching
+2013-07-29_044248_64aq5kh52sj5w3pd: Crawling routine finished.
+
+2013-07-29_044415_64d7qoqgjcw47vvz: Crawling routine initiated with URL: http://64d7qoqgjcw47vvz.onion
+2013-07-29_044415_64d7qoqgjcw47vvz: Waiting 6 seconds before launching
+2013-07-29_044440_64d7qoqgjcw47vvz: Crawling routine finished.
+
+2013-07-29_044647_653p3e77wvxcpcli: Crawling routine initiated with URL: http://653p3e77wvxcpcli.onion
+2013-07-29_044647_653p3e77wvxcpcli: Waiting 17 seconds before launching
+2013-07-29_044733_653p3e77wvxcpcli: Crawling routine finished.
+
+2013-07-29_044919_65bgvta7yos3sce5: Crawling routine initiated with URL: http://65bgvta7yos3sce5.onion
+2013-07-29_044919_65bgvta7yos3sce5: Waiting 56 seconds before launching
+2013-07-29_133052_5xki35vc4g5ts6gc: Crawling routine finished.
+
+2013-07-29_133115_65r7axiaqyri7d67: Crawling routine initiated with URL: http://65r7axiaqyri7d67.onion
+2013-07-29_133115_65r7axiaqyri7d67: Waiting 36 seconds before launching
+2013-07-29_133336_65r7axiaqyri7d67: Crawling routine finished.
+
+2013-07-29_133347_665lw5dt6g32twwo: Crawling routine initiated with URL: http://665lw5dt6g32twwo.onion
+2013-07-29_133347_665lw5dt6g32twwo: Waiting 26 seconds before launching
+2013-07-29_133455_665lw5dt6g32twwo: Crawling routine finished.
+
+2013-07-29_133619_66k3ger4t3geitkm: Crawling routine initiated with URL: http://66k3ger4t3geitkm.onion
+2013-07-29_133619_66k3ger4t3geitkm: Waiting 20 seconds before launching
+2013-07-29_133707_66k3ger4t3geitkm: Crawling routine finished.
+
+2013-07-29_133851_67hgqxl25fixrdwd: Crawling routine initiated with URL: http://67hgqxl25fixrdwd.onion
+2013-07-29_133851_67hgqxl25fixrdwd: Waiting 18 seconds before launching
+2013-07-29_134012_67hgqxl25fixrdwd: Crawling routine finished.
+
+2013-07-29_134123_67tes2uesjreonud: Crawling routine initiated with URL: http://67tes2uesjreonud.onion
+2013-07-29_134123_67tes2uesjreonud: Waiting 42 seconds before launching
+2013-07-29_134301_67tes2uesjreonud: Crawling routine finished.
+
+2013-07-29_134355_67xc7xu2oxnijk3w: Crawling routine initiated with URL: http://67xc7xu2oxnijk3w.onion
+2013-07-29_134355_67xc7xu2oxnijk3w: Waiting 51 seconds before launching
+2013-07-29_134620_67xc7xu2oxnijk3w: Crawling routine finished.
+
+2013-07-29_134627_6bpruxeuncgwp4xv: Crawling routine initiated with URL: http://6bpruxeuncgwp4xv.onion
+2013-07-29_134627_6bpruxeuncgwp4xv: Waiting 40 seconds before launching
+2013-07-29_134758_6bpruxeuncgwp4xv: Crawling routine finished.
+
+2013-07-29_134859_6d4og2x4375fez3f: Crawling routine initiated with URL: http://6d4og2x4375fez3f.onion
+2013-07-29_134859_6d4og2x4375fez3f: Waiting 53 seconds before launching
+2013-07-29_135055_6d4og2x4375fez3f: Crawling routine finished.
+
+2013-07-29_135132_6dhsfph4eu6ohysq: Crawling routine initiated with URL: http://6dhsfph4eu6ohysq.onion
+2013-07-29_135132_6dhsfph4eu6ohysq: Waiting 7 seconds before launching
+2013-07-29_135747_6dhsfph4eu6ohysq: Crawling routine finished.
+
+2013-07-29_135752_6dyi4t72u7y6g763: Crawling routine initiated with URL: http://6dyi4t72u7y6g763.onion
+2013-07-29_135752_6dyi4t72u7y6g763: Waiting 28 seconds before launching
+2013-07-29_135901_6dyi4t72u7y6g763: Crawling routine finished.
+
+2013-07-29_140024_6er3q4dl6buhu5zi: Crawling routine initiated with URL: http://6er3q4dl6buhu5zi.onion
+2013-07-29_140024_6er3q4dl6buhu5zi: Waiting 51 seconds before launching
+2013-07-29_140218_6er3q4dl6buhu5zi: Crawling routine finished.
+
+2013-07-29_140256_6eranjd7c4f5rncf: Crawling routine initiated with URL: http://6eranjd7c4f5rncf.onion
+2013-07-29_140256_6eranjd7c4f5rncf: Waiting 5 seconds before launching
+2013-07-29_140319_6eranjd7c4f5rncf: Crawling routine finished.
+
+2013-07-29_140528_6fgd4togcynxyclb: Crawling routine initiated with URL: http://6fgd4togcynxyclb.onion
+2013-07-29_140528_6fgd4togcynxyclb: Waiting 4 seconds before launching
+2013-07-29_140558_6fgd4togcynxyclb: Crawling routine finished.
+
+2013-07-29_140800_6g2osf4l534bozmu: Crawling routine initiated with URL: http://6g2osf4l534bozmu.onion
+2013-07-29_140800_6g2osf4l534bozmu: Waiting 42 seconds before launching
+2013-07-29_140935_6g2osf4l534bozmu: Crawling routine finished.
+
+2013-07-29_141032_6gorm5xybnpzsngy: Crawling routine initiated with URL: http://6gorm5xybnpzsngy.onion
+2013-07-29_141032_6gorm5xybnpzsngy: Waiting 0 seconds before launching
+2013-07-29_141043_6gorm5xybnpzsngy: Crawling routine finished.
+
+2013-07-29_141304_6huunspb5fdyhxhz: Crawling routine initiated with URL: http://6huunspb5fdyhxhz.onion
+2013-07-29_141304_6huunspb5fdyhxhz: Waiting 43 seconds before launching
+2013-07-29_141458_6huunspb5fdyhxhz: Crawling routine finished.
+
+2013-07-29_141536_6j56sg4e4m3oom2e: Crawling routine initiated with URL: http://6j56sg4e4m3oom2e.onion
+2013-07-29_141536_6j56sg4e4m3oom2e: Waiting 12 seconds before launching
+2013-07-29_141614_6j56sg4e4m3oom2e: Crawling routine finished.
+
+2013-07-29_141808_6jkapix5w6bwwaxr: Crawling routine initiated with URL: http://6jkapix5w6bwwaxr.onion
+2013-07-29_141808_6jkapix5w6bwwaxr: Waiting 53 seconds before launching
+2013-07-29_142006_6jkapix5w6bwwaxr: Crawling routine finished.
+
+2013-07-29_142040_6jzwxsoxmlefkkkl: Crawling routine initiated with URL: http://6jzwxsoxmlefkkkl.onion
+2013-07-29_142040_6jzwxsoxmlefkkkl: Waiting 4 seconds before launching
+2013-07-29_142103_6jzwxsoxmlefkkkl: Crawling routine finished.
+
+2013-07-29_142312_6k4yzmgpslk3uike: Crawling routine initiated with URL: http://6k4yzmgpslk3uike.onion
+2013-07-29_142312_6k4yzmgpslk3uike: Waiting 22 seconds before launching
+2013-07-29_142409_6k4yzmgpslk3uike: Crawling routine finished.
+
+2013-07-29_142544_6lfmwnbeqfjttgu2: Crawling routine initiated with URL: http://6lfmwnbeqfjttgu2.onion
+2013-07-29_142544_6lfmwnbeqfjttgu2: Waiting 28 seconds before launching
+2013-07-29_142840_6lfmwnbeqfjttgu2: Crawling routine finished.
+
+2013-07-29_142932_6m6vpta3diigjw5f: Crawling routine initiated with URL: http://6m6vpta3diigjw5f.onion
+2013-07-29_142932_6m6vpta3diigjw5f: Waiting 20 seconds before launching
+2013-07-29_143024_6m6vpta3diigjw5f: Crawling routine finished.
+
+2013-07-29_143204_6mfljdudkvcqut5o: Crawling routine initiated with URL: http://6mfljdudkvcqut5o.onion
+2013-07-29_143204_6mfljdudkvcqut5o: Waiting 58 seconds before launching
+2013-07-29_143408_6mfljdudkvcqut5o: Crawling routine finished.
+
+2013-07-29_143436_6n4cuxee45ngwscx: Crawling routine initiated with URL: http://6n4cuxee45ngwscx.onion
+2013-07-29_143436_6n4cuxee45ngwscx: Waiting 21 seconds before launching
+2013-07-29_191716_4zeottxi5qmnnjhd: Crawling routine finished.
+
+2013-07-29_191822_6nkwrdtettmszaig: Crawling routine initiated with URL: http://6nkwrdtettmszaig.onion
+2013-07-29_191822_6nkwrdtettmszaig: Waiting 37 seconds before launching
+2013-07-29_191955_6nkwrdtettmszaig: Crawling routine finished.
+
+2013-07-29_192054_6ob5v7maen2gypss: Crawling routine initiated with URL: http://6ob5v7maen2gypss.onion
+2013-07-29_192054_6ob5v7maen2gypss: Waiting 9 seconds before launching
+2013-07-29_192124_6ob5v7maen2gypss: Crawling routine finished.
+
+2013-07-29_192326_6p7rd57bd6ph3hlp: Crawling routine initiated with URL: http://6p7rd57bd6ph3hlp.onion
+2013-07-29_192326_6p7rd57bd6ph3hlp: Waiting 40 seconds before launching
+2013-07-29_211304_6p7rd57bd6ph3hlp: Crawling routine finished.
+
+2013-07-29_211339_6p7rd57bd6pl3hlp: Crawling routine initiated with URL: http://6p7rd57bd6pl3hlp.onion
+2013-07-29_211339_6p7rd57bd6pl3hlp: Waiting 26 seconds before launching
+2013-07-29_211444_6p7rd57bd6pl3hlp: Crawling routine finished.
+
+2013-07-29_211611_6pc643zvwqjvxghb: Crawling routine initiated with URL: http://6pc643zvwqjvxghb.onion
+2013-07-29_211611_6pc643zvwqjvxghb: Waiting 6 seconds before launching
+2013-07-29_211823_6pc643zvwqjvxghb: Crawling routine finished.
+
+2013-07-29_211843_6pj4euixvagmb6pk: Crawling routine initiated with URL: http://6pj4euixvagmb6pk.onion
+2013-07-29_211843_6pj4euixvagmb6pk: Waiting 14 seconds before launching
+2013-07-29_211924_6pj4euixvagmb6pk: Crawling routine finished.
+
+2013-07-29_212115_6qackjstecukcesy: Crawling routine initiated with URL: http://6qackjstecukcesy.onion
+2013-07-29_212115_6qackjstecukcesy: Waiting 41 seconds before launching
+2013-07-29_212246_6qackjstecukcesy: Crawling routine finished.
+
+2013-07-29_212347_6qgubmttwqthdjzn: Crawling routine initiated with URL: http://6qgubmttwqthdjzn.onion
+2013-07-29_212347_6qgubmttwqthdjzn: Waiting 13 seconds before launching
+2013-07-29_231428_6qgubmttwqthdjzn: Crawling routine finished.
+
+2013-07-29_231516_6qjdmacd42635rpo: Crawling routine initiated with URL: http://6qjdmacd42635rpo.onion
+2013-07-29_231516_6qjdmacd42635rpo: Waiting 0 seconds before launching
+2013-07-29_231526_6qjdmacd42635rpo: Crawling routine finished.
+
+2013-07-29_231748_6rbu7u2ottvgldaw: Crawling routine initiated with URL: http://6rbu7u2ottvgldaw.onion
+2013-07-29_231748_6rbu7u2ottvgldaw: Waiting 43 seconds before launching
+2013-07-30_041301_6rbu7u2ottvgldaw: Crawling routine finished.
+
+2013-07-30_041417_6s3ykalgzmbz4et7: Crawling routine initiated with URL: http://6s3ykalgzmbz4et7.onion
+2013-07-30_041417_6s3ykalgzmbz4et7: Waiting 41 seconds before launching
+2013-07-30_042112_6s3ykalgzmbz4et7: Crawling routine finished.
+
+2013-07-30_042153_6sgjmi53igmg7fm7: Crawling routine initiated with URL: http://6sgjmi53igmg7fm7.onion
+2013-07-30_042153_6sgjmi53igmg7fm7: Waiting 31 seconds before launching
+2013-07-30_043350_6n4cuxee45ngwscx: Crawling routine finished.
+
+2013-07-30_043433_6sxoyfb3h2nvok2d: Crawling routine initiated with URL: http://6sxoyfb3h2nvok2d.onion
+2013-07-30_043433_6sxoyfb3h2nvok2d: Waiting 22 seconds before launching
+2013-07-30_043531_6sxoyfb3h2nvok2d: Crawling routine finished.
+
+2013-07-30_043705_6vmgggba6rksjyim: Crawling routine initiated with URL: http://6vmgggba6rksjyim.onion
+2013-07-30_043705_6vmgggba6rksjyim: Waiting 56 seconds before launching
+2013-07-30_043912_6vmgggba6rksjyim: Crawling routine finished.
+
+2013-07-30_043937_6wwaesag3zzct2oc: Crawling routine initiated with URL: http://6wwaesag3zzct2oc.onion
+2013-07-30_043937_6wwaesag3zzct2oc: Waiting 21 seconds before launching
+2013-07-30_044027_6wwaesag3zzct2oc: Crawling routine finished.
+
+2013-07-30_044209_6wweasag3zzct2oc: Crawling routine initiated with URL: http://6wweasag3zzct2oc.onion
+2013-07-30_044209_6wweasag3zzct2oc: Waiting 51 seconds before launching
+2013-07-30_044357_6wweasag3zzct2oc: Crawling routine finished.
+
+2013-07-30_044441_6x77gb7ngu6nymwl: Crawling routine initiated with URL: http://6x77gb7ngu6nymwl.onion
+2013-07-30_044441_6x77gb7ngu6nymwl: Waiting 57 seconds before launching
+2013-07-30_044644_6x77gb7ngu6nymwl: Crawling routine finished.
+
+2013-07-30_044713_6xjgdqlmvesefnkp: Crawling routine initiated with URL: http://6xjgdqlmvesefnkp.onion
+2013-07-30_044713_6xjgdqlmvesefnkp: Waiting 59 seconds before launching
+2013-07-30_044922_6xjgdqlmvesefnkp: Crawling routine finished.
+
+2013-07-30_044945_6xjsdqe4akxtb3qo: Crawling routine initiated with URL: http://6xjsdqe4akxtb3qo.onion
+2013-07-30_044945_6xjsdqe4akxtb3qo: Waiting 32 seconds before launching
+2013-07-30_045249_6xjsdqe4akxtb3qo: Crawling routine finished.
+
+2013-07-30_045333_6zd3sbdcxvmc3c5u: Crawling routine initiated with URL: http://6zd3sbdcxvmc3c5u.onion
+2013-07-30_045333_6zd3sbdcxvmc3c5u: Waiting 22 seconds before launching
+2013-07-30_045433_6zd3sbdcxvmc3c5u: Crawling routine finished.
+
+2013-07-30_045605_72knj6fszk2zytwa: Crawling routine initiated with URL: http://72knj6fszk2zytwa.onion
+2013-07-30_045605_72knj6fszk2zytwa: Waiting 17 seconds before launching
+2013-07-30_045648_72knj6fszk2zytwa: Crawling routine finished.
+
+2013-07-30_045837_72yawn36vkqttxdk: Crawling routine initiated with URL: http://72yawn36vkqttxdk.onion
+2013-07-30_045837_72yawn36vkqttxdk: Waiting 0 seconds before launching
+2013-07-30_045846_72yawn36vkqttxdk: Crawling routine finished.
+
+2013-07-30_050109_73ap4kgggpukctrz: Crawling routine initiated with URL: http://73ap4kgggpukctrz.onion
+2013-07-30_050109_73ap4kgggpukctrz: Waiting 48 seconds before launching
+2013-07-30_050347_73ap4kgggpukctrz: Crawling routine finished.
+
+2013-07-30_050457_743eaqv4t5vojk2u: Crawling routine initiated with URL: http://743eaqv4t5vojk2u.onion
+2013-07-30_050457_743eaqv4t5vojk2u: Waiting 30 seconds before launching
+2013-07-30_050603_743eaqv4t5vojk2u: Crawling routine finished.
+
+2013-07-30_050729_74bnnmoaz2tgvj6u: Crawling routine initiated with URL: http://74bnnmoaz2tgvj6u.onion
+2013-07-30_050729_74bnnmoaz2tgvj6u: Waiting 40 seconds before launching
+2013-07-30_050900_74bnnmoaz2tgvj6u: Crawling routine finished.
+
+2013-07-30_051001_74ypjqjwf6oejmax: Crawling routine initiated with URL: http://74ypjqjwf6oejmax.onion
+2013-07-30_051001_74ypjqjwf6oejmax: Waiting 50 seconds before launching
+2013-07-30_060614_74ypjqjwf6oejmax: Crawling routine finished.
+
+2013-07-30_060702_75aiiotc26qp4j2y: Crawling routine initiated with URL: http://75aiiotc26qp4j2y.onion
+2013-07-30_060702_75aiiotc26qp4j2y: Waiting 5 seconds before launching
+2013-07-30_060719_75aiiotc26qp4j2y: Crawling routine finished.
+
+2013-07-30_060934_76jejbkd7gtm5jbb: Crawling routine initiated with URL: http://76jejbkd7gtm5jbb.onion
+2013-07-30_060934_76jejbkd7gtm5jbb: Waiting 35 seconds before launching
+2013-07-30_061052_76jejbkd7gtm5jbb: Crawling routine finished.
+
+2013-07-30_061206_76qugh5bey5gum7l: Crawling routine initiated with URL: http://76qugh5bey5gum7l.onion
+2013-07-30_061206_76qugh5bey5gum7l: Waiting 36 seconds before launching
+2013-08-01_001339_3suaolltfj2xjksb: Crawling routine finished.
+
+2013-08-01_001428_7bm7p4ttba5tanme: Crawling routine initiated with URL: http://7bm7p4ttba5tanme.onion
+2013-08-01_001428_7bm7p4ttba5tanme: Waiting 2 seconds before launching
+2013-08-01_001437_7bm7p4ttba5tanme: Crawling routine finished.
+
+2013-08-01_001700_7cdxflcqrulecox7: Crawling routine initiated with URL: http://7cdxflcqrulecox7.onion
+2013-08-01_001700_7cdxflcqrulecox7: Waiting 11 seconds before launching
+2013-08-01_001756_7cdxflcqrulecox7: Crawling routine finished.
+
+2013-08-01_001932_7ceq7omeec5zg3yx: Crawling routine initiated with URL: http://7ceq7omeec5zg3yx.onion
+2013-08-01_001932_7ceq7omeec5zg3yx: Waiting 40 seconds before launching
+2013-08-01_002447_7ceq7omeec5zg3yx: Crawling routine finished.
+
+2013-08-01_002553_7cov2loswjrmaqot: Crawling routine initiated with URL: http://7cov2loswjrmaqot.onion
+2013-08-01_002553_7cov2loswjrmaqot: Waiting 47 seconds before launching
+2013-08-01_002736_7cov2loswjrmaqot: Crawling routine finished.
+
+2013-08-01_002825_7czoe44itzlsfcwl: Crawling routine initiated with URL: http://7czoe44itzlsfcwl.onion
+2013-08-01_002825_7czoe44itzlsfcwl: Waiting 38 seconds before launching
+2013-08-01_003007_7czoe44itzlsfcwl: Crawling routine finished.
+
+2013-08-01_003057_7dgfumor4vqaicp2: Crawling routine initiated with URL: http://7dgfumor4vqaicp2.onion
+2013-08-01_003057_7dgfumor4vqaicp2: Waiting 9 seconds before launching
+2013-08-01_003315_7dgfumor4vqaicp2: Crawling routine finished.
+
+2013-08-01_003329_7dtddy7sei4a2xfq: Crawling routine initiated with URL: http://7dtddy7sei4a2xfq.onion
+2013-08-01_003329_7dtddy7sei4a2xfq: Waiting 40 seconds before launching
+2013-08-01_003514_7dtddy7sei4a2xfq: Crawling routine finished.
+
+2013-08-01_003601_7epffou7bbaysszw: Crawling routine initiated with URL: http://7epffou7bbaysszw.onion
+2013-08-01_003601_7epffou7bbaysszw: Waiting 55 seconds before launching
+2013-08-01_003953_7epffou7bbaysszw: Crawling routine finished.
+
+2013-08-01_004105_7g64vcf6jmbcx3jn: Crawling routine initiated with URL: http://7g64vcf6jmbcx3jn.onion
+2013-08-01_004105_7g64vcf6jmbcx3jn: Waiting 2 seconds before launching
+2013-08-01_004132_7g64vcf6jmbcx3jn: Crawling routine finished.
+
+2013-08-01_004337_7gnjyh63yymrjicq: Crawling routine initiated with URL: http://7gnjyh63yymrjicq.onion
+2013-08-01_004337_7gnjyh63yymrjicq: Waiting 21 seconds before launching
+2013-08-01_004444_7gnjyh63yymrjicq: Crawling routine finished.
+
+2013-08-01_004609_7has75ietrhjds3j: Crawling routine initiated with URL: http://7has75ietrhjds3j.onion
+2013-08-01_004609_7has75ietrhjds3j: Waiting 11 seconds before launching
+2013-08-01_004642_7has75ietrhjds3j: Crawling routine finished.
+
+2013-08-01_004842_7haz75ietrhjds3j: Crawling routine initiated with URL: http://7haz75ietrhjds3j.onion
+2013-08-01_004842_7haz75ietrhjds3j: Waiting 11 seconds before launching
+2013-08-01_004913_7haz75ietrhjds3j: Crawling routine finished.
+
+2013-08-01_005114_7i34pzpscfswcczo: Crawling routine initiated with URL: http://7i34pzpscfswcczo.onion
+2013-08-01_005114_7i34pzpscfswcczo: Waiting 53 seconds before launching
+2013-08-01_005500_7i34pzpscfswcczo: Crawling routine finished.
+
+2013-08-01_005502_7ibcuoqkz7hi2oim: Crawling routine initiated with URL: http://7ibcuoqkz7hi2oim.onion
+2013-08-01_005502_7ibcuoqkz7hi2oim: Waiting 58 seconds before launching
+2013-08-01_011849_7ibcuoqkz7hi2oim: Crawling routine finished.
+
+2013-08-01_011906_7jguhsfwruviatqe: Crawling routine initiated with URL: http://7jguhsfwruviatqe.onion
+2013-08-01_011906_7jguhsfwruviatqe: Waiting 34 seconds before launching
+2013-08-02_124845_76qugh5bey5gum7l: Crawling routine finished.
+
+2013-08-02_125000_7jngivhpns5que6q: Crawling routine initiated with URL: http://7jngivhpns5que6q.onion
+2013-08-02_125000_7jngivhpns5que6q: Waiting 42 seconds before launching
+2013-08-02_125151_7jngivhpns5que6q: Crawling routine finished.
+
+2013-08-02_125232_7kvucw3xaostxoan: Crawling routine initiated with URL: http://7kvucw3xaostxoan.onion
+2013-08-02_125232_7kvucw3xaostxoan: Waiting 27 seconds before launching
+2013-08-02_125416_7kvucw3xaostxoan: Crawling routine finished.
+
+2013-08-02_125504_7ldkpbjmwwl7rqk6: Crawling routine initiated with URL: http://7ldkpbjmwwl7rqk6.onion
+2013-08-02_125504_7ldkpbjmwwl7rqk6: Waiting 41 seconds before launching
+2013-08-02_125650_7ldkpbjmwwl7rqk6: Crawling routine finished.
+
+2013-08-02_125736_7le75bptsqkrwp74: Crawling routine initiated with URL: http://7le75bptsqkrwp74.onion
+2013-08-02_125736_7le75bptsqkrwp74: Waiting 41 seconds before launching
+2013-08-02_125916_7le75bptsqkrwp74: Crawling routine finished.
+
+2013-08-02_130008_7ll6yck7azloqjqv: Crawling routine initiated with URL: http://7ll6yck7azloqjqv.onion
+2013-08-02_130008_7ll6yck7azloqjqv: Waiting 29 seconds before launching
+2013-08-02_130128_7ll6yck7azloqjqv: Crawling routine finished.
+
+2013-08-02_130241_7mifns52ctquetqe: Crawling routine initiated with URL: http://7mifns52ctquetqe.onion
+2013-08-02_130241_7mifns52ctquetqe: Waiting 43 seconds before launching
+2013-08-02_130418_7mifns52ctquetqe: Crawling routine finished.
+
+2013-08-02_130513_7nuvxjit5tjmjtms: Crawling routine initiated with URL: http://7nuvxjit5tjmjtms.onion
+2013-08-02_130513_7nuvxjit5tjmjtms: Waiting 14 seconds before launching
+2013-08-02_130558_7nuvxjit5tjmjtms: Crawling routine finished.
+
+2013-08-02_130745_7o4ilsk5bp7nemz6: Crawling routine initiated with URL: http://7o4ilsk5bp7nemz6.onion
+2013-08-02_130745_7o4ilsk5bp7nemz6: Waiting 38 seconds before launching
+2013-08-02_130931_7o4ilsk5bp7nemz6: Crawling routine finished.
+
+2013-08-02_131017_7o6dcmajcps4tbjb: Crawling routine initiated with URL: http://7o6dcmajcps4tbjb.onion
+2013-08-02_131017_7o6dcmajcps4tbjb: Waiting 23 seconds before launching
+2013-08-02_131129_7o6dcmajcps4tbjb: Crawling routine finished.
+
+2013-08-02_131249_7ociyvi7elahtiuh: Crawling routine initiated with URL: http://7ociyvi7elahtiuh.onion
+2013-08-02_131249_7ociyvi7elahtiuh: Waiting 20 seconds before launching
+2013-08-02_131530_7ociyvi7elahtiuh: Crawling routine finished.
+
+2013-08-02_131637_7omudmiplwglbnzd: Crawling routine initiated with URL: http://7omudmiplwglbnzd.onion
+2013-08-02_131637_7omudmiplwglbnzd: Waiting 7 seconds before launching
+2013-08-02_131709_7omudmiplwglbnzd: Crawling routine finished.
+
+2013-08-02_131909_7ozxgyaebmvcwvxl: Crawling routine initiated with URL: http://7ozxgyaebmvcwvxl.onion
+2013-08-02_131909_7ozxgyaebmvcwvxl: Waiting 36 seconds before launching
+2013-08-02_132029_7ozxgyaebmvcwvxl: Crawling routine finished.
+
+2013-08-02_132141_7pwhaqsxbjdj27gx: Crawling routine initiated with URL: http://7pwhaqsxbjdj27gx.onion
+2013-08-02_132141_7pwhaqsxbjdj27gx: Waiting 36 seconds before launching
+2013-08-05_102309_65bgvta7yos3sce5: Crawling routine finished.
+
+2013-08-05_102312_7t4oyxikntymzevy: Crawling routine initiated with URL: http://7t4oyxikntymzevy.onion
+2013-08-05_102312_7t4oyxikntymzevy: Waiting 26 seconds before launching
+2013-08-05_102414_7t4oyxikntymzevy: Crawling routine finished.
+
+2013-08-05_102544_7taxwkbteb6raduz: Crawling routine initiated with URL: http://7taxwkbteb6raduz.onion
+2013-08-05_102544_7taxwkbteb6raduz: Waiting 24 seconds before launching
+2013-08-05_102649_7taxwkbteb6raduz: Crawling routine finished.
+
+2013-08-05_102816_7tcvsgu2wbgkfsba: Crawling routine initiated with URL: http://7tcvsgu2wbgkfsba.onion
+2013-08-05_102816_7tcvsgu2wbgkfsba: Waiting 48 seconds before launching
+2013-08-05_103425_7tcvsgu2wbgkfsba: Crawling routine finished.
+
+2013-08-05_103436_7tnth7wvmgb23nqs: Crawling routine initiated with URL: http://7tnth7wvmgb23nqs.onion
+2013-08-05_103436_7tnth7wvmgb23nqs: Waiting 12 seconds before launching
+2013-08-05_103522_7tnth7wvmgb23nqs: Crawling routine finished.
+
+2013-08-05_103708_7tpasjtusccc3dba: Crawling routine initiated with URL: http://7tpasjtusccc3dba.onion
+2013-08-05_103708_7tpasjtusccc3dba: Waiting 58 seconds before launching
+2013-08-05_103913_7tpasjtusccc3dba: Crawling routine finished.
+
+2013-08-05_103940_7ua2237c2pd6c6m5: Crawling routine initiated with URL: http://7ua2237c2pd6c6m5.onion
+2013-08-05_103940_7ua2237c2pd6c6m5: Waiting 0 seconds before launching
+2013-08-05_103958_7ua2237c2pd6c6m5: Crawling routine finished.
+
+2013-08-05_104212_7ud2wpm4nzup4bvs: Crawling routine initiated with URL: http://7ud2wpm4nzup4bvs.onion
+2013-08-05_104212_7ud2wpm4nzup4bvs: Waiting 27 seconds before launching
+2013-08-05_104320_7ud2wpm4nzup4bvs: Crawling routine finished.
+
+2013-08-05_104444_7ufb532zwap5gpyc: Crawling routine initiated with URL: http://7ufb532zwap5gpyc.onion
+2013-08-05_104444_7ufb532zwap5gpyc: Waiting 12 seconds before launching
+2013-08-05_104521_7ufb532zwap5gpyc: Crawling routine finished.
+
+2013-08-05_104716_7uojwkymbozgijfd: Crawling routine initiated with URL: http://7uojwkymbozgijfd.onion
+2013-08-05_104716_7uojwkymbozgijfd: Waiting 54 seconds before launching
+2013-08-05_104910_7uojwkymbozgijfd: Crawling routine finished.
+
+2013-08-05_104948_7v2i3bwsaj7cjs34: Crawling routine initiated with URL: http://7v2i3bwsaj7cjs34.onion
+2013-08-05_104948_7v2i3bwsaj7cjs34: Waiting 4 seconds before launching
+2013-08-05_105017_7v2i3bwsaj7cjs34: Crawling routine finished.
+
+2013-08-05_105220_7vbo6j2gaa6v2am3: Crawling routine initiated with URL: http://7vbo6j2gaa6v2am3.onion
+2013-08-05_105220_7vbo6j2gaa6v2am3: Waiting 57 seconds before launching
+2013-08-05_105505_7vbo6j2gaa6v2am3: Crawling routine finished.
+
+2013-08-05_105608_7vrjxqduw426kcv6: Crawling routine initiated with URL: http://7vrjxqduw426kcv6.onion
+2013-08-05_105608_7vrjxqduw426kcv6: Waiting 47 seconds before launching
+2013-08-05_105801_7vrjxqduw426kcv6: Crawling routine finished.
+
+2013-08-05_105840_7w35uwnqfzaerugw: Crawling routine initiated with URL: http://7w35uwnqfzaerugw.onion
+2013-08-05_105840_7w35uwnqfzaerugw: Waiting 8 seconds before launching
+2013-08-05_110056_7w35uwnqfzaerugw: Crawling routine finished.
+
+2013-08-05_110112_7waks4zcqwrqsiqx: Crawling routine initiated with URL: http://7waks4zcqwrqsiqx.onion
+2013-08-05_110112_7waks4zcqwrqsiqx: Waiting 33 seconds before launching
+2013-08-05_110232_7waks4zcqwrqsiqx: Crawling routine finished.
+
+2013-08-05_110344_7ydnpplko5lbgfx5: Crawling routine initiated with URL: http://7ydnpplko5lbgfx5.onion
+2013-08-05_110344_7ydnpplko5lbgfx5: Waiting 59 seconds before launching
+2013-08-05_110554_7ydnpplko5lbgfx5: Crawling routine finished.
+
+2013-08-05_110616_7ymfzygewl4n6usp: Crawling routine initiated with URL: http://7ymfzygewl4n6usp.onion
+2013-08-05_110616_7ymfzygewl4n6usp: Waiting 43 seconds before launching
+2013-08-05_110758_7ymfzygewl4n6usp: Crawling routine finished.
+
+2013-08-05_110848_7yrqyvhafv36voup: Crawling routine initiated with URL: http://7yrqyvhafv36voup.onion
+2013-08-05_110848_7yrqyvhafv36voup: Waiting 31 seconds before launching
+2013-08-05_111150_7yrqyvhafv36voup: Crawling routine finished.
+
+2013-08-05_111236_Disambiguationsp: Crawling routine initiated with URL: http://Disambiguationsp.onion
+2013-08-05_111236_Disambiguationsp: Waiting 58 seconds before launching
+2013-08-05_111444_Disambiguationsp: Crawling routine finished.
+
+2013-08-05_111508_FastCash4Bitcoin: Crawling routine initiated with URL: http://FastCash4Bitcoin.onion
+2013-08-05_111508_FastCash4Bitcoin: Waiting 37 seconds before launching
+2013-08-05_111632_FastCash4Bitcoin: Crawling routine finished.
+
+2013-08-05_111740_FileDuplicateSea: Crawling routine initiated with URL: http://FileDuplicateSea.onion
+2013-08-05_111740_FileDuplicateSea: Waiting 33 seconds before launching
+2013-08-05_111904_FileDuplicateSea: Crawling routine finished.
+
+2013-08-05_112012_Johnyhasgonefora: Crawling routine initiated with URL: http://Johnyhasgonefora.onion
+2013-08-05_112012_Johnyhasgonefora: Waiting 44 seconds before launching
+2013-08-05_112150_Johnyhasgonefora: Crawling routine finished.
+
+2013-08-05_112244_MostLinkedCatego: Crawling routine initiated with URL: http://MostLinkedCatego.onion
+2013-08-05_112244_MostLinkedCatego: Waiting 52 seconds before launching
+2013-08-05_112448_MostLinkedCatego: Crawling routine finished.
+
+2013-08-05_112516_MostLinkedTempla: Crawling routine initiated with URL: http://MostLinkedTempla.onion
+2013-08-05_112516_MostLinkedTempla: Waiting 46 seconds before launching
+2013-08-05_112655_MostLinkedTempla: Crawling routine finished.
+
+2013-08-05_112748_RecentChangesLin: Crawling routine initiated with URL: http://RecentChangesLin.onion
+2013-08-05_112748_RecentChangesLin: Waiting 56 seconds before launching
+2013-08-05_112952_RecentChangesLin: Crawling routine finished.
+
+2013-08-05_113020_UncategorizedCat: Crawling routine initiated with URL: http://UncategorizedCat.onion
+2013-08-05_113020_UncategorizedCat: Waiting 47 seconds before launching
+2013-08-05_113205_UncategorizedCat: Crawling routine finished.
+
+2013-08-05_113252_UncategorizedFil: Crawling routine initiated with URL: http://UncategorizedFil.onion
+2013-08-05_113252_UncategorizedFil: Waiting 19 seconds before launching
+2013-08-05_113347_UncategorizedFil: Crawling routine finished.
+
+2013-08-05_113524_UncategorizedPag: Crawling routine initiated with URL: http://UncategorizedPag.onion
+2013-08-05_113524_UncategorizedPag: Waiting 58 seconds before launching
+2013-08-05_113736_UncategorizedPag: Crawling routine finished.
+
+2013-08-05_113756_UncategorizedTem: Crawling routine initiated with URL: http://UncategorizedTem.onion
+2013-08-05_113756_UncategorizedTem: Waiting 57 seconds before launching
+2013-08-05_114002_UncategorizedTem: Crawling routine finished.
+
+2013-08-05_114028_UnusedCategories: Crawling routine initiated with URL: http://UnusedCategories.onion
+2013-08-05_114028_UnusedCategories: Waiting 27 seconds before launching
+2013-08-05_114138_UnusedCategories: Crawling routine finished.
+
+2013-08-05_114300_WantedCategories: Crawling routine initiated with URL: http://WantedCategories.onion
+2013-08-05_114300_WantedCategories: Waiting 58 seconds before launching
+2013-08-05_114515_WantedCategories: Crawling routine finished.
+
+2013-08-05_114532_WithoutInterwiki: Crawling routine initiated with URL: http://WithoutInterwiki.onion
+2013-08-05_114532_WithoutInterwiki: Waiting 31 seconds before launching
+2013-08-05_114646_WithoutInterwiki: Crawling routine finished.
+
+2013-08-05_114804_a3rsh5twwjphtida: Crawling routine initiated with URL: http://a3rsh5twwjphtida.onion
+2013-08-05_114804_a3rsh5twwjphtida: Waiting 44 seconds before launching
+2013-08-05_115010_a3rsh5twwjphtida: Crawling routine finished.
+
+2013-08-05_115036_a5ec6f6zcxtudtch: Crawling routine initiated with URL: http://a5ec6f6zcxtudtch.onion
+2013-08-05_115036_a5ec6f6zcxtudtch: Waiting 20 seconds before launching
+2013-08-05_115131_a5ec6f6zcxtudtch: Crawling routine finished.
+
+2013-08-05_115308_a5l43vkswlintavt: Crawling routine initiated with URL: http://a5l43vkswlintavt.onion
+2013-08-05_115308_a5l43vkswlintavt: Waiting 4 seconds before launching
+2013-08-05_115329_a5l43vkswlintavt: Crawling routine finished.
+
+2013-08-05_115540_a5lnwaidgldly7j3: Crawling routine initiated with URL: http://a5lnwaidgldly7j3.onion
+2013-08-05_115540_a5lnwaidgldly7j3: Waiting 39 seconds before launching
+2013-08-05_115713_a5lnwaidgldly7j3: Crawling routine finished.
+
+2013-08-05_115812_a6da5h2cyzpcg2kv: Crawling routine initiated with URL: http://a6da5h2cyzpcg2kv.onion
+2013-08-05_115812_a6da5h2cyzpcg2kv: Waiting 37 seconds before launching
+2013-08-05_115942_a6da5h2cyzpcg2kv: Crawling routine finished.
+
+2013-08-05_120044_a7g6lqs3ves2ahfy: Crawling routine initiated with URL: http://a7g6lqs3ves2ahfy.onion
+2013-08-05_120044_a7g6lqs3ves2ahfy: Waiting 32 seconds before launching
+2013-08-05_120251_a7g6lqs3ves2ahfy: Crawling routine finished.
+
+2013-08-05_120316_aapzgqkayo2c6ojg: Crawling routine initiated with URL: http://aapzgqkayo2c6ojg.onion
+2013-08-05_120316_aapzgqkayo2c6ojg: Waiting 7 seconds before launching
+2013-08-05_120342_aapzgqkayo2c6ojg: Crawling routine finished.
+
+2013-08-05_120549_abbujjh5vqtq77wg: Crawling routine initiated with URL: http://abbujjh5vqtq77wg.onion
+2013-08-05_120549_abbujjh5vqtq77wg: Waiting 23 seconds before launching
+2013-08-05_121244_abbujjh5vqtq77wg: Crawling routine finished.
+
+2013-08-05_121325_acdcoduomhlthume: Crawling routine initiated with URL: http://acdcoduomhlthume.onion
+2013-08-05_121325_acdcoduomhlthume: Waiting 39 seconds before launching
+2013-08-05_121451_acdcoduomhlthume: Crawling routine finished.
+
+2013-08-05_121557_ad2nkthehfvrmgal: Crawling routine initiated with URL: http://ad2nkthehfvrmgal.onion
+2013-08-05_121557_ad2nkthehfvrmgal: Waiting 44 seconds before launching
+2013-08-05_121725_ad2nkthehfvrmgal: Crawling routine finished.
+
+2013-08-05_121829_ad52wtwp2goynr3a: Crawling routine initiated with URL: http://ad52wtwp2goynr3a.onion
+2013-08-05_121829_ad52wtwp2goynr3a: Waiting 2 seconds before launching
+2013-08-05_121833_ad52wtwp2goynr3a: Crawling routine finished.
+
+2013-08-05_122101_ae4n6d6sevfu454b: Crawling routine initiated with URL: http://ae4n6d6sevfu454b.onion
+2013-08-05_122101_ae4n6d6sevfu454b: Waiting 59 seconds before launching
+2013-08-05_122311_ae4n6d6sevfu454b: Crawling routine finished.
+
+2013-08-05_122333_ae4n6d6sewfu454b: Crawling routine initiated with URL: http://ae4n6d6sewfu454b.onion
+2013-08-05_122333_ae4n6d6sewfu454b: Waiting 17 seconds before launching
+2013-08-05_131703_ae4n6d6sewfu454b: Crawling routine finished.
+
+2013-08-05_131801_aeexqbnhxy7q4h2y: Crawling routine initiated with URL: http://aeexqbnhxy7q4h2y.onion
+2013-08-05_131801_aeexqbnhxy7q4h2y: Waiting 32 seconds before launching
+2013-08-05_131922_aeexqbnhxy7q4h2y: Crawling routine finished.
+
+2013-08-05_132033_aejcof6l7vg6soml: Crawling routine initiated with URL: http://aejcof6l7vg6soml.onion
+2013-08-05_132033_aejcof6l7vg6soml: Waiting 15 seconds before launching
+2013-08-05_132819_aejcof6l7vg6soml: Crawling routine finished.
+
+2013-08-05_132925_af5fqryeoeb46qc7: Crawling routine initiated with URL: http://af5fqryeoeb46qc7.onion
+2013-08-05_132925_af5fqryeoeb46qc7: Waiting 12 seconds before launching
+2013-08-05_133006_af5fqryeoeb46qc7: Crawling routine finished.
+
+2013-08-05_133157_afrkuvltgrzm7phy: Crawling routine initiated with URL: http://afrkuvltgrzm7phy.onion
+2013-08-05_133157_afrkuvltgrzm7phy: Waiting 54 seconds before launching
+2013-08-05_133357_afrkuvltgrzm7phy: Crawling routine finished.
+
+2013-08-05_133429_agfto6oztmnrhhfc: Crawling routine initiated with URL: http://agfto6oztmnrhhfc.onion
+2013-08-05_133429_agfto6oztmnrhhfc: Waiting 47 seconds before launching
+2013-08-05_133618_agfto6oztmnrhhfc: Crawling routine finished.
+
+2013-08-05_133701_ah5dm66duazqkz6h: Crawling routine initiated with URL: http://ah5dm66duazqkz6h.onion
+2013-08-05_133701_ah5dm66duazqkz6h: Waiting 11 seconds before launching
+2013-08-05_133738_ah5dm66duazqkz6h: Crawling routine finished.
+
+2013-08-05_133933_aiw2jgiqm5n2v77s: Crawling routine initiated with URL: http://aiw2jgiqm5n2v77s.onion
+2013-08-05_133933_aiw2jgiqm5n2v77s: Waiting 22 seconds before launching
+2013-08-05_135950_aiw2jgiqm5n2v77s: Crawling routine finished.
+
+2013-08-05_140106_aj47a7fb3ype3esb: Crawling routine initiated with URL: http://aj47a7fb3ype3esb.onion
+2013-08-05_140106_aj47a7fb3ype3esb: Waiting 36 seconds before launching
+2013-08-05_140234_aj47a7fb3ype3esb: Crawling routine finished.
+
+2013-08-05_140338_ajqaivfxtqy3fdlr: Crawling routine initiated with URL: http://ajqaivfxtqy3fdlr.onion
+2013-08-05_140338_ajqaivfxtqy3fdlr: Waiting 26 seconds before launching
+2013-08-05_140521_ajqaivfxtqy3fdlr: Crawling routine finished.
+
+2013-08-05_140610_akyqzxrvj33oywgn: Crawling routine initiated with URL: http://akyqzxrvj33oywgn.onion
+2013-08-05_140610_akyqzxrvj33oywgn: Waiting 1 seconds before launching
+2013-08-05_140619_akyqzxrvj33oywgn: Crawling routine finished.
+
+2013-08-05_140842_akyqzxrvj3roywgn: Crawling routine initiated with URL: http://akyqzxrvj3roywgn.onion
+2013-08-05_140842_akyqzxrvj3roywgn: Waiting 14 seconds before launching
+2013-08-05_140927_akyqzxrvj3roywgn: Crawling routine finished.
+
+2013-08-05_141114_almpfs3dyf7tnla7: Crawling routine initiated with URL: http://almpfs3dyf7tnla7.onion
+2013-08-05_141114_almpfs3dyf7tnla7: Waiting 35 seconds before launching
+2013-08-05_141240_almpfs3dyf7tnla7: Crawling routine finished.
+
+2013-08-05_141346_am4wuhz3zifexz5u: Crawling routine initiated with URL: http://am4wuhz3zifexz5u.onion
+2013-08-05_141346_am4wuhz3zifexz5u: Waiting 13 seconds before launching
+2013-08-05_141619_am4wuhz3zifexz5u: Crawling routine finished.
+
+2013-08-05_141734_amberoadychffmyw: Crawling routine initiated with URL: http://amberoadychffmyw.onion
+2013-08-05_141734_amberoadychffmyw: Waiting 26 seconds before launching
+2013-08-05_144807_amberoadychffmyw: Crawling routine finished.
+
+2013-08-05_144914_amjol5qxtnwud7jg: Crawling routine initiated with URL: http://amjol5qxtnwud7jg.onion
+2013-08-05_144914_amjol5qxtnwud7jg: Waiting 15 seconds before launching
+2013-08-05_144955_amjol5qxtnwud7jg: Crawling routine finished.
+
+2013-08-05_145146_anegvjpd77xuxo45: Crawling routine initiated with URL: http://anegvjpd77xuxo45.onion
+2013-08-05_145146_anegvjpd77xuxo45: Waiting 57 seconds before launching
+2013-08-05_145400_anegvjpd77xuxo45: Crawling routine finished.
+
+2013-08-05_145418_anfiejd3rv25tkh4: Crawling routine initiated with URL: http://anfiejd3rv25tkh4.onion
+2013-08-05_145418_anfiejd3rv25tkh4: Waiting 34 seconds before launching
+2013-08-05_145601_anfiejd3rv25tkh4: Crawling routine finished.
+
+2013-08-05_145650_anonetizxkhw5dax: Crawling routine initiated with URL: http://anonetizxkhw5dax.onion
+2013-08-05_145650_anonetizxkhw5dax: Waiting 55 seconds before launching
+2013-08-05_145853_anonetizxkhw5dax: Crawling routine finished.
+
+2013-08-05_145922_ant4sairwibtz3jp: Crawling routine initiated with URL: http://ant4sairwibtz3jp.onion
+2013-08-05_145922_ant4sairwibtz3jp: Waiting 39 seconds before launching
+2013-08-05_150212_ant4sairwibtz3jp: Crawling routine finished.
+
+2013-08-05_150310_ao4psdshtxifyqsq: Crawling routine initiated with URL: http://ao4psdshtxifyqsq.onion
+2013-08-05_150310_ao4psdshtxifyqsq: Waiting 53 seconds before launching
+2013-08-05_150506_ao4psdshtxifyqsq: Crawling routine finished.
+
+2013-08-05_150542_aodvhhlcgyvl35yu: Crawling routine initiated with URL: http://aodvhhlcgyvl35yu.onion
+2013-08-05_150542_aodvhhlcgyvl35yu: Waiting 1 seconds before launching
+2013-08-05_150647_aodvhhlcgyvl35yu: Crawling routine finished.
+
+2013-08-05_150814_aogqd3jqkqfcy6uq: Crawling routine initiated with URL: http://aogqd3jqkqfcy6uq.onion
+2013-08-05_150814_aogqd3jqkqfcy6uq: Waiting 8 seconds before launching
+2013-08-05_150853_aogqd3jqkqfcy6uq: Crawling routine finished.
+
+2013-08-05_151046_aoms2d5iejlju74i: Crawling routine initiated with URL: http://aoms2d5iejlju74i.onion
+2013-08-05_151046_aoms2d5iejlju74i: Waiting 27 seconds before launching
+2013-08-05_151157_aoms2d5iejlju74i: Crawling routine finished.
+
+2013-08-05_151318_aonvssqayyyeqqsi: Crawling routine initiated with URL: http://aonvssqayyyeqqsi.onion
+2013-08-05_151318_aonvssqayyyeqqsi: Waiting 56 seconds before launching
+2013-08-05_151531_aonvssqayyyeqqsi: Crawling routine finished.
+
+2013-08-05_151550_aoydzuvy7nzv4ftt: Crawling routine initiated with URL: http://aoydzuvy7nzv4ftt.onion
+2013-08-05_151550_aoydzuvy7nzv4ftt: Waiting 38 seconds before launching
+2013-08-05_151719_aoydzuvy7nzv4ftt: Crawling routine finished.
+
+2013-08-05_151822_ar3ubs6cg6an4ylt: Crawling routine initiated with URL: http://ar3ubs6cg6an4ylt.onion
+2013-08-05_151822_ar3ubs6cg6an4ylt: Waiting 48 seconds before launching
+2013-08-05_152011_ar3ubs6cg6an4ylt: Crawling routine finished.
+
+2013-08-05_152054_ar7iplgzalhhxenn: Crawling routine initiated with URL: http://ar7iplgzalhhxenn.onion
+2013-08-05_152054_ar7iplgzalhhxenn: Waiting 47 seconds before launching
+2013-08-05_152236_ar7iplgzalhhxenn: Crawling routine finished.
+
+2013-08-05_152326_arch4jgjcyt55gb2: Crawling routine initiated with URL: http://arch4jgjcyt55gb2.onion
+2013-08-05_152326_arch4jgjcyt55gb2: Waiting 54 seconds before launching
+2013-08-05_152522_arch4jgjcyt55gb2: Crawling routine finished.
+
+2013-08-05_152558_areu6s6tcltedtth: Crawling routine initiated with URL: http://areu6s6tcltedtth.onion
+2013-08-05_152558_areu6s6tcltedtth: Waiting 55 seconds before launching
+2013-08-05_152800_areu6s6tcltedtth: Crawling routine finished.
+
+2013-08-05_152830_ase3ovdhhw3askzc: Crawling routine initiated with URL: http://ase3ovdhhw3askzc.onion
+2013-08-05_152830_ase3ovdhhw3askzc: Waiting 29 seconds before launching
+2013-08-05_153136_ase3ovdhhw3askzc: Crawling routine finished.
+
+2013-08-05_153218_asstr5lwaqabsmxu: Crawling routine initiated with URL: http://asstr5lwaqabsmxu.onion
+2013-08-05_153218_asstr5lwaqabsmxu: Waiting 30 seconds before launching
+2013-08-05_153339_asstr5lwaqabsmxu: Crawling routine finished.
+
+2013-08-05_153450_atlantisrky4es5q: Crawling routine initiated with URL: http://atlantisrky4es5q.onion
+2013-08-05_153450_atlantisrky4es5q: Waiting 10 seconds before launching
+2013-08-05_154838_atlantisrky4es5q: Crawling routine finished.
+
+2013-08-05_154846_aub35xzuj7wslusm: Crawling routine initiated with URL: http://aub35xzuj7wslusm.onion
+2013-08-05_154846_aub35xzuj7wslusm: Waiting 30 seconds before launching
+2013-08-05_154958_aub35xzuj7wslusm: Crawling routine finished.
+
+2013-08-05_155118_aw327m7v5tgn4auh: Crawling routine initiated with URL: http://aw327m7v5tgn4auh.onion
+2013-08-05_155118_aw327m7v5tgn4auh: Waiting 59 seconds before launching
+2013-08-05_155424_aw327m7v5tgn4auh: Crawling routine finished.
+
+2013-08-05_155506_awf246cb3vfk2d3k: Crawling routine initiated with URL: http://awf246cb3vfk2d3k.onion
+2013-08-05_155506_awf246cb3vfk2d3k: Waiting 6 seconds before launching
+2013-08-05_155527_awf246cb3vfk2d3k: Crawling routine finished.
+
+2013-08-05_155738_ax7u3re3sdtgoiwe: Crawling routine initiated with URL: http://ax7u3re3sdtgoiwe.onion
+2013-08-05_155738_ax7u3re3sdtgoiwe: Waiting 50 seconds before launching
+2013-08-05_155932_ax7u3re3sdtgoiwe: Crawling routine finished.
+
+2013-08-05_160010_axqzzpkfwezf3kku: Crawling routine initiated with URL: http://axqzzpkfwezf3kku.onion
+2013-08-05_160010_axqzzpkfwezf3kku: Waiting 38 seconds before launching
+2013-08-05_160146_axqzzpkfwezf3kku: Crawling routine finished.
+
+2013-08-05_160242_axv6gzvarmh4a4p4: Crawling routine initiated with URL: http://axv6gzvarmh4a4p4.onion
+2013-08-05_160242_axv6gzvarmh4a4p4: Waiting 56 seconds before launching
+2013-08-05_160450_axv6gzvarmh4a4p4: Crawling routine finished.
+
+2013-08-05_160515_ay5kwknh6znfmcbb: Crawling routine initiated with URL: http://ay5kwknh6znfmcbb.onion
+2013-08-05_160515_ay5kwknh6znfmcbb: Waiting 25 seconds before launching
+2013-08-05_184726_ay5kwknh6znfmcbb: Crawling routine finished.
+
+2013-08-05_184840_ayqhe4bksmoib5fc: Crawling routine initiated with URL: http://ayqhe4bksmoib5fc.onion
+2013-08-05_184840_ayqhe4bksmoib5fc: Waiting 33 seconds before launching
+2013-08-05_185147_ayqhe4bksmoib5fc: Crawling routine finished.
+
+2013-08-05_185228_aywl7pcs2o3p66z6: Crawling routine initiated with URL: http://aywl7pcs2o3p66z6.onion
+2013-08-05_185228_aywl7pcs2o3p66z6: Waiting 0 seconds before launching
+2013-08-05_185247_aywl7pcs2o3p66z6: Crawling routine finished.
+
+2013-08-05_185500_azqby6clvwnyswmh: Crawling routine initiated with URL: http://azqby6clvwnyswmh.onion
+2013-08-05_185500_azqby6clvwnyswmh: Waiting 23 seconds before launching
+2013-08-05_185552_azqby6clvwnyswmh: Crawling routine finished.
+
+2013-08-05_185732_b2psupe2rienya5n: Crawling routine initiated with URL: http://b2psupe2rienya5n.onion
+2013-08-05_185732_b2psupe2rienya5n: Waiting 12 seconds before launching
+2013-08-05_185816_b2psupe2rienya5n: Crawling routine finished.
+
+2013-08-05_190004_b4aptcsdpbq2bnru: Crawling routine initiated with URL: http://b4aptcsdpbq2bnru.onion
+2013-08-05_190004_b4aptcsdpbq2bnru: Waiting 52 seconds before launching
+2013-08-05_190156_b4aptcsdpbq2bnru: Crawling routine finished.
+
+2013-08-05_190236_b4yrk2nkydqfpzqm: Crawling routine initiated with URL: http://b4yrk2nkydqfpzqm.onion
+2013-08-05_190236_b4yrk2nkydqfpzqm: Waiting 39 seconds before launching
+2013-08-05_190406_b4yrk2nkydqfpzqm: Crawling routine finished.
+
+2013-08-05_190508_b5s7rs8tupxmsuch: Crawling routine initiated with URL: http://b5s7rs8tupxmsuch.onion
+2013-08-05_190508_b5s7rs8tupxmsuch: Waiting 38 seconds before launching
+2013-08-05_190624_b5s7rs8tupxmsuch: Crawling routine finished.
+
+2013-08-05_190740_b5s7rs8tupxmsuhh: Crawling routine initiated with URL: http://b5s7rs8tupxmsuhh.onion
+2013-08-05_190740_b5s7rs8tupxmsuhh: Waiting 32 seconds before launching
+2013-08-05_190844_b5s7rs8tupxmsuhh: Crawling routine finished.
+
+2013-08-05_191012_b6kpigzhrdhibmos: Crawling routine initiated with URL: http://b6kpigzhrdhibmos.onion
+2013-08-05_191012_b6kpigzhrdhibmos: Waiting 14 seconds before launching
+2013-08-05_191256_b6kpigzhrdhibmos: Crawling routine finished.
+
+2013-08-05_191400_b6y5cizs2temc4gh: Crawling routine initiated with URL: http://b6y5cizs2temc4gh.onion
+2013-08-05_191400_b6y5cizs2temc4gh: Waiting 33 seconds before launching
+2013-08-05_191527_b6y5cizs2temc4gh: Crawling routine finished.
+
+2013-08-05_191632_b7hugomzttfm2juj: Crawling routine initiated with URL: http://b7hugomzttfm2juj.onion
+2013-08-05_191632_b7hugomzttfm2juj: Waiting 38 seconds before launching
+2013-08-05_191808_b7hugomzttfm2juj: Crawling routine finished.
+
+2013-08-05_191904_b7x7cbwmyfxr4oln: Crawling routine initiated with URL: http://b7x7cbwmyfxr4oln.onion
+2013-08-05_191904_b7x7cbwmyfxr4oln: Waiting 20 seconds before launching
+2013-08-05_192025_b7x7cbwmyfxr4oln: Crawling routine finished.
+
+2013-08-05_192136_ba2p5nmmuishbb77: Crawling routine initiated with URL: http://ba2p5nmmuishbb77.onion
+2013-08-05_192136_ba2p5nmmuishbb77: Waiting 3 seconds before launching
+2013-08-05_192210_ba2p5nmmuishbb77: Crawling routine finished.
+
+2013-08-05_192408_balrqba4x57ofa6s: Crawling routine initiated with URL: http://balrqba4x57ofa6s.onion
+2013-08-05_192408_balrqba4x57ofa6s: Waiting 14 seconds before launching
+2013-08-05_192454_balrqba4x57ofa6s: Crawling routine finished.
+
+2013-08-05_192640_bankpfxwndohu7ug: Crawling routine initiated with URL: http://bankpfxwndohu7ug.onion
+2013-08-05_192640_bankpfxwndohu7ug: Waiting 4 seconds before launching
+2013-08-05_192717_bankpfxwndohu7ug: Crawling routine finished.
+
+2013-08-05_192912_bbqvjtimcrvz4ajo: Crawling routine initiated with URL: http://bbqvjtimcrvz4ajo.onion
+2013-08-05_192912_bbqvjtimcrvz4ajo: Waiting 15 seconds before launching
+2013-08-05_192955_bbqvjtimcrvz4ajo: Crawling routine finished.
+
+2013-08-05_193144_bbseyes36k6cowi6: Crawling routine initiated with URL: http://bbseyes36k6cowi6.onion
+2013-08-05_193144_bbseyes36k6cowi6: Waiting 28 seconds before launching
+2013-08-05_193359_bbseyes36k6cowi6: Crawling routine finished.
+
+2013-08-05_193416_bcgci4njmk2zbgew: Crawling routine initiated with URL: http://bcgci4njmk2zbgew.onion
+2013-08-05_193416_bcgci4njmk2zbgew: Waiting 34 seconds before launching
+2013-08-05_193537_bcgci4njmk2zbgew: Crawling routine finished.
+
+2013-08-05_193648_be2qjice2arrzg4q: Crawling routine initiated with URL: http://be2qjice2arrzg4q.onion
+2013-08-05_193648_be2qjice2arrzg4q: Waiting 26 seconds before launching
+2013-08-05_193756_be2qjice2arrzg4q: Crawling routine finished.
+
+2013-08-05_193920_bg3evlel6xezhe4j: Crawling routine initiated with URL: http://bg3evlel6xezhe4j.onion
+2013-08-05_193920_bg3evlel6xezhe4j: Waiting 21 seconds before launching
+2013-08-05_194202_bg3evlel6xezhe4j: Crawling routine finished.
+
+2013-08-05_194308_bgkifnugq5ef2cpi: Crawling routine initiated with URL: http://bgkifnugq5ef2cpi.onion
+2013-08-05_194308_bgkifnugq5ef2cpi: Waiting 46 seconds before launching
+2013-08-05_194451_bgkifnugq5ef2cpi: Crawling routine finished.
+
+2013-08-05_194540_bgkitnugq5ef2cpi: Crawling routine initiated with URL: http://bgkitnugq5ef2cpi.onion
+2013-08-05_194540_bgkitnugq5ef2cpi: Waiting 2 seconds before launching
+2013-08-05_200225_bgkitnugq5ef2cpi: Crawling routine finished.
+
+2013-08-05_200324_bhfzq4gsnzumirqa: Crawling routine initiated with URL: http://bhfzq4gsnzumirqa.onion
+2013-08-05_200324_bhfzq4gsnzumirqa: Waiting 6 seconds before launching
+2013-08-05_200358_bhfzq4gsnzumirqa: Crawling routine finished.
+
+2013-08-05_200556_bitblendf4kwp5s5: Crawling routine initiated with URL: http://bitblendf4kwp5s5.onion
+2013-08-05_200556_bitblendf4kwp5s5: Waiting 39 seconds before launching
+2013-08-05_200740_bitblendf4kwp5s5: Crawling routine finished.
+
+2013-08-05_200829_bitblendf4kwps55: Crawling routine initiated with URL: http://bitblendf4kwps55.onion
+2013-08-05_200829_bitblendf4kwps55: Waiting 13 seconds before launching
+2013-08-05_200913_bitblendf4kwps55: Crawling routine finished.
+
+2013-08-05_201101_bitcoinmztpyxqqr: Crawling routine initiated with URL: http://bitcoinmztpyxqqr.onion
+2013-08-05_201101_bitcoinmztpyxqqr: Waiting 36 seconds before launching
+2013-08-05_201323_bitcoinmztpyxqqr: Crawling routine finished.
+
+2013-08-05_201333_bj6sy3n7tbt3ot2f: Crawling routine initiated with URL: http://bj6sy3n7tbt3ot2f.onion
+2013-08-05_201333_bj6sy3n7tbt3ot2f: Waiting 12 seconds before launching
+2013-08-05_201426_bj6sy3n7tbt3ot2f: Crawling routine finished.
+
+2013-08-05_201605_bjdmpvi4kitfw2kj: Crawling routine initiated with URL: http://bjdmpvi4kitfw2kj.onion
+2013-08-05_201605_bjdmpvi4kitfw2kj: Waiting 2 seconds before launching
+2013-08-05_201630_bjdmpvi4kitfw2kj: Crawling routine finished.
+
+2013-08-05_201837_bk3i4k5xozh5wr5c: Crawling routine initiated with URL: http://bk3i4k5xozh5wr5c.onion
+2013-08-05_201837_bk3i4k5xozh5wr5c: Waiting 4 seconds before launching
+2013-08-05_201859_bk3i4k5xozh5wr5c: Crawling routine finished.
+
+2013-08-05_202109_bkdpxyqbflpsw34w: Crawling routine initiated with URL: http://bkdpxyqbflpsw34w.onion
+2013-08-05_202109_bkdpxyqbflpsw34w: Waiting 53 seconds before launching
+2013-08-05_202321_bkdpxyqbflpsw34w: Crawling routine finished.
+
+2013-08-05_202341_blacksunhq56imku: Crawling routine initiated with URL: http://blacksunhq56imku.onion
+2013-08-05_202341_blacksunhq56imku: Waiting 33 seconds before launching
+2013-08-05_202501_blacksunhq56imku: Crawling routine finished.
+
+2013-08-05_202613_blrzicps7vj2lvek: Crawling routine initiated with URL: http://blrzicps7vj2lvek.onion
+2013-08-05_202613_blrzicps7vj2lvek: Waiting 36 seconds before launching
+2013-08-05_202743_blrzicps7vj2lvek: Crawling routine finished.
+
+2013-08-05_202845_bntycg6ofqj4akeb: Crawling routine initiated with URL: http://bntycg6ofqj4akeb.onion
+2013-08-05_202845_bntycg6ofqj4akeb: Waiting 29 seconds before launching
+2013-08-05_203023_bntycg6ofqj4akeb: Crawling routine finished.
+
+2013-08-05_203117_boardazfqt3m3sjj: Crawling routine initiated with URL: http://boardazfqt3m3sjj.onion
+2013-08-05_203117_boardazfqt3m3sjj: Waiting 1 seconds before launching
+2013-08-05_203134_boardazfqt3m3sjj: Crawling routine finished.
+
+2013-08-05_203349_bqhx6vwb55umc3sb: Crawling routine initiated with URL: http://bqhx6vwb55umc3sb.onion
+2013-08-05_203349_bqhx6vwb55umc3sb: Waiting 56 seconds before launching
+2013-08-05_203604_bqhx6vwb55umc3sb: Crawling routine finished.
+
+2013-08-05_203621_bqjthd35qmuw6rdz: Crawling routine initiated with URL: http://bqjthd35qmuw6rdz.onion
+2013-08-05_203621_bqjthd35qmuw6rdz: Waiting 41 seconds before launching
+2013-08-05_203801_bqjthd35qmuw6rdz: Crawling routine finished.
+
+2013-08-05_203853_brixf34yps3snsl6: Crawling routine initiated with URL: http://brixf34yps3snsl6.onion
+2013-08-05_203853_brixf34yps3snsl6: Waiting 9 seconds before launching
+2013-08-05_203923_brixf34yps3snsl6: Crawling routine finished.
+
+2013-08-05_204125_brqt675yfzenh55c: Crawling routine initiated with URL: http://brqt675yfzenh55c.onion
+2013-08-05_204125_brqt675yfzenh55c: Waiting 12 seconds before launching
+2013-08-05_204202_brqt675yfzenh55c: Crawling routine finished.
+
+2013-08-05_204357_bs3boo777vh4wdhc: Crawling routine initiated with URL: http://bs3boo777vh4wdhc.onion
+2013-08-05_204357_bs3boo777vh4wdhc: Waiting 52 seconds before launching
+2013-08-05_204558_bs3boo777vh4wdhc: Crawling routine finished.
+
+2013-08-05_204629_bs3boo77yvh4wdhc: Crawling routine initiated with URL: http://bs3boo77yvh4wdhc.onion
+2013-08-05_204629_bs3boo77yvh4wdhc: Waiting 7 seconds before launching
+2013-08-05_204658_bs3boo77yvh4wdhc: Crawling routine finished.
+
+2013-08-05_204901_bs6udyr7bxtbshmf: Crawling routine initiated with URL: http://bs6udyr7bxtbshmf.onion
+2013-08-05_204901_bs6udyr7bxtbshmf: Waiting 40 seconds before launching
+2013-08-05_205055_bs6udyr7bxtbshmf: Crawling routine finished.
+
+2013-08-05_205133_btlkg7ckamjgussd: Crawling routine initiated with URL: http://btlkg7ckamjgussd.onion
+2013-08-05_205133_btlkg7ckamjgussd: Waiting 31 seconds before launching
+2013-08-05_205250_btlkg7ckamjgussd: Crawling routine finished.
+
+2013-08-05_205405_btmqzb67mu3gyjhq: Crawling routine initiated with URL: http://btmqzb67mu3gyjhq.onion
+2013-08-05_205405_btmqzb67mu3gyjhq: Waiting 2 seconds before launching
+2013-08-05_205416_btmqzb67mu3gyjhq: Crawling routine finished.
+
+2013-08-05_205637_bufcpqpql4lnsogc: Crawling routine initiated with URL: http://bufcpqpql4lnsogc.onion
+2013-08-05_205637_bufcpqpql4lnsogc: Waiting 3 seconds before launching
+2013-08-05_205652_bufcpqpql4lnsogc: Crawling routine finished.
+
+2013-08-05_205909_buhdud6sg4qbfpyf: Crawling routine initiated with URL: http://buhdud6sg4qbfpyf.onion
+2013-08-05_205909_buhdud6sg4qbfpyf: Waiting 27 seconds before launching
+2013-08-05_210028_buhdud6sg4qbfpyf: Crawling routine finished.
+
+2013-08-05_210141_bulbzddh75io4s32: Crawling routine initiated with URL: http://bulbzddh75io4s32.onion
+2013-08-05_210141_bulbzddh75io4s32: Waiting 54 seconds before launching
+2013-08-05_210340_bulbzddh75io4s32: Crawling routine finished.
+
+2013-08-05_210413_bumd2ncgcbihmh72: Crawling routine initiated with URL: http://bumd2ncgcbihmh72.onion
+2013-08-05_210413_bumd2ncgcbihmh72: Waiting 25 seconds before launching
+2013-08-05_210703_bumd2ncgcbihmh72: Crawling routine finished.
+
+2013-08-05_210801_burninetliliito5: Crawling routine initiated with URL: http://burninetliliito5.onion
+2013-08-05_210801_burninetliliito5: Waiting 51 seconds before launching
+2013-08-05_211001_burninetliliito5: Crawling routine finished.
+
+2013-08-05_211033_businesrkbjqrl7w: Crawling routine initiated with URL: http://businesrkbjqrl7w.onion
+2013-08-05_211033_businesrkbjqrl7w: Waiting 16 seconds before launching
+2013-08-05_211119_businesrkbjqrl7w: Crawling routine finished.
+
+2013-08-05_211305_buttsfuknx5ckbix: Crawling routine initiated with URL: http://buttsfuknx5ckbix.onion
+2013-08-05_211305_buttsfuknx5ckbix: Waiting 10 seconds before launching
+2013-08-05_211343_buttsfuknx5ckbix: Crawling routine finished.
+
+2013-08-05_211537_buttsgoxggmudjob: Crawling routine initiated with URL: http://buttsgoxggmudjob.onion
+2013-08-05_211537_buttsgoxggmudjob: Waiting 35 seconds before launching
+2013-08-05_211710_buttsgoxggmudjob: Crawling routine finished.
+
+2013-08-05_211809_buttspawkc7hvcq3: Crawling routine initiated with URL: http://buttspawkc7hvcq3.onion
+2013-08-05_211809_buttspawkc7hvcq3: Waiting 40 seconds before launching
+2013-08-05_211956_buttspawkc7hvcq3: Crawling routine finished.
+
+2013-08-05_212041_buttstaisianfquu: Crawling routine initiated with URL: http://buttstaisianfquu.onion
+2013-08-05_212041_buttstaisianfquu: Waiting 45 seconds before launching
+2013-08-05_212239_buttstaisianfquu: Crawling routine finished.
+
+2013-08-05_212313_buttsuxkbuytguhw: Crawling routine initiated with URL: http://buttsuxkbuytguhw.onion
+2013-08-05_212313_buttsuxkbuytguhw: Waiting 25 seconds before launching
+2013-08-05_212428_buttsuxkbuytguhw: Crawling routine finished.
+
+2013-08-05_212545_buttsx4xhodotpah: Crawling routine initiated with URL: http://buttsx4xhodotpah.onion
+2013-08-05_212545_buttsx4xhodotpah: Waiting 45 seconds before launching
+2013-08-05_212736_buttsx4xhodotpah: Crawling routine finished.
+
+2013-08-05_212817_buwto5utfo5qcfko: Crawling routine initiated with URL: http://buwto5utfo5qcfko.onion
+2013-08-05_212817_buwto5utfo5qcfko: Waiting 21 seconds before launching
+2013-08-05_212912_buwto5utfo5qcfko: Crawling routine finished.
+
+2013-08-05_213049_buyitnowquyft7dx: Crawling routine initiated with URL: http://buyitnowquyft7dx.onion
+2013-08-05_213049_buyitnowquyft7dx: Waiting 55 seconds before launching
+2013-08-06_115057_4pms4sejqrryckox: Crawling routine finished.
+
+2013-08-06_115103_bwdydphqzohdnmqw: Crawling routine initiated with URL: http://bwdydphqzohdnmqw.onion
+2013-08-06_115103_bwdydphqzohdnmqw: Waiting 44 seconds before launching
+2013-08-06_115240_bwdydphqzohdnmqw: Crawling routine finished.
+
+2013-08-06_115335_bx3kkmsg6uzgmat6: Crawling routine initiated with URL: http://bx3kkmsg6uzgmat6.onion
+2013-08-06_115335_bx3kkmsg6uzgmat6: Waiting 30 seconds before launching
+2013-08-06_120037_bx3kkmsg6uzgmat6: Crawling routine finished.
+
+2013-08-06_120111_bx7zrcsebkma7ids: Crawling routine initiated with URL: http://bx7zrcsebkma7ids.onion
+2013-08-06_120111_bx7zrcsebkma7ids: Waiting 43 seconds before launching
+2013-08-07_112451_7jguhsfwruviatqe: Crawling routine finished.
+
+2013-08-07_112453_bxddobuhccg5s7dm: Crawling routine initiated with URL: http://bxddobuhccg5s7dm.onion
+2013-08-07_112453_bxddobuhccg5s7dm: Waiting 20 seconds before launching
+2013-08-07_112546_bxddobuhccg5s7dm: Crawling routine finished.
+
+2013-08-07_112725_bxddobuy5lyotjqe: Crawling routine initiated with URL: http://bxddobuy5lyotjqe.onion
+2013-08-07_112725_bxddobuy5lyotjqe: Waiting 10 seconds before launching
+2013-08-07_112811_bxddobuy5lyotjqe: Crawling routine finished.
+
+2013-08-07_112957_by54xj72coxho6n3: Crawling routine initiated with URL: http://by54xj72coxho6n3.onion
+2013-08-07_112957_by54xj72coxho6n3: Waiting 44 seconds before launching
+2013-08-07_113140_by54xj72coxho6n3: Crawling routine finished.
+
+2013-08-07_113229_byeacboybpudv4ta: Crawling routine initiated with URL: http://byeacboybpudv4ta.onion
+2013-08-07_113229_byeacboybpudv4ta: Waiting 35 seconds before launching
+2013-08-07_113357_byeacboybpudv4ta: Crawling routine finished.
+
+2013-08-07_113501_byi4akelnxrz5tab: Crawling routine initiated with URL: http://byi4akelnxrz5tab.onion
+2013-08-07_113501_byi4akelnxrz5tab: Waiting 35 seconds before launching
+2013-08-07_113625_byi4akelnxrz5tab: Crawling routine finished.
+
+2013-08-07_113733_bz6xzjayts2ecquj: Crawling routine initiated with URL: http://bz6xzjayts2ecquj.onion
+2013-08-07_113733_bz6xzjayts2ecquj: Waiting 42 seconds before launching
+2013-08-07_113916_bz6xzjayts2ecquj: Crawling routine finished.
+
+2013-08-07_114005_bzfkpqe6owlrqtf4: Crawling routine initiated with URL: http://bzfkpqe6owlrqtf4.onion
+2013-08-07_114005_bzfkpqe6owlrqtf4: Waiting 39 seconds before launching
+2013-08-07_114148_bzfkpqe6owlrqtf4: Crawling routine finished.
+
+2013-08-07_114237_bzlx5gpwrtgnfcse: Crawling routine initiated with URL: http://bzlx5gpwrtgnfcse.onion
+2013-08-07_114237_bzlx5gpwrtgnfcse: Waiting 10 seconds before launching
+2013-08-07_114319_bzlx5gpwrtgnfcse: Crawling routine finished.
+
+2013-08-07_114509_bzw6iuijmvbl242d: Crawling routine initiated with URL: http://bzw6iuijmvbl242d.onion
+2013-08-07_114509_bzw6iuijmvbl242d: Waiting 38 seconds before launching
+2013-08-07_114646_bzw6iuijmvbl242d: Crawling routine finished.
+
+2013-08-07_114742_bzyby2rv3nwpmwdt: Crawling routine initiated with URL: http://bzyby2rv3nwpmwdt.onion
+2013-08-07_114742_bzyby2rv3nwpmwdt: Waiting 0 seconds before launching
+2013-08-07_114753_bzyby2rv3nwpmwdt: Crawling routine finished.
+
+2013-08-07_115014_c2hluuzwi7tuceu6: Crawling routine initiated with URL: http://c2hluuzwi7tuceu6.onion
+2013-08-07_115014_c2hluuzwi7tuceu6: Waiting 27 seconds before launching
+2013-08-07_115127_c2hluuzwi7tuceu6: Crawling routine finished.
+
+2013-08-07_115246_c2pbvtthd4ygqhnm: Crawling routine initiated with URL: http://c2pbvtthd4ygqhnm.onion
+2013-08-07_115246_c2pbvtthd4ygqhnm: Waiting 55 seconds before launching
+2013-08-07_115448_c2pbvtthd4ygqhnm: Crawling routine finished.
+
+2013-08-07_115518_c2sevc5i6eafgs44: Crawling routine initiated with URL: http://c2sevc5i6eafgs44.onion
+2013-08-07_115518_c2sevc5i6eafgs44: Waiting 31 seconds before launching
+2013-08-07_115639_c2sevc5i6eafgs44: Crawling routine finished.
+
+2013-08-07_115750_c3jemx2ube5v5zpg: Crawling routine initiated with URL: http://c3jemx2ube5v5zpg.onion
+2013-08-07_115750_c3jemx2ube5v5zpg: Waiting 24 seconds before launching
+2013-08-10_034134_bx7zrcsebkma7ids: Crawling routine finished.
+
+2013-08-10_034238_c4r4xempem67rvp6: Crawling routine initiated with URL: http://c4r4xempem67rvp6.onion
+2013-08-10_034238_c4r4xempem67rvp6: Waiting 46 seconds before launching
+2013-08-10_034426_c4r4xempem67rvp6: Crawling routine finished.
+
+2013-08-10_034510_c4wcxidkfhvmzhw6: Crawling routine initiated with URL: http://c4wcxidkfhvmzhw6.onion
+2013-08-10_034510_c4wcxidkfhvmzhw6: Waiting 55 seconds before launching
+2013-08-10_034721_c4wcxidkfhvmzhw6: Crawling routine finished.
+
+2013-08-10_034742_c662se523cb4csee: Crawling routine initiated with URL: http://c662se523cb4csee.onion
+2013-08-10_034742_c662se523cb4csee: Waiting 42 seconds before launching
+2013-08-10_034914_c662se523cb4csee: Crawling routine finished.
+
+2013-08-10_035014_c7jh7jzl3taek4eh: Crawling routine initiated with URL: http://c7jh7jzl3taek4eh.onion
+2013-08-10_035014_c7jh7jzl3taek4eh: Waiting 51 seconds before launching
+2013-08-10_035210_c7jh7jzl3taek4eh: Crawling routine finished.
+
+2013-08-10_035246_c7lt62zuq46uywrn: Crawling routine initiated with URL: http://c7lt62zuq46uywrn.onion
+2013-08-10_035246_c7lt62zuq46uywrn: Waiting 57 seconds before launching
+2013-08-10_035453_c7lt62zuq46uywrn: Crawling routine finished.
+
+2013-08-10_035518_c7zcktwcmxuxbesf: Crawling routine initiated with URL: http://c7zcktwcmxuxbesf.onion
+2013-08-10_035518_c7zcktwcmxuxbesf: Waiting 20 seconds before launching
+2013-08-10_035606_c7zcktwcmxuxbesf: Crawling routine finished.
+
+2013-08-10_035750_ca4skm7qywp5y6fn: Crawling routine initiated with URL: http://ca4skm7qywp5y6fn.onion
+2013-08-10_035750_ca4skm7qywp5y6fn: Waiting 1 seconds before launching
+2013-08-10_035759_ca4skm7qywp5y6fn: Crawling routine finished.
+
+2013-08-10_040023_camf7jwpyocv5hnd: Crawling routine initiated with URL: http://camf7jwpyocv5hnd.onion
+2013-08-10_040023_camf7jwpyocv5hnd: Waiting 15 seconds before launching
+2013-08-10_040059_camf7jwpyocv5hnd: Crawling routine finished.
+
+2013-08-10_040255_carson27rcopqmms: Crawling routine initiated with URL: http://carson27rcopqmms.onion
+2013-08-10_040255_carson27rcopqmms: Waiting 28 seconds before launching
+2013-08-10_040401_carson27rcopqmms: Crawling routine finished.
+
+2013-08-10_040527_cc4all5ri2wponl3: Crawling routine initiated with URL: http://cc4all5ri2wponl3.onion
+2013-08-10_040527_cc4all5ri2wponl3: Waiting 24 seconds before launching
+2013-08-10_041409_cc4all5ri2wponl3: Crawling routine finished.
+
+2013-08-10_041419_ccbn6mrdudb5fbxd: Crawling routine initiated with URL: http://ccbn6mrdudb5fbxd.onion
+2013-08-10_041419_ccbn6mrdudb5fbxd: Waiting 18 seconds before launching
+2013-08-10_041500_ccbn6mrdudb5fbxd: Crawling routine finished.
+
+2013-08-10_041651_ccshopt247ucfhjx: Crawling routine initiated with URL: http://ccshopt247ucfhjx.onion
+2013-08-10_041651_ccshopt247ucfhjx: Waiting 11 seconds before launching
+2013-08-10_041939_ccshopt247ucfhjx: Crawling routine finished.
+
+2013-08-10_042039_centardnbui24xpq: Crawling routine initiated with URL: http://centardnbui24xpq.onion
+2013-08-10_042039_centardnbui24xpq: Waiting 3 seconds before launching
+2013-08-10_042100_centardnbui24xpq: Crawling routine finished.
+
+2013-08-10_042311_cf6qjzygqbu2c4z5: Crawling routine initiated with URL: http://cf6qjzygqbu2c4z5.onion
+2013-08-10_042311_cf6qjzygqbu2c4z5: Waiting 28 seconds before launching
+2013-08-10_042418_cf6qjzygqbu2c4z5: Crawling routine finished.
+
+2013-08-10_042543_cfyfz6afpgfeirst: Crawling routine initiated with URL: http://cfyfz6afpgfeirst.onion
+2013-08-10_042543_cfyfz6afpgfeirst: Waiting 44 seconds before launching
+2013-08-10_042716_cfyfz6afpgfeirst: Crawling routine finished.
+
+2013-08-10_042815_cgohgbwrx4sk3qpi: Crawling routine initiated with URL: http://cgohgbwrx4sk3qpi.onion
+2013-08-10_042815_cgohgbwrx4sk3qpi: Waiting 39 seconds before launching
+2013-08-10_043003_cgohgbwrx4sk3qpi: Crawling routine finished.
+
+2013-08-10_043047_chippyits5cqbd7p: Crawling routine initiated with URL: http://chippyits5cqbd7p.onion
+2013-08-10_043047_chippyits5cqbd7p: Waiting 17 seconds before launching
+2013-08-10_051643_chippyits5cqbd7p: Crawling routine finished.
+
+2013-08-10_051739_ci3hn2uzjw2wby3z: Crawling routine initiated with URL: http://ci3hn2uzjw2wby3z.onion
+2013-08-10_051739_ci3hn2uzjw2wby3z: Waiting 57 seconds before launching
+2013-08-10_051948_ci3hn2uzjw2wby3z: Crawling routine finished.
+
+2013-08-10_052011_clb5ot6d5vc4yzj4: Crawling routine initiated with URL: http://clb5ot6d5vc4yzj4.onion
+2013-08-10_052011_clb5ot6d5vc4yzj4: Waiting 57 seconds before launching
+2013-08-10_052216_clb5ot6d5vc4yzj4: Crawling routine finished.
+
+2013-08-10_052243_cll4zruggknbejm2: Crawling routine initiated with URL: http://cll4zruggknbejm2.onion
+2013-08-10_052243_cll4zruggknbejm2: Waiting 5 seconds before launching
+2013-08-10_052300_cll4zruggknbejm2: Crawling routine finished.
+
+2013-08-10_052515_clsvtzwzdgzkjda7: Crawling routine initiated with URL: http://clsvtzwzdgzkjda7.onion
+2013-08-10_052515_clsvtzwzdgzkjda7: Waiting 55 seconds before launching
+2013-08-10_052718_clsvtzwzdgzkjda7: Crawling routine finished.
+
+2013-08-10_052747_cm3xwk5drtphx27r: Crawling routine initiated with URL: http://cm3xwk5drtphx27r.onion
+2013-08-10_052747_cm3xwk5drtphx27r: Waiting 29 seconds before launching
+2013-08-10_053045_cm3xwk5drtphx27r: Crawling routine finished.
+
+2013-08-10_053135_cm6pxkmeyhf7kryb: Crawling routine initiated with URL: http://cm6pxkmeyhf7kryb.onion
+2013-08-10_053135_cm6pxkmeyhf7kryb: Waiting 26 seconds before launching
+2013-08-10_053235_cm6pxkmeyhf7kryb: Crawling routine finished.
+
+2013-08-10_053407_cmvwkiq3mf44o3lq: Crawling routine initiated with URL: http://cmvwkiq3mf44o3lq.onion
+2013-08-10_053407_cmvwkiq3mf44o3lq: Waiting 56 seconds before launching
+2013-08-10_053605_cmvwkiq3mf44o3lq: Crawling routine finished.
+
+2013-08-10_053639_cnvyq6bmq5hanbzz: Crawling routine initiated with URL: http://cnvyq6bmq5hanbzz.onion
+2013-08-10_053639_cnvyq6bmq5hanbzz: Waiting 24 seconds before launching
+2013-08-10_053738_cnvyq6bmq5hanbzz: Crawling routine finished.
+
+2013-08-10_053911_co63xpsmfowxynh4: Crawling routine initiated with URL: http://co63xpsmfowxynh4.onion
+2013-08-10_053911_co63xpsmfowxynh4: Waiting 11 seconds before launching
+2013-08-10_053942_co63xpsmfowxynh4: Crawling routine finished.
+
+2013-08-10_054143_codqwso2wymbg4zf: Crawling routine initiated with URL: http://codqwso2wymbg4zf.onion
+2013-08-10_054143_codqwso2wymbg4zf: Waiting 19 seconds before launching
+2013-08-10_054421_codqwso2wymbg4zf: Crawling routine finished.
+
+2013-08-10_054531_cokegt7t2pvno6j5: Crawling routine initiated with URL: http://cokegt7t2pvno6j5.onion
+2013-08-10_054531_cokegt7t2pvno6j5: Waiting 5 seconds before launching
+2013-08-10_055018_cokegt7t2pvno6j5: Crawling routine finished.
+
+2013-08-10_055036_compareselectedv: Crawling routine initiated with URL: http://compareselectedv.onion
+2013-08-10_055036_compareselectedv: Waiting 16 seconds before launching
+2013-08-10_055118_compareselectedv: Crawling routine finished.
+
+2013-08-10_055308_cp2qnzn7r3iyvgj3: Crawling routine initiated with URL: http://cp2qnzn7r3iyvgj3.onion
+2013-08-10_055308_cp2qnzn7r3iyvgj3: Waiting 55 seconds before launching
+2013-08-10_055506_cp2qnzn7r3iyvgj3: Crawling routine finished.
+
+2013-08-10_055540_cpvusulvfi5pudpu: Crawling routine initiated with URL: http://cpvusulvfi5pudpu.onion
+2013-08-10_055540_cpvusulvfi5pudpu: Waiting 7 seconds before launching
+2013-08-10_055605_cpvusulvfi5pudpu: Crawling routine finished.
+
+2013-08-10_055812_cqg4yrfvqeylp737: Crawling routine initiated with URL: http://cqg4yrfvqeylp737.onion
+2013-08-10_055812_cqg4yrfvqeylp737: Waiting 47 seconds before launching
+2013-08-10_055950_cqg4yrfvqeylp737: Crawling routine finished.
+
+2013-08-10_060044_cry6ij7h6tpubqbv: Crawling routine initiated with URL: http://cry6ij7h6tpubqbv.onion
+2013-08-10_060044_cry6ij7h6tpubqbv: Waiting 1 seconds before launching
+2013-08-10_060056_cry6ij7h6tpubqbv: Crawling routine finished.
+
+2013-08-10_060316_cs5nqmkzmq2flnq2: Crawling routine initiated with URL: http://cs5nqmkzmq2flnq2.onion
+2013-08-10_060316_cs5nqmkzmq2flnq2: Waiting 41 seconds before launching
+2013-08-10_060444_cs5nqmkzmq2flnq2: Crawling routine finished.
+
+2013-08-10_060548_csatcqr25lv2ol2i: Crawling routine initiated with URL: http://csatcqr25lv2ol2i.onion
+2013-08-10_060548_csatcqr25lv2ol2i: Waiting 6 seconds before launching
+2013-08-10_060608_csatcqr25lv2ol2i: Crawling routine finished.
+
+2013-08-10_060820_cst5uq6puao3ig3l: Crawling routine initiated with URL: http://cst5uq6puao3ig3l.onion
+2013-08-10_060820_cst5uq6puao3ig3l: Waiting 39 seconds before launching
+2013-08-10_061209_cst5uq6puao3ig3l: Crawling routine finished.
+
+2013-08-10_061324_csusixfu7tfizn7x: Crawling routine initiated with URL: http://csusixfu7tfizn7x.onion
+2013-08-10_061324_csusixfu7tfizn7x: Waiting 24 seconds before launching
+2013-08-10_061417_csusixfu7tfizn7x: Crawling routine finished.
+
+2013-08-10_061556_ct2dcqxkoryub5vo: Crawling routine initiated with URL: http://ct2dcqxkoryub5vo.onion
+2013-08-10_061556_ct2dcqxkoryub5vo: Waiting 1 seconds before launching
+2013-08-10_061605_ct2dcqxkoryub5vo: Crawling routine finished.
+
+2013-08-10_061828_cubem3acio2xgrmx: Crawling routine initiated with URL: http://cubem3acio2xgrmx.onion
+2013-08-10_061828_cubem3acio2xgrmx: Waiting 51 seconds before launching
+2013-08-10_062019_cubem3acio2xgrmx: Crawling routine finished.
+
+2013-08-10_062100_cwesjxczvcvwvapz: Crawling routine initiated with URL: http://cwesjxczvcvwvapz.onion
+2013-08-10_062100_cwesjxczvcvwvapz: Waiting 35 seconds before launching
+2013-08-10_062218_cwesjxczvcvwvapz: Crawling routine finished.
+
+2013-08-10_062332_cx4vwijytopjvedi: Crawling routine initiated with URL: http://cx4vwijytopjvedi.onion
+2013-08-10_062332_cx4vwijytopjvedi: Waiting 9 seconds before launching
+2013-08-10_062357_cx4vwijytopjvedi: Crawling routine finished.
+
+2013-08-10_062604_cxbyhga2wnn4nkbe: Crawling routine initiated with URL: http://cxbyhga2wnn4nkbe.onion
+2013-08-10_062604_cxbyhga2wnn4nkbe: Waiting 40 seconds before launching
+2013-08-10_062732_cxbyhga2wnn4nkbe: Crawling routine finished.
+
+2013-08-10_062836_cxoz72fgevhfgitm: Crawling routine initiated with URL: http://cxoz72fgevhfgitm.onion
+2013-08-10_062836_cxoz72fgevhfgitm: Waiting 28 seconds before launching
+2013-08-10_063005_cxoz72fgevhfgitm: Crawling routine finished.
+
+2013-08-10_063108_cxv4shdgfdvfruog: Crawling routine initiated with URL: http://cxv4shdgfdvfruog.onion
+2013-08-10_063108_cxv4shdgfdvfruog: Waiting 57 seconds before launching
+2013-08-10_063502_cxv4shdgfdvfruog: Crawling routine finished.
+
+2013-08-10_063612_cyberianz51v6bxh: Crawling routine initiated with URL: http://cyberianz51v6bxh.onion
+2013-08-10_063612_cyberianz51v6bxh: Waiting 38 seconds before launching
+2013-08-10_063728_cyberianz51v6bxh: Crawling routine finished.
+
+2013-08-10_063844_cyberianz5i6vbxh: Crawling routine initiated with URL: http://cyberianz5i6vbxh.onion
+2013-08-10_063844_cyberianz5i6vbxh: Waiting 25 seconds before launching
+2013-08-10_063946_cyberianz5i6vbxh: Crawling routine finished.
+
+2013-08-10_064116_cyberianz5iv6bxh: Crawling routine initiated with URL: http://cyberianz5iv6bxh.onion
+2013-08-10_064116_cyberianz5iv6bxh: Waiting 45 seconds before launching
+2013-08-10_070509_cyberianz5iv6bxh: Crawling routine finished.
+
+2013-08-10_070520_cyberianz5iv6dxh: Crawling routine initiated with URL: http://cyberianz5iv6dxh.onion
+2013-08-10_070520_cyberianz5iv6dxh: Waiting 59 seconds before launching
+2013-08-10_070736_cyberianz5iv6dxh: Crawling routine finished.
+
+2013-08-10_070752_cyoiywe4ujv4rhe7: Crawling routine initiated with URL: http://cyoiywe4ujv4rhe7.onion
+2013-08-10_070752_cyoiywe4ujv4rhe7: Waiting 10 seconds before launching
+2013-08-10_070818_cyoiywe4ujv4rhe7: Crawling routine finished.
+
+2013-08-10_071024_cyrusafrycrgxvii: Crawling routine initiated with URL: http://cyrusafrycrgxvii.onion
+2013-08-10_071024_cyrusafrycrgxvii: Waiting 45 seconds before launching
+2013-08-10_071233_cyrusafrycrgxvii: Crawling routine finished.
+
+2013-08-10_071256_cztb77otg7djnpgo: Crawling routine initiated with URL: http://cztb77otg7djnpgo.onion
+2013-08-10_071256_cztb77otg7djnpgo: Waiting 10 seconds before launching
+2013-08-10_071329_cztb77otg7djnpgo: Crawling routine finished.
+
+2013-08-10_071528_d34ozc7mfh6ycidi: Crawling routine initiated with URL: http://d34ozc7mfh6ycidi.onion
+2013-08-10_071528_d34ozc7mfh6ycidi: Waiting 50 seconds before launching
+2013-08-10_071717_d34ozc7mfh6ycidi: Crawling routine finished.
+
+2013-08-10_071800_d3ettcpzlta6azsm: Crawling routine initiated with URL: http://d3ettcpzlta6azsm.onion
+2013-08-10_071800_d3ettcpzlta6azsm: Waiting 25 seconds before launching
+2013-08-10_071900_d3ettcpzlta6azsm: Crawling routine finished.
+
+2013-08-10_072032_d3z7f2hmskzuirbs: Crawling routine initiated with URL: http://d3z7f2hmskzuirbs.onion
+2013-08-10_072032_d3z7f2hmskzuirbs: Waiting 41 seconds before launching
+2013-08-10_072203_d3z7f2hmskzuirbs: Crawling routine finished.
+
+2013-08-10_072304_d42bnvo6k5py7uwr: Crawling routine initiated with URL: http://d42bnvo6k5py7uwr.onion
+2013-08-10_072304_d42bnvo6k5py7uwr: Waiting 4 seconds before launching
+2013-08-10_072335_d42bnvo6k5py7uwr: Crawling routine finished.
+
+2013-08-10_072536_d46irpoo6xljwysz: Crawling routine initiated with URL: http://d46irpoo6xljwysz.onion
+2013-08-10_072536_d46irpoo6xljwysz: Waiting 7 seconds before launching
+2013-08-10_072612_d46irpoo6xljwysz: Crawling routine finished.
+
+2013-08-10_072808_d4vbn2d2xziq2spi: Crawling routine initiated with URL: http://d4vbn2d2xziq2spi.onion
+2013-08-10_072808_d4vbn2d2xziq2spi: Waiting 43 seconds before launching
+2013-08-10_072943_d4vbn2d2xziq2spi: Crawling routine finished.
+
+2013-08-10_073040_d6mbioyge4posl7r: Crawling routine initiated with URL: http://d6mbioyge4posl7r.onion
+2013-08-10_073040_d6mbioyge4posl7r: Waiting 2 seconds before launching
+2013-08-10_073056_d6mbioyge4posl7r: Crawling routine finished.
+
+2013-08-10_073312_d6xdsmsxgf377bcs: Crawling routine initiated with URL: http://d6xdsmsxgf377bcs.onion
+2013-08-10_073312_d6xdsmsxgf377bcs: Waiting 54 seconds before launching
+2013-08-10_073515_d6xdsmsxgf377bcs: Crawling routine finished.
+
+2013-08-10_073544_d7is52wmpb2cdprt: Crawling routine initiated with URL: http://d7is52wmpb2cdprt.onion
+2013-08-10_073544_d7is52wmpb2cdprt: Waiting 6 seconds before launching
+2013-08-10_073606_d7is52wmpb2cdprt: Crawling routine finished.
+
+2013-08-10_073816_d7ns2xnpvrggxjxn: Crawling routine initiated with URL: http://d7ns2xnpvrggxjxn.onion
+2013-08-10_073816_d7ns2xnpvrggxjxn: Waiting 15 seconds before launching
+2013-08-10_073955_d7ns2xnpvrggxjxn: Crawling routine finished.
+
+2013-08-10_074049_dazscrqiqitdxieu: Crawling routine initiated with URL: http://dazscrqiqitdxieu.onion
+2013-08-10_074049_dazscrqiqitdxieu: Waiting 11 seconds before launching
+2013-08-10_074125_dazscrqiqitdxieu: Crawling routine finished.
+
+2013-08-10_074321_dbelxif4olvrfyup: Crawling routine initiated with URL: http://dbelxif4olvrfyup.onion
+2013-08-10_074321_dbelxif4olvrfyup: Waiting 29 seconds before launching
+2013-08-10_074427_dbelxif4olvrfyup: Crawling routine finished.
+
+2013-08-10_074553_dbmv53j45pcv534x: Crawling routine initiated with URL: http://dbmv53j45pcv534x.onion
+2013-08-10_074553_dbmv53j45pcv534x: Waiting 53 seconds before launching
+2013-08-10_074743_dbmv53j45pcv534x: Crawling routine finished.
+
+2013-08-10_074825_dd3abg2yjyccdea7: Crawling routine initiated with URL: http://dd3abg2yjyccdea7.onion
+2013-08-10_074825_dd3abg2yjyccdea7: Waiting 41 seconds before launching
+2013-08-10_075004_dd3abg2yjyccdea7: Crawling routine finished.
+
+2013-08-10_075057_deca7jtl4bdd6g6z: Crawling routine initiated with URL: http://deca7jtl4bdd6g6z.onion
+2013-08-10_075057_deca7jtl4bdd6g6z: Waiting 3 seconds before launching
+2013-08-10_075109_deca7jtl4bdd6g6z: Crawling routine finished.
+
+2013-08-10_075329_deepbay4xr3sw2va: Crawling routine initiated with URL: http://deepbay4xr3sw2va.onion
+2013-08-10_075329_deepbay4xr3sw2va: Waiting 57 seconds before launching
+2013-08-10_075541_deepbay4xr3sw2va: Crawling routine finished.
+
+2013-08-10_075601_deeproadworksbwj: Crawling routine initiated with URL: http://deeproadworksbwj.onion
+2013-08-10_075601_deeproadworksbwj: Waiting 50 seconds before launching
+2013-08-10_075826_deeproadworksbwj: Crawling routine finished.
+
+2013-08-10_075833_defcon4pq77q63gy: Crawling routine initiated with URL: http://defcon4pq77q63gy.onion
+2013-08-10_075833_defcon4pq77q63gy: Waiting 51 seconds before launching
+2013-08-10_080024_defcon4pq77q63gy: Crawling routine finished.
+
+2013-08-10_080105_deurfnquin7mvni2: Crawling routine initiated with URL: http://deurfnquin7mvni2.onion
+2013-08-10_080105_deurfnquin7mvni2: Waiting 30 seconds before launching
+2013-08-10_080214_deurfnquin7mvni2: Crawling routine finished.
+
+2013-08-10_080337_df7cgezavrqsz6vm: Crawling routine initiated with URL: http://df7cgezavrqsz6vm.onion
+2013-08-10_080337_df7cgezavrqsz6vm: Waiting 42 seconds before launching
+2013-08-10_080506_df7cgezavrqsz6vm: Crawling routine finished.
+
+2013-08-10_080609_dfb2forv27w5ooze: Crawling routine initiated with URL: http://dfb2forv27w5ooze.onion
+2013-08-10_080609_dfb2forv27w5ooze: Waiting 40 seconds before launching
+2013-08-10_080751_dfb2forv27w5ooze: Crawling routine finished.
+
+2013-08-10_080841_dfx3opddg6fcdxvi: Crawling routine initiated with URL: http://dfx3opddg6fcdxvi.onion
+2013-08-10_080841_dfx3opddg6fcdxvi: Waiting 24 seconds before launching
+2013-08-10_080939_dfx3opddg6fcdxvi: Crawling routine finished.
+
+2013-08-10_081113_dg6exbqq42btatnw: Crawling routine initiated with URL: http://dg6exbqq42btatnw.onion
+2013-08-10_081113_dg6exbqq42btatnw: Waiting 56 seconds before launching
+2013-08-10_081505_dg6exbqq42btatnw: Crawling routine finished.
+
+2013-08-10_081617_dgaw7y4rmhtjjmlm: Crawling routine initiated with URL: http://dgaw7y4rmhtjjmlm.onion
+2013-08-10_081617_dgaw7y4rmhtjjmlm: Waiting 10 seconds before launching
+2013-08-10_081645_dgaw7y4rmhtjjmlm: Crawling routine finished.
+
+2013-08-10_081849_dhhqwh7thfjhploi: Crawling routine initiated with URL: http://dhhqwh7thfjhploi.onion
+2013-08-10_081849_dhhqwh7thfjhploi: Waiting 36 seconds before launching
+2013-08-10_082017_dhhqwh7thfjhploi: Crawling routine finished.
+
+2013-08-10_082121_dj3xtjynxuzrz32u: Crawling routine initiated with URL: http://dj3xtjynxuzrz32u.onion
+2013-08-10_082121_dj3xtjynxuzrz32u: Waiting 24 seconds before launching
+2013-08-10_082227_dj3xtjynxuzrz32u: Crawling routine finished.
+
+2013-08-10_082353_dkn255hz262ypmii: Crawling routine initiated with URL: http://dkn255hz262ypmii.onion
+2013-08-10_082353_dkn255hz262ypmii: Waiting 17 seconds before launching
+2013-08-14_184443_c3jemx2ube5v5zpg: Crawling routine finished.
