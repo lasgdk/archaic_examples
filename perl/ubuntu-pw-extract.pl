@@ -1,4 +1,4 @@
-<html><head><title>Ubuntu Breezy 5.10 Installer Password Disclosure Vulnerability</title></head><body><pre>#!/usr/bin/perl -w
+#!/usr/bin/perl -w
 
 use warnings;
 use strict;
@@ -9,6 +9,8 @@ use strict;
 # Overview: Ubuntu Breezy stores the installation password in plain text
 # Link: https://launchpad.net/distros/ubuntu/+source/shadow/+bug/34606
 ##############################################################################
+
+# Ubuntu Breezy 5.10 Installer Password Disclosure Vulnerability
 
 print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
 print "Kristian Hermansen's 'Eazy Breezy' Password Recovery Tool\n";
@@ -60,5 +62,4 @@ sub getinfo {
 }
 
 # milw0rm.com [2006-03-12]
-</pre>
-</body></html>
+
