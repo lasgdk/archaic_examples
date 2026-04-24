@@ -11,6 +11,26 @@ Dette dokument opsummerer en bred teknisk smoke-test af repository'et.
 - `javac -encoding ISO-8859-1` på alle `java/**/*.java`
 - `make` i mapper med `Makefile`
 
+## Indarbejdede rettelser (denne iteration)
+
+1. `misc/qrbg/randr_test.c`
+   - Rettede stavefejl i fejltekst: `arguements` -> `arguments`.
+   - Tilføjede validering af returværdi fra `getBytes(...)`.
+   - Tilføjede linjeskift efter hver buffer-udskrift for læsbar output.
+
+2. `c/uni_1sem_vand/tidtest.c`
+   - Erstattede ugyldig loop-betingelse (`while(buffer !=3)`) med en tæller-loop (`for ... < 3`).
+   - Fjernede ubrugt `buffer`-variabel.
+   - Tilføjede `#include <unistd.h>` for `sleep`.
+   - Rettede printf-format til `time_t` via cast til `long`.
+
+3. `python/examples/05_lists.py`
+   - Rettede kommentar-stavefejl: `dimentional` -> `dimensional`.
+   - Rettede kommentar-stavefejl: `extent the list` -> `extend the list`.
+
+4. `python/examples/python_examples.txt`
+   - Opdaterede den indlejrede kopi af `05_lists.py` med samme kommentar-rettelser.
+
 ## Resultat (overblik)
 
 - Python (python3): **3 pass / 15 fail**
@@ -19,6 +39,8 @@ Dette dokument opsummerer en bred teknisk smoke-test af repository'et.
 - C (syntaks): **115 pass / 22 fail**
 - Java: **12 pass / 17 fail**
 - Makefiles: **0/3 byggede succesfuldt**
+
+Disse tal er uændrede efter ovenstående målrettede rettelser, fordi hovedparten af fejlene skyldes legacy-kompatibilitet, miljøafhængigheder eller ikke-relaterede filer.
 
 ## Hvad virker
 
@@ -85,4 +107,3 @@ Dette dokument opsummerer en bred teknisk smoke-test af repository'et.
    - `misc/rsaplay`: flyt `-lm` til sidst i link-linjen.
    - `misc/Designing_BSD_Rootkits_own`: ret TAB-indryk.
    - `c/sorting_algorithms`: erstat `libc.h` med standard headers.
-

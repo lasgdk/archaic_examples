@@ -6,7 +6,7 @@ int main(int argc, char* argv[]) {
 	
 	if( argc!=3 )
 	{
-		printf("Give size and times as two arguements\n");
+		printf("Give size and times as two arguments\n");
 		exit(1);
 	}
 
@@ -27,10 +27,16 @@ int main(int argc, char* argv[]) {
 
 	for(j=1;j<=times;j++)
 	{
-		rndService.getBytes(buffer, size);
+		int bytesRead = rndService.getBytes(buffer, size);
+		if(bytesRead != size)
+		{
+			fprintf(stderr, "Failed to read expected number of bytes: got %d expected %d\n", bytesRead, size);
+			return 1;
+		}
 		for(i=0;i<=size-1;i++)
 		{
 			printf("%x",buffer[i]);
 		}
+		printf("\n");
 	}
 }
